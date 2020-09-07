@@ -1,6 +1,6 @@
 # Pokemon.json
 
-This repository provides a basic dataset of all Pokemons.
+This repository provides a basic dataset of all Pokemons made for educational purpose only
 
 ## File description
 
