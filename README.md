@@ -1,5 +1,7 @@
 # Pokemon.json
 
+[![Current Generation](https://img.shields.io/badge/Gen-7-blue)]()
+
 This repository provides a basic dataset of all Pokemons made for educational purpose only
 
 ## File description
