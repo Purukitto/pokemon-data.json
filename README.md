@@ -1,5 +1,6 @@
 # Pokemon.json
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/12aa5fbacc55418a9f5fc783a3c20469)](https://app.codacy.com/manual/purukitto/pokemon-data.json?utm_source=github.com&utm_medium=referral&utm_content=Purukitto/pokemon-data.json&utm_campaign=Badge_Grade_Dashboard)
 [![Current Generation](https://img.shields.io/badge/Gen-7-blue)]()
 
 This repository provides a basic dataset of all Pokemons made for educational purpose only
