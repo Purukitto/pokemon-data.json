@@ -9,14 +9,17 @@ This repository provides a basic dataset of all Pokemons, made for educational p
 
 ## File description
 
-- ### Images
-Contains images for all Pokemons upto Gen7
+- ### Pokedex
+Contains hires, lowres and sprites for all Pokemons upto Gen7
 
-- ### Sprites
-Contains sprites for all Pokemons upto Gen7
+    - #### Images
+    Contains images for all Pokemons upto Gen7
 
-- ### Thumbnails
-Contains lowres images for all Pokemons upto Gen7
+    - #### Sprites
+    Contains sprites for all Pokemons upto Gen7
+
+    - #### Thumbnails
+    Contains lowres images for all Pokemons upto Gen7
 
 - ### `items.json`
 JSON file with items
