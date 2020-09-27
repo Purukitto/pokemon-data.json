@@ -1,7 +1,9 @@
 # Pokemon.json
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/12aa5fbacc55418a9f5fc783a3c20469)](https://app.codacy.com/manual/purukitto/pokemon-data.json?utm_source=github.com&utm_medium=referral&utm_content=Purukitto/pokemon-data.json&utm_campaign=Badge_Grade_Dashboard)
-[![Current Generation](https://img.shields.io/badge/Generation-Updating_to_8-red)]()
+[![Current Generation](https://img.shields.io/badge/Generation-Updating_to_VIII-red)]()
+
+#### Generation VIII update will be resumed once the current issues are solved
 
 This repository provides a basic dataset of all Pokemons, made for educational purpose only.
 
@@ -9,7 +11,7 @@ This repository provides a basic dataset of all Pokemons, made for educational p
 
 ## File description
 
-- ### Pokedex [![Current Generation](https://img.shields.io/badge/Generation-7-blue)]()
+- ### Pokedex [![Current Generation](https://img.shields.io/badge/Generation-VII-blue)]()
 Contains hires, lowres and sprites for all Pokemons upto Gen7
  - #### Images
  Contains images for all Pokemons upto Gen7
@@ -20,20 +22,20 @@ Contains hires, lowres and sprites for all Pokemons upto Gen7
  - #### Thumbnails
  Contains lowres images for all Pokemons upto Gen7
 
-- ### `items.json` [![Current Generation](https://img.shields.io/badge/Generation-8-green)]()
+- ### `items.json` [![Current Generation](https://img.shields.io/badge/Generation-VIII-green)]()
 JSON file with items
 
-- ### `moves.json` [![Current Generation](https://img.shields.io/badge/Generation-7-blue)]()
+- ### `moves.json` [![Current Generation](https://img.shields.io/badge/Generation-VII-blue)]()
 JSON file with all Pokemon attacks updated upto Gen7
 
-- ### `pokedex.json` [![Current Generation](https://img.shields.io/badge/Generation-7-blue)]()
+- ### `pokedex.json` [![Current Generation](https://img.shields.io/badge/Generation-VII-blue)]()
 JSON file with non-derviable data about all Pokemon upto Gen7
 
-- ### `types.json` [![Current Generation](https://img.shields.io/badge/Generation-7-blue)]()
+- ### `types.json` [![Current Generation](https://img.shields.io/badge/Generation-VII-blue)]()
 All Pokemon types with effectiveness data
 
 ## Note
-This version is the currently maintained version of [@fanzeyi/pokemon.json](https://github.com/fanzeyi/pokemon.json) as it was archived by the original author.
+This repo used [@fanzeyi/pokemon.json](https://github.com/fanzeyi/pokemon.json) as a starting point.
 
 ## Copyright Notice
 
