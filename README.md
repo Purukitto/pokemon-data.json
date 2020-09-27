@@ -9,7 +9,7 @@ This repository provides a basic dataset of all Pokemons, made for educational p
 
 ## File description
 
-- ### Pokedex
+- ### Pokedex [![Current Generation](https://img.shields.io/badge/Generation-7-blue)]()
 Contains hires, lowres and sprites for all Pokemons upto Gen7
  - #### Images
  Contains images for all Pokemons upto Gen7
@@ -20,16 +20,16 @@ Contains hires, lowres and sprites for all Pokemons upto Gen7
  - #### Thumbnails
  Contains lowres images for all Pokemons upto Gen7
 
-- ### `items.json`
+- ### `items.json` [![Current Generation](https://img.shields.io/badge/Generation-8-green)]()
 JSON file with items
 
-- ### `moves.json`
+- ### `moves.json` [![Current Generation](https://img.shields.io/badge/Generation-7-blue)]()
 JSON file with all Pokemon attacks updated upto Gen7
 
-- ### `pokedex.json`
+- ### `pokedex.json` [![Current Generation](https://img.shields.io/badge/Generation-7-blue)]()
 JSON file with non-derviable data about all Pokemon upto Gen7
 
-- ### `types.json`
+- ### `types.json` [![Current Generation](https://img.shields.io/badge/Generation-7-blue)]()
 All Pokemon types with effectiveness data
 
 ## Note
