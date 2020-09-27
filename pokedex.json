@@ -14540,7 +14540,8 @@
         "Sp. Attack": 55,
         "Sp. Defense": 35,
         "Speed": 34
-    }
+    },
+    "species": "Hex Nut Pokémon"
 }, {
     "id": 809,
     "name": {
@@ -14557,5 +14558,6 @@
         "Sp. Attack": 80,
         "Sp. Defense": 65,
         "Speed": 34
-    }
+    },
+    "species": "Hex Nut Pokémon"
 }]
