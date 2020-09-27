@@ -19,7 +19,7 @@ Contains sprites for all Pokemons upto Gen7
 Contains lowres images for all Pokemons upto Gen7
 
 - ### `items.json`
-JSON file with iteams (Indexed)
+JSON file with items
 
 - ### `moves.json`
 JSON file with all Pokemon attacks updated upto Gen7
@@ -36,4 +36,4 @@ This version is the currently maintained version of [@fanzeyi/pokemon.json](http
 ## Copyright Notice
 
 Please note everything in repository are copyrighted by the Pokémon Company and its affiliates.
-This repository is merely a compilation of data collected by the editors of [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page).
+This repository is merely a compilation of data collected from sources like [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page).
