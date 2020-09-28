@@ -36,8 +36,7 @@ JSON file with non-derviable data about all Pokemon upto Gen7
 - ### `types.json` [![Current Generation](https://img.shields.io/badge/Generation-VII-blue)]()
 All Pokemon types with effectiveness data
 
-## Note
-This repo used [@fanzeyi/pokemon.json](https://github.com/fanzeyi/pokemon.json) as a starting point.
+#### This repo used [@fanzeyi/pokemon.json](https://github.com/fanzeyi/pokemon.json) as a starting point.
 
 ## Copyright Notice
 
