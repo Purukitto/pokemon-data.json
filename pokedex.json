@@ -25,7 +25,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "6.9 kg"
+        "weight": "6.9 kg",
+        "egg": ["Monster", "Grass"]
     }
 }, {
     "id": 2,
@@ -58,7 +59,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "13 kg"
+        "weight": "13 kg",
+        "egg": ["Monster", "Grass"]
     }
 }, {
     "id": 3,
@@ -87,7 +89,8 @@
     },
     "profile": {
         "height": "2 m",
-        "weight": "100 kg"
+        "weight": "100 kg",
+        "egg": ["Monster", "Grass"]
     }
 }, {
     "id": 4,
@@ -116,7 +119,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "8.5 kg"
+        "weight": "8.5 kg",
+        "egg": ["Monster", "Dragon"]
     }
 }, {
     "id": 5,
@@ -149,7 +153,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "19 kg"
+        "weight": "19 kg",
+        "egg": ["Monster", "Dragon"]
     }
 }, {
     "id": 6,
@@ -178,7 +183,8 @@
     },
     "profile": {
         "height": "1.7 m",
-        "weight": "90.5 kg"
+        "weight": "90.5 kg",
+        "egg": ["Monster", "Dragon"]
     }
 }, {
     "id": 7,
@@ -207,7 +213,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "9 kg"
+        "weight": "9 kg",
+        "egg": ["Monster", "Water 1"]
     }
 }, {
     "id": 8,
@@ -240,7 +247,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "22.5 kg"
+        "weight": "22.5 kg",
+        "egg": ["Monster", "Water 1"]
     }
 }, {
     "id": 9,
@@ -269,7 +277,8 @@
     },
     "profile": {
         "height": "1.6 m",
-        "weight": "85.5 kg"
+        "weight": "85.5 kg",
+        "egg": ["Monster", "Water 1"]
     }
 }, {
     "id": 10,
@@ -298,7 +307,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "2.9 kg"
+        "weight": "2.9 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 11,
@@ -331,7 +341,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "9.9 kg"
+        "weight": "9.9 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 12,
@@ -360,7 +371,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "32 kg"
+        "weight": "32 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 13,
@@ -389,7 +401,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "3.2 kg"
+        "weight": "3.2 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 14,
@@ -422,7 +435,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "10 kg"
+        "weight": "10 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 15,
@@ -451,7 +465,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "29.5 kg"
+        "weight": "29.5 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 16,
@@ -480,7 +495,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "1.8 kg"
+        "weight": "1.8 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 17,
@@ -513,7 +529,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "30 kg"
+        "weight": "30 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 18,
@@ -542,7 +559,8 @@
     },
     "profile": {
         "height": "1.5 m",
-        "weight": "39.5 kg"
+        "weight": "39.5 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 19,
@@ -571,7 +589,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "3.5 kg"
+        "weight": "3.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 20,
@@ -600,7 +619,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "18.5 kg"
+        "weight": "18.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 21,
@@ -629,7 +649,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "2 kg"
+        "weight": "2 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 22,
@@ -658,7 +679,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "38 kg"
+        "weight": "38 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 23,
@@ -687,7 +709,8 @@
     },
     "profile": {
         "height": "2 m",
-        "weight": "6.9 kg"
+        "weight": "6.9 kg",
+        "egg": ["Field", "Dragon"]
     }
 }, {
     "id": 24,
@@ -716,7 +739,8 @@
     },
     "profile": {
         "height": "3.5 m",
-        "weight": "65 kg"
+        "weight": "65 kg",
+        "egg": ["Field", "Dragon"]
     }
 }, {
     "id": 25,
@@ -749,7 +773,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "6 kg"
+        "weight": "6 kg",
+        "egg": ["Field", "Fairy"]
     }
 }, {
     "id": 26,
@@ -778,7 +803,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "30 kg"
+        "weight": "30 kg",
+        "egg": ["Field", "Fairy"]
     }
 }, {
     "id": 27,
@@ -807,7 +833,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "12 kg"
+        "weight": "12 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 28,
@@ -836,7 +863,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "29.5 kg"
+        "weight": "29.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 29,
@@ -865,7 +893,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "7 kg"
+        "weight": "7 kg",
+        "egg": ["Monster", "Field"]
     }
 }, {
     "id": 30,
@@ -898,7 +927,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "20 kg"
+        "weight": "20 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 31,
@@ -927,7 +957,8 @@
     },
     "profile": {
         "height": "1.3 m",
-        "weight": "60 kg"
+        "weight": "60 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 32,
@@ -956,7 +987,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "9 kg"
+        "weight": "9 kg",
+        "egg": ["Monster", "Field"]
     }
 }, {
     "id": 33,
@@ -989,7 +1021,8 @@
     },
     "profile": {
         "height": "0.9 m",
-        "weight": "19.5 kg"
+        "weight": "19.5 kg",
+        "egg": ["Monster", "Field"]
     }
 }, {
     "id": 34,
@@ -1018,7 +1051,8 @@
     },
     "profile": {
         "height": "1.4 m",
-        "weight": "62 kg"
+        "weight": "62 kg",
+        "egg": ["Monster", "Field"]
     }
 }, {
     "id": 35,
@@ -1051,7 +1085,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "7.5 kg"
+        "weight": "7.5 kg",
+        "egg": ["Fairy"]
     }
 }, {
     "id": 36,
@@ -1080,7 +1115,8 @@
     },
     "profile": {
         "height": "1.3 m",
-        "weight": "40 kg"
+        "weight": "40 kg",
+        "egg": ["Fairy"]
     }
 }, {
     "id": 37,
@@ -1109,7 +1145,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "9.9 kg"
+        "weight": "9.9 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 38,
@@ -1138,7 +1175,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "19.9 kg"
+        "weight": "19.9 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 39,
@@ -1171,7 +1209,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "5.5 kg"
+        "weight": "5.5 kg",
+        "egg": ["Fairy"]
     }
 }, {
     "id": 40,
@@ -1200,7 +1239,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "12 kg"
+        "weight": "12 kg",
+        "egg": ["Fairy"]
     }
 }, {
     "id": 41,
@@ -1229,7 +1269,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "7.5 kg"
+        "weight": "7.5 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 42,
@@ -1262,7 +1303,8 @@
     },
     "profile": {
         "height": "1.6 m",
-        "weight": "55 kg"
+        "weight": "55 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 43,
@@ -1291,7 +1333,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "5.4 kg"
+        "weight": "5.4 kg",
+        "egg": ["Grass"]
     }
 }, {
     "id": 44,
@@ -1328,7 +1371,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "8.6 kg"
+        "weight": "8.6 kg",
+        "egg": ["Grass"]
     }
 }, {
     "id": 45,
@@ -1357,7 +1401,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "18.6 kg"
+        "weight": "18.6 kg",
+        "egg": ["Grass"]
     }
 }, {
     "id": 46,
@@ -1386,7 +1431,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "5.4 kg"
+        "weight": "5.4 kg",
+        "egg": ["Bug", "Grass"]
     }
 }, {
     "id": 47,
@@ -1415,7 +1461,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "29.5 kg"
+        "weight": "29.5 kg",
+        "egg": ["Bug", "Grass"]
     }
 }, {
     "id": 48,
@@ -1444,7 +1491,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "30 kg"
+        "weight": "30 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 49,
@@ -1473,7 +1521,8 @@
     },
     "profile": {
         "height": "1.5 m",
-        "weight": "12.5 kg"
+        "weight": "12.5 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 50,
@@ -1502,7 +1551,8 @@
     },
     "profile": {
         "height": "0.2 m",
-        "weight": "0.8 kg"
+        "weight": "0.8 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 51,
@@ -1531,7 +1581,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "33.3 kg"
+        "weight": "33.3 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 52,
@@ -1560,7 +1611,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "4.2 kg"
+        "weight": "4.2 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 53,
@@ -1589,7 +1641,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "32 kg"
+        "weight": "32 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 54,
@@ -1618,7 +1671,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "19.6 kg"
+        "weight": "19.6 kg",
+        "egg": ["Water 1", "Field"]
     }
 }, {
     "id": 55,
@@ -1647,7 +1701,8 @@
     },
     "profile": {
         "height": "1.7 m",
-        "weight": "76.6 kg"
+        "weight": "76.6 kg",
+        "egg": ["Water 1", "Field"]
     }
 }, {
     "id": 56,
@@ -1676,7 +1731,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "28 kg"
+        "weight": "28 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 57,
@@ -1705,7 +1761,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "32 kg"
+        "weight": "32 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 58,
@@ -1734,7 +1791,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "19 kg"
+        "weight": "19 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 59,
@@ -1763,7 +1821,8 @@
     },
     "profile": {
         "height": "1.9 m",
-        "weight": "155 kg"
+        "weight": "155 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 60,
@@ -1792,7 +1851,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "12.4 kg"
+        "weight": "12.4 kg",
+        "egg": ["Water 1"]
     }
 }, {
     "id": 61,
@@ -1829,7 +1889,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "20 kg"
+        "weight": "20 kg",
+        "egg": ["Water 1"]
     }
 }, {
     "id": 62,
@@ -1858,7 +1919,8 @@
     },
     "profile": {
         "height": "1.3 m",
-        "weight": "54 kg"
+        "weight": "54 kg",
+        "egg": ["Water 1"]
     }
 }, {
     "id": 63,
@@ -1887,7 +1949,8 @@
     },
     "profile": {
         "height": "0.9 m",
-        "weight": "19.5 kg"
+        "weight": "19.5 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 64,
@@ -1920,7 +1983,8 @@
     },
     "profile": {
         "height": "1.3 m",
-        "weight": "56.5 kg"
+        "weight": "56.5 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 65,
@@ -1949,7 +2013,8 @@
     },
     "profile": {
         "height": "1.5 m",
-        "weight": "48 kg"
+        "weight": "48 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 66,
@@ -1978,7 +2043,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "19.5 kg"
+        "weight": "19.5 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 67,
@@ -2011,7 +2077,8 @@
     },
     "profile": {
         "height": "1.5 m",
-        "weight": "70.5 kg"
+        "weight": "70.5 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 68,
@@ -2040,7 +2107,8 @@
     },
     "profile": {
         "height": "1.6 m",
-        "weight": "130 kg"
+        "weight": "130 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 69,
@@ -2069,7 +2137,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "4 kg"
+        "weight": "4 kg",
+        "egg": ["Grass"]
     }
 }, {
     "id": 70,
@@ -2102,7 +2171,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "6.4 kg"
+        "weight": "6.4 kg",
+        "egg": ["Grass"]
     }
 }, {
     "id": 71,
@@ -2131,7 +2201,8 @@
     },
     "profile": {
         "height": "1.7 m",
-        "weight": "15.5 kg"
+        "weight": "15.5 kg",
+        "egg": ["Grass"]
     }
 }, {
     "id": 72,
@@ -2160,7 +2231,8 @@
     },
     "profile": {
         "height": "0.9 m",
-        "weight": "45.5 kg"
+        "weight": "45.5 kg",
+        "egg": ["Water 3"]
     }
 }, {
     "id": 73,
@@ -2189,7 +2261,8 @@
     },
     "profile": {
         "height": "1.6 m",
-        "weight": "55 kg"
+        "weight": "55 kg",
+        "egg": ["Water 3"]
     }
 }, {
     "id": 74,
@@ -2218,7 +2291,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "20 kg"
+        "weight": "20 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 75,
@@ -2251,7 +2325,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "105 kg"
+        "weight": "105 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 76,
@@ -2280,7 +2355,8 @@
     },
     "profile": {
         "height": "1.4 m",
-        "weight": "300 kg"
+        "weight": "300 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 77,
@@ -2309,7 +2385,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "30 kg"
+        "weight": "30 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 78,
@@ -2338,7 +2415,8 @@
     },
     "profile": {
         "height": "1.7 m",
-        "weight": "95 kg"
+        "weight": "95 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 79,
@@ -2371,7 +2449,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "36 kg"
+        "weight": "36 kg",
+        "egg": ["Monster", "Water 1"]
     }
 }, {
     "id": 80,
@@ -2400,7 +2479,8 @@
     },
     "profile": {
         "height": "1.6 m",
-        "weight": "78.5 kg"
+        "weight": "78.5 kg",
+        "egg": ["Monster", "Water 1"]
     }
 }, {
     "id": 81,
@@ -2429,7 +2509,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "6 kg"
+        "weight": "6 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 82,
@@ -2462,7 +2543,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "60 kg"
+        "weight": "60 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 83,
@@ -2486,7 +2568,8 @@
     "evolution": {},
     "profile": {
         "height": "0.8 m",
-        "weight": "15 kg"
+        "weight": "15 kg",
+        "egg": ["Flying", "Field"]
     }
 }, {
     "id": 84,
@@ -2515,7 +2598,8 @@
     },
     "profile": {
         "height": "1.4 m",
-        "weight": "39.2 kg"
+        "weight": "39.2 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 85,
@@ -2544,7 +2628,8 @@
     },
     "profile": {
         "height": "1.8 m",
-        "weight": "85.2 kg"
+        "weight": "85.2 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 86,
@@ -2573,7 +2658,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "90 kg"
+        "weight": "90 kg",
+        "egg": ["Water 1", "Field"]
     }
 }, {
     "id": 87,
@@ -2602,7 +2688,8 @@
     },
     "profile": {
         "height": "1.7 m",
-        "weight": "120 kg"
+        "weight": "120 kg",
+        "egg": ["Water 1", "Field"]
     }
 }, {
     "id": 88,
@@ -2631,7 +2718,8 @@
     },
     "profile": {
         "height": "0.9 m",
-        "weight": "30 kg"
+        "weight": "30 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 89,
@@ -2660,7 +2748,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "30 kg"
+        "weight": "30 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 90,
@@ -2689,7 +2778,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "4 kg"
+        "weight": "4 kg",
+        "egg": ["Water 3"]
     }
 }, {
     "id": 91,
@@ -2718,7 +2808,8 @@
     },
     "profile": {
         "height": "1.5 m",
-        "weight": "132.5 kg"
+        "weight": "132.5 kg",
+        "egg": ["Water 3"]
     }
 }, {
     "id": 92,
@@ -2747,7 +2838,8 @@
     },
     "profile": {
         "height": "1.3 m",
-        "weight": "0.1 kg"
+        "weight": "0.1 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 93,
@@ -2780,7 +2872,8 @@
     },
     "profile": {
         "height": "1.6 m",
-        "weight": "0.1 kg"
+        "weight": "0.1 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 94,
@@ -2809,7 +2902,8 @@
     },
     "profile": {
         "height": "1.5 m",
-        "weight": "40.5 kg"
+        "weight": "40.5 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 95,
@@ -2838,7 +2932,8 @@
     },
     "profile": {
         "height": "8.8 m",
-        "weight": "210 kg"
+        "weight": "210 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 96,
@@ -2867,7 +2962,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "32.4 kg"
+        "weight": "32.4 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 97,
@@ -2896,7 +2992,8 @@
     },
     "profile": {
         "height": "1.6 m",
-        "weight": "75.6 kg"
+        "weight": "75.6 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 98,
@@ -2925,7 +3022,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "6.5 kg"
+        "weight": "6.5 kg",
+        "egg": ["Water 3"]
     }
 }, {
     "id": 99,
@@ -2954,7 +3052,8 @@
     },
     "profile": {
         "height": "1.3 m",
-        "weight": "60 kg"
+        "weight": "60 kg",
+        "egg": ["Water 3"]
     }
 }, {
     "id": 100,
@@ -2983,7 +3082,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "10.4 kg"
+        "weight": "10.4 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 101,
@@ -3012,7 +3112,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "66.6 kg"
+        "weight": "66.6 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 102,
@@ -3041,7 +3142,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "2.5 kg"
+        "weight": "2.5 kg",
+        "egg": ["Grass"]
     }
 }, {
     "id": 103,
@@ -3070,7 +3172,8 @@
     },
     "profile": {
         "height": "2 m",
-        "weight": "120 kg"
+        "weight": "120 kg",
+        "egg": ["Grass"]
     }
 }, {
     "id": 104,
@@ -3099,7 +3202,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "6.5 kg"
+        "weight": "6.5 kg",
+        "egg": ["Monster"]
     }
 }, {
     "id": 105,
@@ -3128,7 +3232,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "45 kg"
+        "weight": "45 kg",
+        "egg": ["Monster"]
     }
 }, {
     "id": 106,
@@ -3157,7 +3262,8 @@
     },
     "profile": {
         "height": "1.5 m",
-        "weight": "49.8 kg"
+        "weight": "49.8 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 107,
@@ -3186,7 +3292,8 @@
     },
     "profile": {
         "height": "1.4 m",
-        "weight": "50.2 kg"
+        "weight": "50.2 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 108,
@@ -3215,7 +3322,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "65.5 kg"
+        "weight": "65.5 kg",
+        "egg": ["Monster"]
     }
 }, {
     "id": 109,
@@ -3244,7 +3352,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "1 kg"
+        "weight": "1 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 110,
@@ -3273,7 +3382,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "9.5 kg"
+        "weight": "9.5 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 111,
@@ -3302,7 +3412,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "115 kg"
+        "weight": "115 kg",
+        "egg": ["Monster", "Field"]
     }
 }, {
     "id": 112,
@@ -3335,7 +3446,8 @@
     },
     "profile": {
         "height": "1.9 m",
-        "weight": "120 kg"
+        "weight": "120 kg",
+        "egg": ["Monster", "Field"]
     }
 }, {
     "id": 113,
@@ -3368,7 +3480,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "34.6 kg"
+        "weight": "34.6 kg",
+        "egg": ["Fairy"]
     }
 }, {
     "id": 114,
@@ -3397,7 +3510,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "35 kg"
+        "weight": "35 kg",
+        "egg": ["Grass"]
     }
 }, {
     "id": 115,
@@ -3421,7 +3535,8 @@
     "evolution": {},
     "profile": {
         "height": "2.2 m",
-        "weight": "80 kg"
+        "weight": "80 kg",
+        "egg": ["Monster"]
     }
 }, {
     "id": 116,
@@ -3450,7 +3565,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "8 kg"
+        "weight": "8 kg",
+        "egg": ["Water 1", "Dragon"]
     }
 }, {
     "id": 117,
@@ -3483,7 +3599,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "25 kg"
+        "weight": "25 kg",
+        "egg": ["Water 1", "Dragon"]
     }
 }, {
     "id": 118,
@@ -3512,7 +3629,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "15 kg"
+        "weight": "15 kg",
+        "egg": ["Water 2"]
     }
 }, {
     "id": 119,
@@ -3541,7 +3659,8 @@
     },
     "profile": {
         "height": "1.3 m",
-        "weight": "39 kg"
+        "weight": "39 kg",
+        "egg": ["Water 2"]
     }
 }, {
     "id": 120,
@@ -3570,7 +3689,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "34.5 kg"
+        "weight": "34.5 kg",
+        "egg": ["Water 3"]
     }
 }, {
     "id": 121,
@@ -3599,7 +3719,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "80 kg"
+        "weight": "80 kg",
+        "egg": ["Water 3"]
     }
 }, {
     "id": 122,
@@ -3628,7 +3749,8 @@
     },
     "profile": {
         "height": "1.3 m",
-        "weight": "54.5 kg"
+        "weight": "54.5 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 123,
@@ -3657,7 +3779,8 @@
     },
     "profile": {
         "height": "1.5 m",
-        "weight": "56 kg"
+        "weight": "56 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 124,
@@ -3686,7 +3809,8 @@
     },
     "profile": {
         "height": "1.4 m",
-        "weight": "40.6 kg"
+        "weight": "40.6 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 125,
@@ -3719,7 +3843,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "30 kg"
+        "weight": "30 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 126,
@@ -3752,7 +3877,8 @@
     },
     "profile": {
         "height": "1.3 m",
-        "weight": "44.5 kg"
+        "weight": "44.5 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 127,
@@ -3776,7 +3902,8 @@
     "evolution": {},
     "profile": {
         "height": "1.5 m",
-        "weight": "55 kg"
+        "weight": "55 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 128,
@@ -3800,7 +3927,8 @@
     "evolution": {},
     "profile": {
         "height": "1.4 m",
-        "weight": "88.4 kg"
+        "weight": "88.4 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 129,
@@ -3829,7 +3957,8 @@
     },
     "profile": {
         "height": "0.9 m",
-        "weight": "10 kg"
+        "weight": "10 kg",
+        "egg": ["Water 2", "Dragon"]
     }
 }, {
     "id": 130,
@@ -3858,7 +3987,8 @@
     },
     "profile": {
         "height": "6.5 m",
-        "weight": "235 kg"
+        "weight": "235 kg",
+        "egg": ["Water 2", "Dragon"]
     }
 }, {
     "id": 131,
@@ -3882,7 +4012,8 @@
     "evolution": {},
     "profile": {
         "height": "2.5 m",
-        "weight": "220 kg"
+        "weight": "220 kg",
+        "egg": ["Monster", "Water 1"]
     }
 }, {
     "id": 132,
@@ -3906,7 +4037,8 @@
     "evolution": {},
     "profile": {
         "height": "0.3 m",
-        "weight": "4 kg"
+        "weight": "4 kg",
+        "egg": ["Ditto"]
     }
 }, {
     "id": 133,
@@ -3963,7 +4095,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "6.5 kg"
+        "weight": "6.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 134,
@@ -3992,7 +4125,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "29 kg"
+        "weight": "29 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 135,
@@ -4021,7 +4155,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "24.5 kg"
+        "weight": "24.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 136,
@@ -4050,7 +4185,8 @@
     },
     "profile": {
         "height": "0.9 m",
-        "weight": "25 kg"
+        "weight": "25 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 137,
@@ -4079,7 +4215,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "36.5 kg"
+        "weight": "36.5 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 138,
@@ -4108,7 +4245,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "7.5 kg"
+        "weight": "7.5 kg",
+        "egg": ["Water 1", "Water 3"]
     }
 }, {
     "id": 139,
@@ -4137,7 +4275,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "35 kg"
+        "weight": "35 kg",
+        "egg": ["Water 1", "Water 3"]
     }
 }, {
     "id": 140,
@@ -4166,7 +4305,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "11.5 kg"
+        "weight": "11.5 kg",
+        "egg": ["Water 1", "Water 3"]
     }
 }, {
     "id": 141,
@@ -4195,7 +4335,8 @@
     },
     "profile": {
         "height": "1.3 m",
-        "weight": "40.5 kg"
+        "weight": "40.5 kg",
+        "egg": ["Water 1", "Water 3"]
     }
 }, {
     "id": 142,
@@ -4219,7 +4360,8 @@
     "evolution": {},
     "profile": {
         "height": "1.8 m",
-        "weight": "59 kg"
+        "weight": "59 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 143,
@@ -4248,7 +4390,8 @@
     },
     "profile": {
         "height": "2.1 m",
-        "weight": "460 kg"
+        "weight": "460 kg",
+        "egg": ["Monster"]
     }
 }, {
     "id": 144,
@@ -4272,7 +4415,8 @@
     "evolution": {},
     "profile": {
         "height": "1.7 m",
-        "weight": "55.4 kg"
+        "weight": "55.4 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 145,
@@ -4296,7 +4440,8 @@
     "evolution": {},
     "profile": {
         "height": "1.6 m",
-        "weight": "52.6 kg"
+        "weight": "52.6 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 146,
@@ -4320,7 +4465,8 @@
     "evolution": {},
     "profile": {
         "height": "2 m",
-        "weight": "60 kg"
+        "weight": "60 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 147,
@@ -4349,7 +4495,8 @@
     },
     "profile": {
         "height": "1.8 m",
-        "weight": "3.3 kg"
+        "weight": "3.3 kg",
+        "egg": ["Water 1", "Dragon"]
     }
 }, {
     "id": 148,
@@ -4382,7 +4529,8 @@
     },
     "profile": {
         "height": "4 m",
-        "weight": "16.5 kg"
+        "weight": "16.5 kg",
+        "egg": ["Water 1", "Dragon"]
     }
 }, {
     "id": 149,
@@ -4411,7 +4559,8 @@
     },
     "profile": {
         "height": "2.2 m",
-        "weight": "210 kg"
+        "weight": "210 kg",
+        "egg": ["Water 1", "Dragon"]
     }
 }, {
     "id": 150,
@@ -4435,7 +4584,8 @@
     "evolution": {},
     "profile": {
         "height": "2 m",
-        "weight": "122 kg"
+        "weight": "122 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 151,
@@ -4459,7 +4609,8 @@
     "evolution": {},
     "profile": {
         "height": "0.4 m",
-        "weight": "4 kg"
+        "weight": "4 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 152,
@@ -4488,7 +4639,8 @@
     },
     "profile": {
         "height": "0.9 m",
-        "weight": "6.4 kg"
+        "weight": "6.4 kg",
+        "egg": ["Monster", "Grass"]
     }
 }, {
     "id": 153,
@@ -4521,7 +4673,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "15.8 kg"
+        "weight": "15.8 kg",
+        "egg": ["Monster", "Grass"]
     }
 }, {
     "id": 154,
@@ -4550,7 +4703,8 @@
     },
     "profile": {
         "height": "1.8 m",
-        "weight": "100.5 kg"
+        "weight": "100.5 kg",
+        "egg": ["Monster", "Grass"]
     }
 }, {
     "id": 155,
@@ -4579,7 +4733,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "7.9 kg"
+        "weight": "7.9 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 156,
@@ -4612,7 +4767,8 @@
     },
     "profile": {
         "height": "0.9 m",
-        "weight": "19 kg"
+        "weight": "19 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 157,
@@ -4641,7 +4797,8 @@
     },
     "profile": {
         "height": "1.7 m",
-        "weight": "79.5 kg"
+        "weight": "79.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 158,
@@ -4670,7 +4827,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "9.5 kg"
+        "weight": "9.5 kg",
+        "egg": ["Monster", "Water 1"]
     }
 }, {
     "id": 159,
@@ -4703,7 +4861,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "25 kg"
+        "weight": "25 kg",
+        "egg": ["Monster", "Water 1"]
     }
 }, {
     "id": 160,
@@ -4732,7 +4891,8 @@
     },
     "profile": {
         "height": "2.3 m",
-        "weight": "88.8 kg"
+        "weight": "88.8 kg",
+        "egg": ["Monster", "Water 1"]
     }
 }, {
     "id": 161,
@@ -4761,7 +4921,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "6 kg"
+        "weight": "6 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 162,
@@ -4790,7 +4951,8 @@
     },
     "profile": {
         "height": "1.8 m",
-        "weight": "32.5 kg"
+        "weight": "32.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 163,
@@ -4819,7 +4981,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "21.2 kg"
+        "weight": "21.2 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 164,
@@ -4848,7 +5011,8 @@
     },
     "profile": {
         "height": "1.6 m",
-        "weight": "40.8 kg"
+        "weight": "40.8 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 165,
@@ -4877,7 +5041,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "10.8 kg"
+        "weight": "10.8 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 166,
@@ -4906,7 +5071,8 @@
     },
     "profile": {
         "height": "1.4 m",
-        "weight": "35.6 kg"
+        "weight": "35.6 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 167,
@@ -4935,7 +5101,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "8.5 kg"
+        "weight": "8.5 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 168,
@@ -4964,7 +5131,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "33.5 kg"
+        "weight": "33.5 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 169,
@@ -4993,7 +5161,8 @@
     },
     "profile": {
         "height": "1.8 m",
-        "weight": "75 kg"
+        "weight": "75 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 170,
@@ -5022,7 +5191,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "12 kg"
+        "weight": "12 kg",
+        "egg": ["Water 2"]
     }
 }, {
     "id": 171,
@@ -5051,7 +5221,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "22.5 kg"
+        "weight": "22.5 kg",
+        "egg": ["Water 2"]
     }
 }, {
     "id": 172,
@@ -5080,7 +5251,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "2 kg"
+        "weight": "2 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 173,
@@ -5109,7 +5281,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "3 kg"
+        "weight": "3 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 174,
@@ -5138,7 +5311,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "1 kg"
+        "weight": "1 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 175,
@@ -5167,7 +5341,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "1.5 kg"
+        "weight": "1.5 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 176,
@@ -5200,7 +5375,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "3.2 kg"
+        "weight": "3.2 kg",
+        "egg": ["Flying", "Fairy"]
     }
 }, {
     "id": 177,
@@ -5229,7 +5405,8 @@
     },
     "profile": {
         "height": "0.2 m",
-        "weight": "2 kg"
+        "weight": "2 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 178,
@@ -5258,7 +5435,8 @@
     },
     "profile": {
         "height": "1.5 m",
-        "weight": "15 kg"
+        "weight": "15 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 179,
@@ -5287,7 +5465,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "7.8 kg"
+        "weight": "7.8 kg",
+        "egg": ["Monster", "Field"]
     }
 }, {
     "id": 180,
@@ -5320,7 +5499,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "13.3 kg"
+        "weight": "13.3 kg",
+        "egg": ["Monster", "Field"]
     }
 }, {
     "id": 181,
@@ -5349,7 +5529,8 @@
     },
     "profile": {
         "height": "1.4 m",
-        "weight": "61.5 kg"
+        "weight": "61.5 kg",
+        "egg": ["Monster", "Field"]
     }
 }, {
     "id": 182,
@@ -5378,7 +5559,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "5.8 kg"
+        "weight": "5.8 kg",
+        "egg": ["Grass"]
     }
 }, {
     "id": 183,
@@ -5411,7 +5593,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "8.5 kg"
+        "weight": "8.5 kg",
+        "egg": ["Water 1", "Fairy"]
     }
 }, {
     "id": 184,
@@ -5440,7 +5623,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "28.5 kg"
+        "weight": "28.5 kg",
+        "egg": ["Water 1", "Fairy"]
     }
 }, {
     "id": 185,
@@ -5469,7 +5653,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "38 kg"
+        "weight": "38 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 186,
@@ -5498,7 +5683,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "33.9 kg"
+        "weight": "33.9 kg",
+        "egg": ["Water 1"]
     }
 }, {
     "id": 187,
@@ -5527,7 +5713,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "0.5 kg"
+        "weight": "0.5 kg",
+        "egg": ["Fairy", "Grass"]
     }
 }, {
     "id": 188,
@@ -5560,7 +5747,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "1 kg"
+        "weight": "1 kg",
+        "egg": ["Fairy", "Grass"]
     }
 }, {
     "id": 189,
@@ -5589,7 +5777,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "3 kg"
+        "weight": "3 kg",
+        "egg": ["Fairy", "Grass"]
     }
 }, {
     "id": 190,
@@ -5618,7 +5807,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "11.5 kg"
+        "weight": "11.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 191,
@@ -5647,7 +5837,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "1.8 kg"
+        "weight": "1.8 kg",
+        "egg": ["Grass"]
     }
 }, {
     "id": 192,
@@ -5676,7 +5867,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "8.5 kg"
+        "weight": "8.5 kg",
+        "egg": ["Grass"]
     }
 }, {
     "id": 193,
@@ -5705,7 +5897,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "38 kg"
+        "weight": "38 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 194,
@@ -5734,7 +5927,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "8.5 kg"
+        "weight": "8.5 kg",
+        "egg": ["Water 1", "Field"]
     }
 }, {
     "id": 195,
@@ -5763,7 +5957,8 @@
     },
     "profile": {
         "height": "1.4 m",
-        "weight": "75 kg"
+        "weight": "75 kg",
+        "egg": ["Water 1", "Field"]
     }
 }, {
     "id": 196,
@@ -5792,7 +5987,8 @@
     },
     "profile": {
         "height": "0.9 m",
-        "weight": "26.5 kg"
+        "weight": "26.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 197,
@@ -5821,7 +6017,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "27 kg"
+        "weight": "27 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 198,
@@ -5850,7 +6047,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "2.1 kg"
+        "weight": "2.1 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 199,
@@ -5879,7 +6077,8 @@
     },
     "profile": {
         "height": "2 m",
-        "weight": "79.5 kg"
+        "weight": "79.5 kg",
+        "egg": ["Monster", "Water 1"]
     }
 }, {
     "id": 200,
@@ -5908,7 +6107,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "1 kg"
+        "weight": "1 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 201,
@@ -5932,7 +6132,8 @@
     "evolution": {},
     "profile": {
         "height": "0.5 m",
-        "weight": "5 kg"
+        "weight": "5 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 202,
@@ -5961,7 +6162,8 @@
     },
     "profile": {
         "height": "1.3 m",
-        "weight": "28.5 kg"
+        "weight": "28.5 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 203,
@@ -5985,7 +6187,8 @@
     "evolution": {},
     "profile": {
         "height": "1.5 m",
-        "weight": "41.5 kg"
+        "weight": "41.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 204,
@@ -6014,7 +6217,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "7.2 kg"
+        "weight": "7.2 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 205,
@@ -6043,7 +6247,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "125.8 kg"
+        "weight": "125.8 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 206,
@@ -6067,7 +6272,8 @@
     "evolution": {},
     "profile": {
         "height": "1.5 m",
-        "weight": "14 kg"
+        "weight": "14 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 207,
@@ -6096,7 +6302,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "64.8 kg"
+        "weight": "64.8 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 208,
@@ -6125,7 +6332,8 @@
     },
     "profile": {
         "height": "9.2 m",
-        "weight": "400 kg"
+        "weight": "400 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 209,
@@ -6154,7 +6362,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "7.8 kg"
+        "weight": "7.8 kg",
+        "egg": ["Field", "Fairy"]
     }
 }, {
     "id": 210,
@@ -6183,7 +6392,8 @@
     },
     "profile": {
         "height": "1.4 m",
-        "weight": "48.7 kg"
+        "weight": "48.7 kg",
+        "egg": ["Field", "Fairy"]
     }
 }, {
     "id": 211,
@@ -6207,7 +6417,8 @@
     "evolution": {},
     "profile": {
         "height": "0.5 m",
-        "weight": "3.9 kg"
+        "weight": "3.9 kg",
+        "egg": ["Water 2"]
     }
 }, {
     "id": 212,
@@ -6236,7 +6447,8 @@
     },
     "profile": {
         "height": "1.8 m",
-        "weight": "118 kg"
+        "weight": "118 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 213,
@@ -6260,7 +6472,8 @@
     "evolution": {},
     "profile": {
         "height": "0.6 m",
-        "weight": "20.5 kg"
+        "weight": "20.5 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 214,
@@ -6284,7 +6497,8 @@
     "evolution": {},
     "profile": {
         "height": "1.5 m",
-        "weight": "54 kg"
+        "weight": "54 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 215,
@@ -6313,7 +6527,8 @@
     },
     "profile": {
         "height": "0.9 m",
-        "weight": "28 kg"
+        "weight": "28 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 216,
@@ -6342,7 +6557,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "8.8 kg"
+        "weight": "8.8 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 217,
@@ -6371,7 +6587,8 @@
     },
     "profile": {
         "height": "1.8 m",
-        "weight": "125.8 kg"
+        "weight": "125.8 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 218,
@@ -6400,7 +6617,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "35 kg"
+        "weight": "35 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 219,
@@ -6429,7 +6647,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "55 kg"
+        "weight": "55 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 220,
@@ -6458,7 +6677,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "6.5 kg"
+        "weight": "6.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 221,
@@ -6491,7 +6711,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "55.8 kg"
+        "weight": "55.8 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 222,
@@ -6515,7 +6736,8 @@
     "evolution": {},
     "profile": {
         "height": "0.6 m",
-        "weight": "5 kg"
+        "weight": "5 kg",
+        "egg": ["Water 1", "Water 3"]
     }
 }, {
     "id": 223,
@@ -6544,7 +6766,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "12 kg"
+        "weight": "12 kg",
+        "egg": ["Water 1", "Water 2"]
     }
 }, {
     "id": 224,
@@ -6573,7 +6796,8 @@
     },
     "profile": {
         "height": "0.9 m",
-        "weight": "28.5 kg"
+        "weight": "28.5 kg",
+        "egg": ["Water 1", "Water 2"]
     }
 }, {
     "id": 225,
@@ -6597,7 +6821,8 @@
     "evolution": {},
     "profile": {
         "height": "0.9 m",
-        "weight": "16 kg"
+        "weight": "16 kg",
+        "egg": ["Water 1", "Field"]
     }
 }, {
     "id": 226,
@@ -6626,7 +6851,8 @@
     },
     "profile": {
         "height": "2.1 m",
-        "weight": "220 kg"
+        "weight": "220 kg",
+        "egg": ["Water 1"]
     }
 }, {
     "id": 227,
@@ -6650,7 +6876,8 @@
     "evolution": {},
     "profile": {
         "height": "1.7 m",
-        "weight": "50.5 kg"
+        "weight": "50.5 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 228,
@@ -6679,7 +6906,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "10.8 kg"
+        "weight": "10.8 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 229,
@@ -6708,7 +6936,8 @@
     },
     "profile": {
         "height": "1.4 m",
-        "weight": "35 kg"
+        "weight": "35 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 230,
@@ -6737,7 +6966,8 @@
     },
     "profile": {
         "height": "1.8 m",
-        "weight": "152 kg"
+        "weight": "152 kg",
+        "egg": ["Water 1", "Dragon"]
     }
 }, {
     "id": 231,
@@ -6766,7 +6996,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "33.5 kg"
+        "weight": "33.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 232,
@@ -6795,7 +7026,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "120 kg"
+        "weight": "120 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 233,
@@ -6828,7 +7060,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "32.5 kg"
+        "weight": "32.5 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 234,
@@ -6852,7 +7085,8 @@
     "evolution": {},
     "profile": {
         "height": "1.4 m",
-        "weight": "71.2 kg"
+        "weight": "71.2 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 235,
@@ -6876,7 +7110,8 @@
     "evolution": {},
     "profile": {
         "height": "1.2 m",
-        "weight": "58 kg"
+        "weight": "58 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 236,
@@ -6913,7 +7148,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "21 kg"
+        "weight": "21 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 237,
@@ -6942,7 +7178,8 @@
     },
     "profile": {
         "height": "1.4 m",
-        "weight": "48 kg"
+        "weight": "48 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 238,
@@ -6971,7 +7208,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "6 kg"
+        "weight": "6 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 239,
@@ -7000,7 +7238,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "23.5 kg"
+        "weight": "23.5 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 240,
@@ -7029,7 +7268,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "21.4 kg"
+        "weight": "21.4 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 241,
@@ -7053,7 +7293,8 @@
     "evolution": {},
     "profile": {
         "height": "1.2 m",
-        "weight": "75.5 kg"
+        "weight": "75.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 242,
@@ -7082,7 +7323,8 @@
     },
     "profile": {
         "height": "1.5 m",
-        "weight": "46.8 kg"
+        "weight": "46.8 kg",
+        "egg": ["Fairy"]
     }
 }, {
     "id": 243,
@@ -7106,7 +7348,8 @@
     "evolution": {},
     "profile": {
         "height": "1.9 m",
-        "weight": "178 kg"
+        "weight": "178 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 244,
@@ -7130,7 +7373,8 @@
     "evolution": {},
     "profile": {
         "height": "2.1 m",
-        "weight": "198 kg"
+        "weight": "198 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 245,
@@ -7154,7 +7398,8 @@
     "evolution": {},
     "profile": {
         "height": "2 m",
-        "weight": "187 kg"
+        "weight": "187 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 246,
@@ -7183,7 +7428,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "72 kg"
+        "weight": "72 kg",
+        "egg": ["Monster"]
     }
 }, {
     "id": 247,
@@ -7216,7 +7462,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "152 kg"
+        "weight": "152 kg",
+        "egg": ["Monster"]
     }
 }, {
     "id": 248,
@@ -7245,7 +7492,8 @@
     },
     "profile": {
         "height": "2 m",
-        "weight": "202 kg"
+        "weight": "202 kg",
+        "egg": ["Monster"]
     }
 }, {
     "id": 249,
@@ -7269,7 +7517,8 @@
     "evolution": {},
     "profile": {
         "height": "5.2 m",
-        "weight": "216 kg"
+        "weight": "216 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 250,
@@ -7293,7 +7542,8 @@
     "evolution": {},
     "profile": {
         "height": "3.8 m",
-        "weight": "199 kg"
+        "weight": "199 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 251,
@@ -7317,7 +7567,8 @@
     "evolution": {},
     "profile": {
         "height": "0.6 m",
-        "weight": "5 kg"
+        "weight": "5 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 252,
@@ -7346,7 +7597,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "5 kg"
+        "weight": "5 kg",
+        "egg": ["Monster", "Dragon"]
     }
 }, {
     "id": 253,
@@ -7379,7 +7631,8 @@
     },
     "profile": {
         "height": "0.9 m",
-        "weight": "21.6 kg"
+        "weight": "21.6 kg",
+        "egg": ["Monster", "Dragon"]
     }
 }, {
     "id": 254,
@@ -7408,7 +7661,8 @@
     },
     "profile": {
         "height": "1.7 m",
-        "weight": "52.2 kg"
+        "weight": "52.2 kg",
+        "egg": ["Monster", "Dragon"]
     }
 }, {
     "id": 255,
@@ -7437,7 +7691,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "2.5 kg"
+        "weight": "2.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 256,
@@ -7470,7 +7725,8 @@
     },
     "profile": {
         "height": "0.9 m",
-        "weight": "19.5 kg"
+        "weight": "19.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 257,
@@ -7499,7 +7755,8 @@
     },
     "profile": {
         "height": "1.9 m",
-        "weight": "52 kg"
+        "weight": "52 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 258,
@@ -7528,7 +7785,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "7.6 kg"
+        "weight": "7.6 kg",
+        "egg": ["Monster", "Water 1"]
     }
 }, {
     "id": 259,
@@ -7561,7 +7819,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "28 kg"
+        "weight": "28 kg",
+        "egg": ["Monster", "Water 1"]
     }
 }, {
     "id": 260,
@@ -7590,7 +7849,8 @@
     },
     "profile": {
         "height": "1.5 m",
-        "weight": "81.9 kg"
+        "weight": "81.9 kg",
+        "egg": ["Monster", "Water 1"]
     }
 }, {
     "id": 261,
@@ -7619,7 +7879,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "13.6 kg"
+        "weight": "13.6 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 262,
@@ -7648,7 +7909,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "37 kg"
+        "weight": "37 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 263,
@@ -7677,7 +7939,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "17.5 kg"
+        "weight": "17.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 264,
@@ -7710,7 +7973,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "32.5 kg"
+        "weight": "32.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 265,
@@ -7743,7 +8007,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "3.6 kg"
+        "weight": "3.6 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 266,
@@ -7776,7 +8041,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "10 kg"
+        "weight": "10 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 267,
@@ -7805,7 +8071,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "28.4 kg"
+        "weight": "28.4 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 268,
@@ -7838,7 +8105,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "11.5 kg"
+        "weight": "11.5 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 269,
@@ -7867,7 +8135,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "31.6 kg"
+        "weight": "31.6 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 270,
@@ -7896,7 +8165,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "2.6 kg"
+        "weight": "2.6 kg",
+        "egg": ["Water 1", "Grass"]
     }
 }, {
     "id": 271,
@@ -7929,7 +8199,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "32.5 kg"
+        "weight": "32.5 kg",
+        "egg": ["Water 1", "Grass"]
     }
 }, {
     "id": 272,
@@ -7958,7 +8229,8 @@
     },
     "profile": {
         "height": "1.5 m",
-        "weight": "55 kg"
+        "weight": "55 kg",
+        "egg": ["Water 1", "Grass"]
     }
 }, {
     "id": 273,
@@ -7987,7 +8259,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "4 kg"
+        "weight": "4 kg",
+        "egg": ["Field", "Grass"]
     }
 }, {
     "id": 274,
@@ -8020,7 +8293,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "28 kg"
+        "weight": "28 kg",
+        "egg": ["Field", "Grass"]
     }
 }, {
     "id": 275,
@@ -8049,7 +8323,8 @@
     },
     "profile": {
         "height": "1.3 m",
-        "weight": "59.6 kg"
+        "weight": "59.6 kg",
+        "egg": ["Field", "Grass"]
     }
 }, {
     "id": 276,
@@ -8078,7 +8353,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "2.3 kg"
+        "weight": "2.3 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 277,
@@ -8107,7 +8383,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "19.8 kg"
+        "weight": "19.8 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 278,
@@ -8136,7 +8413,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "9.5 kg"
+        "weight": "9.5 kg",
+        "egg": ["Water 1", "Flying"]
     }
 }, {
     "id": 279,
@@ -8165,7 +8443,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "28 kg"
+        "weight": "28 kg",
+        "egg": ["Water 1", "Flying"]
     }
 }, {
     "id": 280,
@@ -8194,7 +8473,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "6.6 kg"
+        "weight": "6.6 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 281,
@@ -8227,7 +8507,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "20.2 kg"
+        "weight": "20.2 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 282,
@@ -8256,7 +8537,8 @@
     },
     "profile": {
         "height": "1.6 m",
-        "weight": "48.4 kg"
+        "weight": "48.4 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 283,
@@ -8285,7 +8567,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "1.7 kg"
+        "weight": "1.7 kg",
+        "egg": ["Water 1", "Bug"]
     }
 }, {
     "id": 284,
@@ -8314,7 +8597,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "3.6 kg"
+        "weight": "3.6 kg",
+        "egg": ["Water 1", "Bug"]
     }
 }, {
     "id": 285,
@@ -8343,7 +8627,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "4.5 kg"
+        "weight": "4.5 kg",
+        "egg": ["Fairy", "Grass"]
     }
 }, {
     "id": 286,
@@ -8372,7 +8657,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "39.2 kg"
+        "weight": "39.2 kg",
+        "egg": ["Fairy", "Grass"]
     }
 }, {
     "id": 287,
@@ -8401,7 +8687,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "24 kg"
+        "weight": "24 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 288,
@@ -8434,7 +8721,8 @@
     },
     "profile": {
         "height": "1.4 m",
-        "weight": "46.5 kg"
+        "weight": "46.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 289,
@@ -8463,7 +8751,8 @@
     },
     "profile": {
         "height": "2 m",
-        "weight": "130.5 kg"
+        "weight": "130.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 290,
@@ -8496,7 +8785,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "5.5 kg"
+        "weight": "5.5 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 291,
@@ -8525,7 +8815,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "12 kg"
+        "weight": "12 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 292,
@@ -8554,7 +8845,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "1.2 kg"
+        "weight": "1.2 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 293,
@@ -8583,7 +8875,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "16.3 kg"
+        "weight": "16.3 kg",
+        "egg": ["Monster", "Field"]
     }
 }, {
     "id": 294,
@@ -8616,7 +8909,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "40.5 kg"
+        "weight": "40.5 kg",
+        "egg": ["Monster", "Field"]
     }
 }, {
     "id": 295,
@@ -8645,7 +8939,8 @@
     },
     "profile": {
         "height": "1.5 m",
-        "weight": "84 kg"
+        "weight": "84 kg",
+        "egg": ["Monster", "Field"]
     }
 }, {
     "id": 296,
@@ -8674,7 +8969,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "86.4 kg"
+        "weight": "86.4 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 297,
@@ -8703,7 +8999,8 @@
     },
     "profile": {
         "height": "2.3 m",
-        "weight": "253.8 kg"
+        "weight": "253.8 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 298,
@@ -8732,7 +9029,8 @@
     },
     "profile": {
         "height": "0.2 m",
-        "weight": "2 kg"
+        "weight": "2 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 299,
@@ -8761,7 +9059,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "97 kg"
+        "weight": "97 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 300,
@@ -8790,7 +9089,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "11 kg"
+        "weight": "11 kg",
+        "egg": ["Field", "Fairy"]
     }
 }, {
     "id": 301,
@@ -8819,7 +9119,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "32.6 kg"
+        "weight": "32.6 kg",
+        "egg": ["Field", "Fairy"]
     }
 }, {
     "id": 302,
@@ -8843,7 +9144,8 @@
     "evolution": {},
     "profile": {
         "height": "0.5 m",
-        "weight": "11 kg"
+        "weight": "11 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 303,
@@ -8867,7 +9169,8 @@
     "evolution": {},
     "profile": {
         "height": "0.6 m",
-        "weight": "11.5 kg"
+        "weight": "11.5 kg",
+        "egg": ["Field", "Fairy"]
     }
 }, {
     "id": 304,
@@ -8896,7 +9199,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "60 kg"
+        "weight": "60 kg",
+        "egg": ["Monster"]
     }
 }, {
     "id": 305,
@@ -8929,7 +9233,8 @@
     },
     "profile": {
         "height": "0.9 m",
-        "weight": "120 kg"
+        "weight": "120 kg",
+        "egg": ["Monster"]
     }
 }, {
     "id": 306,
@@ -8958,7 +9263,8 @@
     },
     "profile": {
         "height": "2.1 m",
-        "weight": "360 kg"
+        "weight": "360 kg",
+        "egg": ["Monster"]
     }
 }, {
     "id": 307,
@@ -8987,7 +9293,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "11.2 kg"
+        "weight": "11.2 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 308,
@@ -9016,7 +9323,8 @@
     },
     "profile": {
         "height": "1.3 m",
-        "weight": "31.5 kg"
+        "weight": "31.5 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 309,
@@ -9045,7 +9353,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "15.2 kg"
+        "weight": "15.2 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 310,
@@ -9074,7 +9383,8 @@
     },
     "profile": {
         "height": "1.5 m",
-        "weight": "40.2 kg"
+        "weight": "40.2 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 311,
@@ -9098,7 +9408,8 @@
     "evolution": {},
     "profile": {
         "height": "0.4 m",
-        "weight": "4.2 kg"
+        "weight": "4.2 kg",
+        "egg": ["Fairy"]
     }
 }, {
     "id": 312,
@@ -9122,7 +9433,8 @@
     "evolution": {},
     "profile": {
         "height": "0.4 m",
-        "weight": "4.2 kg"
+        "weight": "4.2 kg",
+        "egg": ["Fairy"]
     }
 }, {
     "id": 313,
@@ -9146,7 +9458,8 @@
     "evolution": {},
     "profile": {
         "height": "0.7 m",
-        "weight": "17.7 kg"
+        "weight": "17.7 kg",
+        "egg": ["Bug", "Human-Like"]
     }
 }, {
     "id": 314,
@@ -9170,7 +9483,8 @@
     "evolution": {},
     "profile": {
         "height": "0.6 m",
-        "weight": "17.7 kg"
+        "weight": "17.7 kg",
+        "egg": ["Bug", "Human-Like"]
     }
 }, {
     "id": 315,
@@ -9203,7 +9517,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "2 kg"
+        "weight": "2 kg",
+        "egg": ["Fairy", "Grass"]
     }
 }, {
     "id": 316,
@@ -9232,7 +9547,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "10.3 kg"
+        "weight": "10.3 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 317,
@@ -9261,7 +9577,8 @@
     },
     "profile": {
         "height": "1.7 m",
-        "weight": "80 kg"
+        "weight": "80 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 318,
@@ -9290,7 +9607,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "20.8 kg"
+        "weight": "20.8 kg",
+        "egg": ["Water 2"]
     }
 }, {
     "id": 319,
@@ -9319,7 +9637,8 @@
     },
     "profile": {
         "height": "1.8 m",
-        "weight": "88.8 kg"
+        "weight": "88.8 kg",
+        "egg": ["Water 2"]
     }
 }, {
     "id": 320,
@@ -9348,7 +9667,8 @@
     },
     "profile": {
         "height": "2 m",
-        "weight": "130 kg"
+        "weight": "130 kg",
+        "egg": ["Field", "Water 2"]
     }
 }, {
     "id": 321,
@@ -9377,7 +9697,8 @@
     },
     "profile": {
         "height": "14.5 m",
-        "weight": "398 kg"
+        "weight": "398 kg",
+        "egg": ["Field", "Water 2"]
     }
 }, {
     "id": 322,
@@ -9406,7 +9727,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "24 kg"
+        "weight": "24 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 323,
@@ -9435,7 +9757,8 @@
     },
     "profile": {
         "height": "1.9 m",
-        "weight": "220 kg"
+        "weight": "220 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 324,
@@ -9459,7 +9782,8 @@
     "evolution": {},
     "profile": {
         "height": "0.5 m",
-        "weight": "80.4 kg"
+        "weight": "80.4 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 325,
@@ -9488,7 +9812,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "30.6 kg"
+        "weight": "30.6 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 326,
@@ -9517,7 +9842,8 @@
     },
     "profile": {
         "height": "0.9 m",
-        "weight": "71.5 kg"
+        "weight": "71.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 327,
@@ -9541,7 +9867,8 @@
     "evolution": {},
     "profile": {
         "height": "1.1 m",
-        "weight": "5 kg"
+        "weight": "5 kg",
+        "egg": ["Field", "Human-Like"]
     }
 }, {
     "id": 328,
@@ -9570,7 +9897,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "15 kg"
+        "weight": "15 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 329,
@@ -9603,7 +9931,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "15.3 kg"
+        "weight": "15.3 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 330,
@@ -9632,7 +9961,8 @@
     },
     "profile": {
         "height": "2 m",
-        "weight": "82 kg"
+        "weight": "82 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 331,
@@ -9661,7 +9991,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "51.3 kg"
+        "weight": "51.3 kg",
+        "egg": ["Grass", "Human-Like"]
     }
 }, {
     "id": 332,
@@ -9690,7 +10021,8 @@
     },
     "profile": {
         "height": "1.3 m",
-        "weight": "77.4 kg"
+        "weight": "77.4 kg",
+        "egg": ["Grass", "Human-Like"]
     }
 }, {
     "id": 333,
@@ -9719,7 +10051,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "1.2 kg"
+        "weight": "1.2 kg",
+        "egg": ["Flying", "Dragon"]
     }
 }, {
     "id": 334,
@@ -9748,7 +10081,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "20.6 kg"
+        "weight": "20.6 kg",
+        "egg": ["Flying", "Dragon"]
     }
 }, {
     "id": 335,
@@ -9772,7 +10106,8 @@
     "evolution": {},
     "profile": {
         "height": "1.3 m",
-        "weight": "40.3 kg"
+        "weight": "40.3 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 336,
@@ -9796,7 +10131,8 @@
     "evolution": {},
     "profile": {
         "height": "2.7 m",
-        "weight": "52.5 kg"
+        "weight": "52.5 kg",
+        "egg": ["Field", "Dragon"]
     }
 }, {
     "id": 337,
@@ -9820,7 +10156,8 @@
     "evolution": {},
     "profile": {
         "height": "1 m",
-        "weight": "168 kg"
+        "weight": "168 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 338,
@@ -9844,7 +10181,8 @@
     "evolution": {},
     "profile": {
         "height": "1.2 m",
-        "weight": "154 kg"
+        "weight": "154 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 339,
@@ -9873,7 +10211,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "1.9 kg"
+        "weight": "1.9 kg",
+        "egg": ["Water 2"]
     }
 }, {
     "id": 340,
@@ -9902,7 +10241,8 @@
     },
     "profile": {
         "height": "0.9 m",
-        "weight": "23.6 kg"
+        "weight": "23.6 kg",
+        "egg": ["Water 2"]
     }
 }, {
     "id": 341,
@@ -9931,7 +10271,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "11.5 kg"
+        "weight": "11.5 kg",
+        "egg": ["Water 1", "Water 3"]
     }
 }, {
     "id": 342,
@@ -9960,7 +10301,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "32.8 kg"
+        "weight": "32.8 kg",
+        "egg": ["Water 1", "Water 3"]
     }
 }, {
     "id": 343,
@@ -9989,7 +10331,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "21.5 kg"
+        "weight": "21.5 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 344,
@@ -10018,7 +10361,8 @@
     },
     "profile": {
         "height": "1.5 m",
-        "weight": "108 kg"
+        "weight": "108 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 345,
@@ -10047,7 +10391,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "23.8 kg"
+        "weight": "23.8 kg",
+        "egg": ["Water 3"]
     }
 }, {
     "id": 346,
@@ -10076,7 +10421,8 @@
     },
     "profile": {
         "height": "1.5 m",
-        "weight": "60.4 kg"
+        "weight": "60.4 kg",
+        "egg": ["Water 3"]
     }
 }, {
     "id": 347,
@@ -10105,7 +10451,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "12.5 kg"
+        "weight": "12.5 kg",
+        "egg": ["Water 3"]
     }
 }, {
     "id": 348,
@@ -10134,7 +10481,8 @@
     },
     "profile": {
         "height": "1.5 m",
-        "weight": "68.2 kg"
+        "weight": "68.2 kg",
+        "egg": ["Water 3"]
     }
 }, {
     "id": 349,
@@ -10163,7 +10511,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "7.4 kg"
+        "weight": "7.4 kg",
+        "egg": ["Water 1", "Dragon"]
     }
 }, {
     "id": 350,
@@ -10192,7 +10541,8 @@
     },
     "profile": {
         "height": "6.2 m",
-        "weight": "162 kg"
+        "weight": "162 kg",
+        "egg": ["Water 1", "Dragon"]
     }
 }, {
     "id": 351,
@@ -10216,7 +10566,8 @@
     "evolution": {},
     "profile": {
         "height": "0.3 m",
-        "weight": "0.8 kg"
+        "weight": "0.8 kg",
+        "egg": ["Fairy", "Amorphous"]
     }
 }, {
     "id": 352,
@@ -10240,7 +10591,8 @@
     "evolution": {},
     "profile": {
         "height": "1 m",
-        "weight": "22 kg"
+        "weight": "22 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 353,
@@ -10269,7 +10621,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "2.3 kg"
+        "weight": "2.3 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 354,
@@ -10298,7 +10651,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "12.5 kg"
+        "weight": "12.5 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 355,
@@ -10327,7 +10681,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "15 kg"
+        "weight": "15 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 356,
@@ -10360,7 +10715,8 @@
     },
     "profile": {
         "height": "1.6 m",
-        "weight": "30.6 kg"
+        "weight": "30.6 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 357,
@@ -10384,7 +10740,8 @@
     "evolution": {},
     "profile": {
         "height": "2 m",
-        "weight": "100 kg"
+        "weight": "100 kg",
+        "egg": ["Monster", "Grass"]
     }
 }, {
     "id": 358,
@@ -10413,7 +10770,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "1 kg"
+        "weight": "1 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 359,
@@ -10437,7 +10795,8 @@
     "evolution": {},
     "profile": {
         "height": "1.2 m",
-        "weight": "47 kg"
+        "weight": "47 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 360,
@@ -10466,7 +10825,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "14 kg"
+        "weight": "14 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 361,
@@ -10499,7 +10859,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "16.8 kg"
+        "weight": "16.8 kg",
+        "egg": ["Fairy", "Mineral"]
     }
 }, {
     "id": 362,
@@ -10528,7 +10889,8 @@
     },
     "profile": {
         "height": "1.5 m",
-        "weight": "256.5 kg"
+        "weight": "256.5 kg",
+        "egg": ["Fairy", "Mineral"]
     }
 }, {
     "id": 363,
@@ -10557,7 +10919,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "39.5 kg"
+        "weight": "39.5 kg",
+        "egg": ["Water 1", "Field"]
     }
 }, {
     "id": 364,
@@ -10590,7 +10953,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "87.6 kg"
+        "weight": "87.6 kg",
+        "egg": ["Water 1", "Field"]
     }
 }, {
     "id": 365,
@@ -10619,7 +10983,8 @@
     },
     "profile": {
         "height": "1.4 m",
-        "weight": "150.6 kg"
+        "weight": "150.6 kg",
+        "egg": ["Water 1", "Field"]
     }
 }, {
     "id": 366,
@@ -10652,7 +11017,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "52.5 kg"
+        "weight": "52.5 kg",
+        "egg": ["Water 1"]
     }
 }, {
     "id": 367,
@@ -10681,7 +11047,8 @@
     },
     "profile": {
         "height": "1.7 m",
-        "weight": "27 kg"
+        "weight": "27 kg",
+        "egg": ["Water 1"]
     }
 }, {
     "id": 368,
@@ -10710,7 +11077,8 @@
     },
     "profile": {
         "height": "1.8 m",
-        "weight": "22.6 kg"
+        "weight": "22.6 kg",
+        "egg": ["Water 1"]
     }
 }, {
     "id": 369,
@@ -10734,7 +11102,8 @@
     "evolution": {},
     "profile": {
         "height": "1 m",
-        "weight": "23.4 kg"
+        "weight": "23.4 kg",
+        "egg": ["Water 1", "Water 2"]
     }
 }, {
     "id": 370,
@@ -10758,7 +11127,8 @@
     "evolution": {},
     "profile": {
         "height": "0.6 m",
-        "weight": "8.7 kg"
+        "weight": "8.7 kg",
+        "egg": ["Water 2"]
     }
 }, {
     "id": 371,
@@ -10787,7 +11157,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "42.1 kg"
+        "weight": "42.1 kg",
+        "egg": ["Dragon"]
     }
 }, {
     "id": 372,
@@ -10820,7 +11191,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "110.5 kg"
+        "weight": "110.5 kg",
+        "egg": ["Dragon"]
     }
 }, {
     "id": 373,
@@ -10849,7 +11221,8 @@
     },
     "profile": {
         "height": "1.5 m",
-        "weight": "102.6 kg"
+        "weight": "102.6 kg",
+        "egg": ["Dragon"]
     }
 }, {
     "id": 374,
@@ -10878,7 +11251,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "95.2 kg"
+        "weight": "95.2 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 375,
@@ -10911,7 +11285,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "202.5 kg"
+        "weight": "202.5 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 376,
@@ -10940,7 +11315,8 @@
     },
     "profile": {
         "height": "1.6 m",
-        "weight": "550 kg"
+        "weight": "550 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 377,
@@ -10964,7 +11340,8 @@
     "evolution": {},
     "profile": {
         "height": "1.7 m",
-        "weight": "230 kg"
+        "weight": "230 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 378,
@@ -10988,7 +11365,8 @@
     "evolution": {},
     "profile": {
         "height": "1.8 m",
-        "weight": "175 kg"
+        "weight": "175 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 379,
@@ -11012,7 +11390,8 @@
     "evolution": {},
     "profile": {
         "height": "1.9 m",
-        "weight": "205 kg"
+        "weight": "205 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 380,
@@ -11036,7 +11415,8 @@
     "evolution": {},
     "profile": {
         "height": "1.4 m",
-        "weight": "40 kg"
+        "weight": "40 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 381,
@@ -11060,7 +11440,8 @@
     "evolution": {},
     "profile": {
         "height": "2 m",
-        "weight": "60 kg"
+        "weight": "60 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 382,
@@ -11084,7 +11465,8 @@
     "evolution": {},
     "profile": {
         "height": "4.5 m",
-        "weight": "352 kg"
+        "weight": "352 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 383,
@@ -11108,7 +11490,8 @@
     "evolution": {},
     "profile": {
         "height": "3.5 m",
-        "weight": "950 kg"
+        "weight": "950 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 384,
@@ -11132,7 +11515,8 @@
     "evolution": {},
     "profile": {
         "height": "7 m",
-        "weight": "206.5 kg"
+        "weight": "206.5 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 385,
@@ -11156,7 +11540,8 @@
     "evolution": {},
     "profile": {
         "height": "0.3 m",
-        "weight": "1.1 kg"
+        "weight": "1.1 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 386,
@@ -11180,7 +11565,8 @@
     "evolution": {},
     "profile": {
         "height": "1.7 m",
-        "weight": "60.8 kg"
+        "weight": "60.8 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 387,
@@ -11209,7 +11595,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "10.2 kg"
+        "weight": "10.2 kg",
+        "egg": ["Monster", "Grass"]
     }
 }, {
     "id": 388,
@@ -11242,7 +11629,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "97 kg"
+        "weight": "97 kg",
+        "egg": ["Monster", "Grass"]
     }
 }, {
     "id": 389,
@@ -11271,7 +11659,8 @@
     },
     "profile": {
         "height": "2.2 m",
-        "weight": "310 kg"
+        "weight": "310 kg",
+        "egg": ["Monster", "Grass"]
     }
 }, {
     "id": 390,
@@ -11300,7 +11689,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "6.2 kg"
+        "weight": "6.2 kg",
+        "egg": ["Field", "Human-Like"]
     }
 }, {
     "id": 391,
@@ -11333,7 +11723,8 @@
     },
     "profile": {
         "height": "0.9 m",
-        "weight": "22 kg"
+        "weight": "22 kg",
+        "egg": ["Field", "Human-Like"]
     }
 }, {
     "id": 392,
@@ -11362,7 +11753,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "55 kg"
+        "weight": "55 kg",
+        "egg": ["Field", "Human-Like"]
     }
 }, {
     "id": 393,
@@ -11391,7 +11783,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "5.2 kg"
+        "weight": "5.2 kg",
+        "egg": ["Water 1", "Field"]
     }
 }, {
     "id": 394,
@@ -11424,7 +11817,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "23 kg"
+        "weight": "23 kg",
+        "egg": ["Water 1", "Field"]
     }
 }, {
     "id": 395,
@@ -11453,7 +11847,8 @@
     },
     "profile": {
         "height": "1.7 m",
-        "weight": "84.5 kg"
+        "weight": "84.5 kg",
+        "egg": ["Water 1", "Field"]
     }
 }, {
     "id": 396,
@@ -11482,7 +11877,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "2 kg"
+        "weight": "2 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 397,
@@ -11515,7 +11911,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "15.5 kg"
+        "weight": "15.5 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 398,
@@ -11544,7 +11941,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "24.9 kg"
+        "weight": "24.9 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 399,
@@ -11573,7 +11971,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "20 kg"
+        "weight": "20 kg",
+        "egg": ["Water 1", "Field"]
     }
 }, {
     "id": 400,
@@ -11602,7 +12001,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "31.5 kg"
+        "weight": "31.5 kg",
+        "egg": ["Water 1", "Field"]
     }
 }, {
     "id": 401,
@@ -11631,7 +12031,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "2.2 kg"
+        "weight": "2.2 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 402,
@@ -11660,7 +12061,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "25.5 kg"
+        "weight": "25.5 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 403,
@@ -11689,7 +12091,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "9.5 kg"
+        "weight": "9.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 404,
@@ -11722,7 +12125,8 @@
     },
     "profile": {
         "height": "0.9 m",
-        "weight": "30.5 kg"
+        "weight": "30.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 405,
@@ -11751,7 +12155,8 @@
     },
     "profile": {
         "height": "1.4 m",
-        "weight": "42 kg"
+        "weight": "42 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 406,
@@ -11780,7 +12185,8 @@
     },
     "profile": {
         "height": "0.2 m",
-        "weight": "1.2 kg"
+        "weight": "1.2 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 407,
@@ -11809,7 +12215,8 @@
     },
     "profile": {
         "height": "0.9 m",
-        "weight": "14.5 kg"
+        "weight": "14.5 kg",
+        "egg": ["Fairy", "Grass"]
     }
 }, {
     "id": 408,
@@ -11838,7 +12245,8 @@
     },
     "profile": {
         "height": "0.9 m",
-        "weight": "31.5 kg"
+        "weight": "31.5 kg",
+        "egg": ["Monster"]
     }
 }, {
     "id": 409,
@@ -11867,7 +12275,8 @@
     },
     "profile": {
         "height": "1.6 m",
-        "weight": "102.5 kg"
+        "weight": "102.5 kg",
+        "egg": ["Monster"]
     }
 }, {
     "id": 410,
@@ -11896,7 +12305,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "57 kg"
+        "weight": "57 kg",
+        "egg": ["Monster"]
     }
 }, {
     "id": 411,
@@ -11925,7 +12335,8 @@
     },
     "profile": {
         "height": "1.3 m",
-        "weight": "149.5 kg"
+        "weight": "149.5 kg",
+        "egg": ["Monster"]
     }
 }, {
     "id": 412,
@@ -11958,7 +12369,8 @@
     },
     "profile": {
         "height": "0.2 m",
-        "weight": "3.4 kg"
+        "weight": "3.4 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 413,
@@ -11987,7 +12399,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "6.5 kg"
+        "weight": "6.5 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 414,
@@ -12016,7 +12429,8 @@
     },
     "profile": {
         "height": "0.9 m",
-        "weight": "23.3 kg"
+        "weight": "23.3 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 415,
@@ -12045,7 +12459,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "5.5 kg"
+        "weight": "5.5 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 416,
@@ -12074,7 +12489,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "38.5 kg"
+        "weight": "38.5 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 417,
@@ -12098,7 +12514,8 @@
     "evolution": {},
     "profile": {
         "height": "0.4 m",
-        "weight": "3.9 kg"
+        "weight": "3.9 kg",
+        "egg": ["Field", "Fairy"]
     }
 }, {
     "id": 418,
@@ -12127,7 +12544,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "29.5 kg"
+        "weight": "29.5 kg",
+        "egg": ["Water 1", "Field"]
     }
 }, {
     "id": 419,
@@ -12156,7 +12574,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "33.5 kg"
+        "weight": "33.5 kg",
+        "egg": ["Water 1", "Field"]
     }
 }, {
     "id": 420,
@@ -12185,7 +12604,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "3.3 kg"
+        "weight": "3.3 kg",
+        "egg": ["Fairy", "Grass"]
     }
 }, {
     "id": 421,
@@ -12214,7 +12634,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "9.3 kg"
+        "weight": "9.3 kg",
+        "egg": ["Fairy", "Grass"]
     }
 }, {
     "id": 422,
@@ -12243,7 +12664,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "6.3 kg"
+        "weight": "6.3 kg",
+        "egg": ["Water 1", "Amorphous"]
     }
 }, {
     "id": 423,
@@ -12272,7 +12694,8 @@
     },
     "profile": {
         "height": "0.9 m",
-        "weight": "29.9 kg"
+        "weight": "29.9 kg",
+        "egg": ["Water 1", "Amorphous"]
     }
 }, {
     "id": 424,
@@ -12301,7 +12724,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "20.3 kg"
+        "weight": "20.3 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 425,
@@ -12330,7 +12754,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "1.2 kg"
+        "weight": "1.2 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 426,
@@ -12359,7 +12784,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "15 kg"
+        "weight": "15 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 427,
@@ -12388,7 +12814,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "5.5 kg"
+        "weight": "5.5 kg",
+        "egg": ["Field", "Human-Like"]
     }
 }, {
     "id": 428,
@@ -12417,7 +12844,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "33.3 kg"
+        "weight": "33.3 kg",
+        "egg": ["Field", "Human-Like"]
     }
 }, {
     "id": 429,
@@ -12446,7 +12874,8 @@
     },
     "profile": {
         "height": "0.9 m",
-        "weight": "4.4 kg"
+        "weight": "4.4 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 430,
@@ -12475,7 +12904,8 @@
     },
     "profile": {
         "height": "0.9 m",
-        "weight": "27.3 kg"
+        "weight": "27.3 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 431,
@@ -12504,7 +12934,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "3.9 kg"
+        "weight": "3.9 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 432,
@@ -12533,7 +12964,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "43.8 kg"
+        "weight": "43.8 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 433,
@@ -12562,7 +12994,8 @@
     },
     "profile": {
         "height": "0.2 m",
-        "weight": "0.6 kg"
+        "weight": "0.6 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 434,
@@ -12591,7 +13024,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "19.2 kg"
+        "weight": "19.2 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 435,
@@ -12620,7 +13054,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "38 kg"
+        "weight": "38 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 436,
@@ -12649,7 +13084,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "60.5 kg"
+        "weight": "60.5 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 437,
@@ -12678,7 +13114,8 @@
     },
     "profile": {
         "height": "1.3 m",
-        "weight": "187 kg"
+        "weight": "187 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 438,
@@ -12707,7 +13144,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "15 kg"
+        "weight": "15 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 439,
@@ -12736,7 +13174,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "13 kg"
+        "weight": "13 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 440,
@@ -12765,7 +13204,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "24.4 kg"
+        "weight": "24.4 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 441,
@@ -12789,7 +13229,8 @@
     "evolution": {},
     "profile": {
         "height": "0.5 m",
-        "weight": "1.9 kg"
+        "weight": "1.9 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 442,
@@ -12813,7 +13254,8 @@
     "evolution": {},
     "profile": {
         "height": "1 m",
-        "weight": "108 kg"
+        "weight": "108 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 443,
@@ -12842,7 +13284,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "20.5 kg"
+        "weight": "20.5 kg",
+        "egg": ["Monster", "Dragon"]
     }
 }, {
     "id": 444,
@@ -12875,7 +13318,8 @@
     },
     "profile": {
         "height": "1.4 m",
-        "weight": "56 kg"
+        "weight": "56 kg",
+        "egg": ["Monster", "Dragon"]
     }
 }, {
     "id": 445,
@@ -12904,7 +13348,8 @@
     },
     "profile": {
         "height": "1.9 m",
-        "weight": "95 kg"
+        "weight": "95 kg",
+        "egg": ["Monster", "Dragon"]
     }
 }, {
     "id": 446,
@@ -12933,7 +13378,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "105 kg"
+        "weight": "105 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 447,
@@ -12962,7 +13408,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "20.2 kg"
+        "weight": "20.2 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 448,
@@ -12991,7 +13438,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "54 kg"
+        "weight": "54 kg",
+        "egg": ["Field", "Human-Like"]
     }
 }, {
     "id": 449,
@@ -13020,7 +13468,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "49.5 kg"
+        "weight": "49.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 450,
@@ -13049,7 +13498,8 @@
     },
     "profile": {
         "height": "2 m",
-        "weight": "300 kg"
+        "weight": "300 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 451,
@@ -13078,7 +13528,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "12 kg"
+        "weight": "12 kg",
+        "egg": ["Bug", "Water 3"]
     }
 }, {
     "id": 452,
@@ -13107,7 +13558,8 @@
     },
     "profile": {
         "height": "1.3 m",
-        "weight": "61.5 kg"
+        "weight": "61.5 kg",
+        "egg": ["Bug", "Water 3"]
     }
 }, {
     "id": 453,
@@ -13136,7 +13588,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "23 kg"
+        "weight": "23 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 454,
@@ -13165,7 +13618,8 @@
     },
     "profile": {
         "height": "1.3 m",
-        "weight": "44.4 kg"
+        "weight": "44.4 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 455,
@@ -13189,7 +13643,8 @@
     "evolution": {},
     "profile": {
         "height": "1.4 m",
-        "weight": "27 kg"
+        "weight": "27 kg",
+        "egg": ["Grass"]
     }
 }, {
     "id": 456,
@@ -13218,7 +13673,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "7 kg"
+        "weight": "7 kg",
+        "egg": ["Water 2"]
     }
 }, {
     "id": 457,
@@ -13247,7 +13703,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "24 kg"
+        "weight": "24 kg",
+        "egg": ["Water 2"]
     }
 }, {
     "id": 458,
@@ -13276,7 +13733,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "65 kg"
+        "weight": "65 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 459,
@@ -13305,7 +13763,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "50.5 kg"
+        "weight": "50.5 kg",
+        "egg": ["Monster", "Grass"]
     }
 }, {
     "id": 460,
@@ -13334,7 +13793,8 @@
     },
     "profile": {
         "height": "2.2 m",
-        "weight": "135.5 kg"
+        "weight": "135.5 kg",
+        "egg": ["Monster", "Grass"]
     }
 }, {
     "id": 461,
@@ -13363,7 +13823,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "34 kg"
+        "weight": "34 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 462,
@@ -13392,7 +13853,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "180 kg"
+        "weight": "180 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 463,
@@ -13421,7 +13883,8 @@
     },
     "profile": {
         "height": "1.7 m",
-        "weight": "140 kg"
+        "weight": "140 kg",
+        "egg": ["Monster"]
     }
 }, {
     "id": 464,
@@ -13450,7 +13913,8 @@
     },
     "profile": {
         "height": "2.4 m",
-        "weight": "282.8 kg"
+        "weight": "282.8 kg",
+        "egg": ["Monster", "Field"]
     }
 }, {
     "id": 465,
@@ -13479,7 +13943,8 @@
     },
     "profile": {
         "height": "2 m",
-        "weight": "128.6 kg"
+        "weight": "128.6 kg",
+        "egg": ["Grass"]
     }
 }, {
     "id": 466,
@@ -13508,7 +13973,8 @@
     },
     "profile": {
         "height": "1.8 m",
-        "weight": "138.6 kg"
+        "weight": "138.6 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 467,
@@ -13537,7 +14003,8 @@
     },
     "profile": {
         "height": "1.6 m",
-        "weight": "68 kg"
+        "weight": "68 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 468,
@@ -13566,7 +14033,8 @@
     },
     "profile": {
         "height": "1.5 m",
-        "weight": "38 kg"
+        "weight": "38 kg",
+        "egg": ["Flying", "Fairy"]
     }
 }, {
     "id": 469,
@@ -13595,7 +14063,8 @@
     },
     "profile": {
         "height": "1.9 m",
-        "weight": "51.5 kg"
+        "weight": "51.5 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 470,
@@ -13624,7 +14093,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "25.5 kg"
+        "weight": "25.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 471,
@@ -13653,7 +14123,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "25.9 kg"
+        "weight": "25.9 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 472,
@@ -13682,7 +14153,8 @@
     },
     "profile": {
         "height": "2 m",
-        "weight": "42.5 kg"
+        "weight": "42.5 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 473,
@@ -13711,7 +14183,8 @@
     },
     "profile": {
         "height": "2.5 m",
-        "weight": "291 kg"
+        "weight": "291 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 474,
@@ -13740,7 +14213,8 @@
     },
     "profile": {
         "height": "0.9 m",
-        "weight": "34 kg"
+        "weight": "34 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 475,
@@ -13769,7 +14243,8 @@
     },
     "profile": {
         "height": "1.6 m",
-        "weight": "52 kg"
+        "weight": "52 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 476,
@@ -13798,7 +14273,8 @@
     },
     "profile": {
         "height": "1.4 m",
-        "weight": "340 kg"
+        "weight": "340 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 477,
@@ -13827,7 +14303,8 @@
     },
     "profile": {
         "height": "2.2 m",
-        "weight": "106.6 kg"
+        "weight": "106.6 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 478,
@@ -13856,7 +14333,8 @@
     },
     "profile": {
         "height": "1.3 m",
-        "weight": "26.6 kg"
+        "weight": "26.6 kg",
+        "egg": ["Fairy", "Mineral"]
     }
 }, {
     "id": 479,
@@ -13880,7 +14358,8 @@
     "evolution": {},
     "profile": {
         "height": "0.3 m",
-        "weight": "0.3 kg"
+        "weight": "0.3 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 480,
@@ -13904,7 +14383,8 @@
     "evolution": {},
     "profile": {
         "height": "0.3 m",
-        "weight": "0.3 kg"
+        "weight": "0.3 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 481,
@@ -13928,7 +14408,8 @@
     "evolution": {},
     "profile": {
         "height": "0.3 m",
-        "weight": "0.3 kg"
+        "weight": "0.3 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 482,
@@ -13952,7 +14433,8 @@
     "evolution": {},
     "profile": {
         "height": "0.3 m",
-        "weight": "0.3 kg"
+        "weight": "0.3 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 483,
@@ -13976,7 +14458,8 @@
     "evolution": {},
     "profile": {
         "height": "5.4 m",
-        "weight": "683 kg"
+        "weight": "683 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 484,
@@ -14000,7 +14483,8 @@
     "evolution": {},
     "profile": {
         "height": "4.2 m",
-        "weight": "336 kg"
+        "weight": "336 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 485,
@@ -14024,7 +14508,8 @@
     "evolution": {},
     "profile": {
         "height": "1.7 m",
-        "weight": "430 kg"
+        "weight": "430 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 486,
@@ -14048,7 +14533,8 @@
     "evolution": {},
     "profile": {
         "height": "3.7 m",
-        "weight": "420 kg"
+        "weight": "420 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 487,
@@ -14072,7 +14558,8 @@
     "evolution": {},
     "profile": {
         "height": "4.5 m",
-        "weight": "750 kg"
+        "weight": "750 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 488,
@@ -14096,7 +14583,8 @@
     "evolution": {},
     "profile": {
         "height": "1.5 m",
-        "weight": "85.6 kg"
+        "weight": "85.6 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 489,
@@ -14120,7 +14608,8 @@
     "evolution": {},
     "profile": {
         "height": "0.4 m",
-        "weight": "3.1 kg"
+        "weight": "3.1 kg",
+        "egg": ["Water 1", "Fairy"]
     }
 }, {
     "id": 490,
@@ -14144,7 +14633,8 @@
     "evolution": {},
     "profile": {
         "height": "0.3 m",
-        "weight": "1.4 kg"
+        "weight": "1.4 kg",
+        "egg": ["Water 1", "Fairy"]
     }
 }, {
     "id": 491,
@@ -14168,7 +14658,8 @@
     "evolution": {},
     "profile": {
         "height": "1.5 m",
-        "weight": "50.5 kg"
+        "weight": "50.5 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 492,
@@ -14192,7 +14683,8 @@
     "evolution": {},
     "profile": {
         "height": "0.2 m",
-        "weight": "2.1 kg"
+        "weight": "2.1 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 493,
@@ -14216,7 +14708,8 @@
     "evolution": {},
     "profile": {
         "height": "3.2 m",
-        "weight": "320 kg"
+        "weight": "320 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 494,
@@ -14240,7 +14733,8 @@
     "evolution": {},
     "profile": {
         "height": "0.4 m",
-        "weight": "4 kg"
+        "weight": "4 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 495,
@@ -14269,7 +14763,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "8.1 kg"
+        "weight": "8.1 kg",
+        "egg": ["Field", "Grass"]
     }
 }, {
     "id": 496,
@@ -14302,7 +14797,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "16 kg"
+        "weight": "16 kg",
+        "egg": ["Field", "Grass"]
     }
 }, {
     "id": 497,
@@ -14331,7 +14827,8 @@
     },
     "profile": {
         "height": "3.3 m",
-        "weight": "63 kg"
+        "weight": "63 kg",
+        "egg": ["Field", "Grass"]
     }
 }, {
     "id": 498,
@@ -14360,7 +14857,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "9.9 kg"
+        "weight": "9.9 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 499,
@@ -14393,7 +14891,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "55.5 kg"
+        "weight": "55.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 500,
@@ -14422,7 +14921,8 @@
     },
     "profile": {
         "height": "1.6 m",
-        "weight": "150 kg"
+        "weight": "150 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 501,
@@ -14451,7 +14951,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "5.9 kg"
+        "weight": "5.9 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 502,
@@ -14484,7 +14985,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "24.5 kg"
+        "weight": "24.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 503,
@@ -14513,7 +15015,8 @@
     },
     "profile": {
         "height": "1.5 m",
-        "weight": "94.6 kg"
+        "weight": "94.6 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 504,
@@ -14542,7 +15045,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "11.6 kg"
+        "weight": "11.6 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 505,
@@ -14571,7 +15075,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "27 kg"
+        "weight": "27 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 506,
@@ -14600,7 +15105,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "4.1 kg"
+        "weight": "4.1 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 507,
@@ -14633,7 +15139,8 @@
     },
     "profile": {
         "height": "0.9 m",
-        "weight": "14.7 kg"
+        "weight": "14.7 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 508,
@@ -14662,7 +15169,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "61 kg"
+        "weight": "61 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 509,
@@ -14691,7 +15199,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "10.1 kg"
+        "weight": "10.1 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 510,
@@ -14720,7 +15229,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "37.5 kg"
+        "weight": "37.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 511,
@@ -14749,7 +15259,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "10.5 kg"
+        "weight": "10.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 512,
@@ -14778,7 +15289,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "30.5 kg"
+        "weight": "30.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 513,
@@ -14807,7 +15319,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "11 kg"
+        "weight": "11 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 514,
@@ -14836,7 +15349,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "28 kg"
+        "weight": "28 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 515,
@@ -14865,7 +15379,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "13.5 kg"
+        "weight": "13.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 516,
@@ -14894,7 +15409,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "29 kg"
+        "weight": "29 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 517,
@@ -14923,7 +15439,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "23.3 kg"
+        "weight": "23.3 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 518,
@@ -14952,7 +15469,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "60.5 kg"
+        "weight": "60.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 519,
@@ -14981,7 +15499,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "2.1 kg"
+        "weight": "2.1 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 520,
@@ -15014,7 +15533,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "15 kg"
+        "weight": "15 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 521,
@@ -15043,7 +15563,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "29 kg"
+        "weight": "29 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 522,
@@ -15072,7 +15593,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "29.8 kg"
+        "weight": "29.8 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 523,
@@ -15101,7 +15623,8 @@
     },
     "profile": {
         "height": "1.6 m",
-        "weight": "79.5 kg"
+        "weight": "79.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 524,
@@ -15130,7 +15653,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "18 kg"
+        "weight": "18 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 525,
@@ -15163,7 +15687,8 @@
     },
     "profile": {
         "height": "0.9 m",
-        "weight": "102 kg"
+        "weight": "102 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 526,
@@ -15192,7 +15717,8 @@
     },
     "profile": {
         "height": "1.7 m",
-        "weight": "260 kg"
+        "weight": "260 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 527,
@@ -15221,7 +15747,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "2.1 kg"
+        "weight": "2.1 kg",
+        "egg": ["Flying", "Field"]
     }
 }, {
     "id": 528,
@@ -15250,7 +15777,8 @@
     },
     "profile": {
         "height": "0.9 m",
-        "weight": "10.5 kg"
+        "weight": "10.5 kg",
+        "egg": ["Flying", "Field"]
     }
 }, {
     "id": 529,
@@ -15279,7 +15807,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "8.5 kg"
+        "weight": "8.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 530,
@@ -15308,7 +15837,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "40.4 kg"
+        "weight": "40.4 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 531,
@@ -15332,7 +15862,8 @@
     "evolution": {},
     "profile": {
         "height": "1.1 m",
-        "weight": "31 kg"
+        "weight": "31 kg",
+        "egg": ["Fairy"]
     }
 }, {
     "id": 532,
@@ -15361,7 +15892,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "12.5 kg"
+        "weight": "12.5 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 533,
@@ -15394,7 +15926,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "40 kg"
+        "weight": "40 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 534,
@@ -15423,7 +15956,8 @@
     },
     "profile": {
         "height": "1.4 m",
-        "weight": "87 kg"
+        "weight": "87 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 535,
@@ -15452,7 +15986,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "4.5 kg"
+        "weight": "4.5 kg",
+        "egg": ["Water 1"]
     }
 }, {
     "id": 536,
@@ -15485,7 +16020,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "17 kg"
+        "weight": "17 kg",
+        "egg": ["Water 1"]
     }
 }, {
     "id": 537,
@@ -15514,7 +16050,8 @@
     },
     "profile": {
         "height": "1.5 m",
-        "weight": "62 kg"
+        "weight": "62 kg",
+        "egg": ["Water 1"]
     }
 }, {
     "id": 538,
@@ -15538,7 +16075,8 @@
     "evolution": {},
     "profile": {
         "height": "1.3 m",
-        "weight": "55.5 kg"
+        "weight": "55.5 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 539,
@@ -15562,7 +16100,8 @@
     "evolution": {},
     "profile": {
         "height": "1.4 m",
-        "weight": "51 kg"
+        "weight": "51 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 540,
@@ -15591,7 +16130,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "2.5 kg"
+        "weight": "2.5 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 541,
@@ -15624,7 +16164,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "7.3 kg"
+        "weight": "7.3 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 542,
@@ -15653,7 +16194,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "20.5 kg"
+        "weight": "20.5 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 543,
@@ -15682,7 +16224,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "5.3 kg"
+        "weight": "5.3 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 544,
@@ -15715,7 +16258,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "58.5 kg"
+        "weight": "58.5 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 545,
@@ -15744,7 +16288,8 @@
     },
     "profile": {
         "height": "2.5 m",
-        "weight": "200.5 kg"
+        "weight": "200.5 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 546,
@@ -15773,7 +16318,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "0.6 kg"
+        "weight": "0.6 kg",
+        "egg": ["Fairy", "Grass"]
     }
 }, {
     "id": 547,
@@ -15802,7 +16348,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "6.6 kg"
+        "weight": "6.6 kg",
+        "egg": ["Fairy", "Grass"]
     }
 }, {
     "id": 548,
@@ -15831,7 +16378,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "6.6 kg"
+        "weight": "6.6 kg",
+        "egg": ["Grass"]
     }
 }, {
     "id": 549,
@@ -15860,7 +16408,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "16.3 kg"
+        "weight": "16.3 kg",
+        "egg": ["Grass"]
     }
 }, {
     "id": 550,
@@ -15884,7 +16433,8 @@
     "evolution": {},
     "profile": {
         "height": "1 m",
-        "weight": "18 kg"
+        "weight": "18 kg",
+        "egg": ["Water 2"]
     }
 }, {
     "id": 551,
@@ -15913,7 +16463,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "15.2 kg"
+        "weight": "15.2 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 552,
@@ -15946,7 +16497,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "33.4 kg"
+        "weight": "33.4 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 553,
@@ -15975,7 +16527,8 @@
     },
     "profile": {
         "height": "1.5 m",
-        "weight": "96.3 kg"
+        "weight": "96.3 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 554,
@@ -16004,7 +16557,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "37.5 kg"
+        "weight": "37.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 555,
@@ -16033,7 +16587,8 @@
     },
     "profile": {
         "height": "1.3 m",
-        "weight": "92.9 kg"
+        "weight": "92.9 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 556,
@@ -16057,7 +16612,8 @@
     "evolution": {},
     "profile": {
         "height": "1 m",
-        "weight": "28 kg"
+        "weight": "28 kg",
+        "egg": ["Grass"]
     }
 }, {
     "id": 557,
@@ -16086,7 +16642,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "14.5 kg"
+        "weight": "14.5 kg",
+        "egg": ["Bug", "Mineral"]
     }
 }, {
     "id": 558,
@@ -16115,7 +16672,8 @@
     },
     "profile": {
         "height": "1.4 m",
-        "weight": "200 kg"
+        "weight": "200 kg",
+        "egg": ["Bug", "Mineral"]
     }
 }, {
     "id": 559,
@@ -16144,7 +16702,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "11.8 kg"
+        "weight": "11.8 kg",
+        "egg": ["Field", "Dragon"]
     }
 }, {
     "id": 560,
@@ -16173,7 +16732,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "30 kg"
+        "weight": "30 kg",
+        "egg": ["Field", "Dragon"]
     }
 }, {
     "id": 561,
@@ -16197,7 +16757,8 @@
     "evolution": {},
     "profile": {
         "height": "1.4 m",
-        "weight": "14 kg"
+        "weight": "14 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 562,
@@ -16226,7 +16787,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "1.5 kg"
+        "weight": "1.5 kg",
+        "egg": ["Mineral", "Amorphous"]
     }
 }, {
     "id": 563,
@@ -16255,7 +16817,8 @@
     },
     "profile": {
         "height": "1.7 m",
-        "weight": "76.5 kg"
+        "weight": "76.5 kg",
+        "egg": ["Mineral", "Amorphous"]
     }
 }, {
     "id": 564,
@@ -16284,7 +16847,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "16.5 kg"
+        "weight": "16.5 kg",
+        "egg": ["Water 1", "Water 3"]
     }
 }, {
     "id": 565,
@@ -16313,7 +16877,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "81 kg"
+        "weight": "81 kg",
+        "egg": ["Water 1", "Water 3"]
     }
 }, {
     "id": 566,
@@ -16342,7 +16907,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "9.5 kg"
+        "weight": "9.5 kg",
+        "egg": ["Flying", "Water 3"]
     }
 }, {
     "id": 567,
@@ -16371,7 +16937,8 @@
     },
     "profile": {
         "height": "1.4 m",
-        "weight": "32 kg"
+        "weight": "32 kg",
+        "egg": ["Flying", "Water 3"]
     }
 }, {
     "id": 568,
@@ -16400,7 +16967,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "31 kg"
+        "weight": "31 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 569,
@@ -16429,7 +16997,8 @@
     },
     "profile": {
         "height": "1.9 m",
-        "weight": "107.3 kg"
+        "weight": "107.3 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 570,
@@ -16458,7 +17027,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "12.5 kg"
+        "weight": "12.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 571,
@@ -16487,7 +17057,8 @@
     },
     "profile": {
         "height": "1.6 m",
-        "weight": "81.1 kg"
+        "weight": "81.1 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 572,
@@ -16516,7 +17087,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "5.8 kg"
+        "weight": "5.8 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 573,
@@ -16545,7 +17117,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "7.5 kg"
+        "weight": "7.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 574,
@@ -16574,7 +17147,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "5.8 kg"
+        "weight": "5.8 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 575,
@@ -16607,7 +17181,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "18 kg"
+        "weight": "18 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 576,
@@ -16636,7 +17211,8 @@
     },
     "profile": {
         "height": "1.5 m",
-        "weight": "44 kg"
+        "weight": "44 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 577,
@@ -16665,7 +17241,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "1 kg"
+        "weight": "1 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 578,
@@ -16698,7 +17275,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "8 kg"
+        "weight": "8 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 579,
@@ -16727,7 +17305,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "20.1 kg"
+        "weight": "20.1 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 580,
@@ -16756,7 +17335,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "5.5 kg"
+        "weight": "5.5 kg",
+        "egg": ["Water 1", "Flying"]
     }
 }, {
     "id": 581,
@@ -16785,7 +17365,8 @@
     },
     "profile": {
         "height": "1.3 m",
-        "weight": "24.2 kg"
+        "weight": "24.2 kg",
+        "egg": ["Water 1", "Flying"]
     }
 }, {
     "id": 582,
@@ -16814,7 +17395,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "5.7 kg"
+        "weight": "5.7 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 583,
@@ -16847,7 +17429,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "41 kg"
+        "weight": "41 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 584,
@@ -16876,7 +17459,8 @@
     },
     "profile": {
         "height": "1.3 m",
-        "weight": "57.5 kg"
+        "weight": "57.5 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 585,
@@ -16905,7 +17489,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "19.5 kg"
+        "weight": "19.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 586,
@@ -16934,7 +17519,8 @@
     },
     "profile": {
         "height": "1.9 m",
-        "weight": "92.5 kg"
+        "weight": "92.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 587,
@@ -16958,7 +17544,8 @@
     "evolution": {},
     "profile": {
         "height": "0.4 m",
-        "weight": "5 kg"
+        "weight": "5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 588,
@@ -16987,7 +17574,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "5.9 kg"
+        "weight": "5.9 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 589,
@@ -17016,7 +17604,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "33 kg"
+        "weight": "33 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 590,
@@ -17045,7 +17634,8 @@
     },
     "profile": {
         "height": "0.2 m",
-        "weight": "1 kg"
+        "weight": "1 kg",
+        "egg": ["Grass"]
     }
 }, {
     "id": 591,
@@ -17074,7 +17664,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "10.5 kg"
+        "weight": "10.5 kg",
+        "egg": ["Grass"]
     }
 }, {
     "id": 592,
@@ -17103,7 +17694,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "33 kg"
+        "weight": "33 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 593,
@@ -17132,7 +17724,8 @@
     },
     "profile": {
         "height": "2.2 m",
-        "weight": "135 kg"
+        "weight": "135 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 594,
@@ -17156,7 +17749,8 @@
     "evolution": {},
     "profile": {
         "height": "1.2 m",
-        "weight": "31.6 kg"
+        "weight": "31.6 kg",
+        "egg": ["Water 1", "Water 2"]
     }
 }, {
     "id": 595,
@@ -17185,7 +17779,8 @@
     },
     "profile": {
         "height": "0.1 m",
-        "weight": "0.6 kg"
+        "weight": "0.6 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 596,
@@ -17214,7 +17809,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "14.3 kg"
+        "weight": "14.3 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 597,
@@ -17243,7 +17839,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "18.8 kg"
+        "weight": "18.8 kg",
+        "egg": ["Grass", "Mineral"]
     }
 }, {
     "id": 598,
@@ -17272,7 +17869,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "110 kg"
+        "weight": "110 kg",
+        "egg": ["Grass", "Mineral"]
     }
 }, {
     "id": 599,
@@ -17301,7 +17899,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "21 kg"
+        "weight": "21 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 600,
@@ -17334,7 +17933,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "51 kg"
+        "weight": "51 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 601,
@@ -17363,7 +17963,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "81 kg"
+        "weight": "81 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 602,
@@ -17392,7 +17993,8 @@
     },
     "profile": {
         "height": "0.2 m",
-        "weight": "0.3 kg"
+        "weight": "0.3 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 603,
@@ -17425,7 +18027,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "22 kg"
+        "weight": "22 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 604,
@@ -17454,7 +18057,8 @@
     },
     "profile": {
         "height": "2.1 m",
-        "weight": "80.5 kg"
+        "weight": "80.5 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 605,
@@ -17483,7 +18087,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "9 kg"
+        "weight": "9 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 606,
@@ -17512,7 +18117,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "34.5 kg"
+        "weight": "34.5 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 607,
@@ -17541,7 +18147,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "3.1 kg"
+        "weight": "3.1 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 608,
@@ -17574,7 +18181,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "13 kg"
+        "weight": "13 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 609,
@@ -17603,7 +18211,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "34.3 kg"
+        "weight": "34.3 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 610,
@@ -17632,7 +18241,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "18 kg"
+        "weight": "18 kg",
+        "egg": ["Monster", "Dragon"]
     }
 }, {
     "id": 611,
@@ -17665,7 +18275,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "36 kg"
+        "weight": "36 kg",
+        "egg": ["Monster", "Dragon"]
     }
 }, {
     "id": 612,
@@ -17694,7 +18305,8 @@
     },
     "profile": {
         "height": "1.8 m",
-        "weight": "105.5 kg"
+        "weight": "105.5 kg",
+        "egg": ["Monster", "Dragon"]
     }
 }, {
     "id": 613,
@@ -17723,7 +18335,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "8.5 kg"
+        "weight": "8.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 614,
@@ -17752,7 +18365,8 @@
     },
     "profile": {
         "height": "2.6 m",
-        "weight": "260 kg"
+        "weight": "260 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 615,
@@ -17776,7 +18390,8 @@
     "evolution": {},
     "profile": {
         "height": "1.1 m",
-        "weight": "148 kg"
+        "weight": "148 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 616,
@@ -17805,7 +18420,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "7.7 kg"
+        "weight": "7.7 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 617,
@@ -17834,7 +18450,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "25.3 kg"
+        "weight": "25.3 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 618,
@@ -17858,7 +18475,8 @@
     "evolution": {},
     "profile": {
         "height": "0.7 m",
-        "weight": "11 kg"
+        "weight": "11 kg",
+        "egg": ["Water 1", "Amorphous"]
     }
 }, {
     "id": 619,
@@ -17887,7 +18505,8 @@
     },
     "profile": {
         "height": "0.9 m",
-        "weight": "20 kg"
+        "weight": "20 kg",
+        "egg": ["Field", "Human-Like"]
     }
 }, {
     "id": 620,
@@ -17916,7 +18535,8 @@
     },
     "profile": {
         "height": "1.4 m",
-        "weight": "35.5 kg"
+        "weight": "35.5 kg",
+        "egg": ["Field", "Human-Like"]
     }
 }, {
     "id": 621,
@@ -17940,7 +18560,8 @@
     "evolution": {},
     "profile": {
         "height": "1.6 m",
-        "weight": "139 kg"
+        "weight": "139 kg",
+        "egg": ["Monster", "Dragon"]
     }
 }, {
     "id": 622,
@@ -17969,7 +18590,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "92 kg"
+        "weight": "92 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 623,
@@ -17998,7 +18620,8 @@
     },
     "profile": {
         "height": "2.8 m",
-        "weight": "330 kg"
+        "weight": "330 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 624,
@@ -18027,7 +18650,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "10.2 kg"
+        "weight": "10.2 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 625,
@@ -18056,7 +18680,8 @@
     },
     "profile": {
         "height": "1.6 m",
-        "weight": "70 kg"
+        "weight": "70 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 626,
@@ -18080,7 +18705,8 @@
     "evolution": {},
     "profile": {
         "height": "1.6 m",
-        "weight": "94.6 kg"
+        "weight": "94.6 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 627,
@@ -18109,7 +18735,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "10.5 kg"
+        "weight": "10.5 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 628,
@@ -18138,7 +18765,8 @@
     },
     "profile": {
         "height": "1.5 m",
-        "weight": "41 kg"
+        "weight": "41 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 629,
@@ -18167,7 +18795,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "9 kg"
+        "weight": "9 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 630,
@@ -18196,7 +18825,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "39.5 kg"
+        "weight": "39.5 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 631,
@@ -18220,7 +18850,8 @@
     "evolution": {},
     "profile": {
         "height": "1.4 m",
-        "weight": "58 kg"
+        "weight": "58 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 632,
@@ -18244,7 +18875,8 @@
     "evolution": {},
     "profile": {
         "height": "0.3 m",
-        "weight": "33 kg"
+        "weight": "33 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 633,
@@ -18273,7 +18905,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "17.3 kg"
+        "weight": "17.3 kg",
+        "egg": ["Dragon"]
     }
 }, {
     "id": 634,
@@ -18306,7 +18939,8 @@
     },
     "profile": {
         "height": "1.4 m",
-        "weight": "50 kg"
+        "weight": "50 kg",
+        "egg": ["Dragon"]
     }
 }, {
     "id": 635,
@@ -18335,7 +18969,8 @@
     },
     "profile": {
         "height": "1.8 m",
-        "weight": "160 kg"
+        "weight": "160 kg",
+        "egg": ["Dragon"]
     }
 }, {
     "id": 636,
@@ -18364,7 +18999,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "28.8 kg"
+        "weight": "28.8 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 637,
@@ -18393,7 +19029,8 @@
     },
     "profile": {
         "height": "1.6 m",
-        "weight": "46 kg"
+        "weight": "46 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 638,
@@ -18417,7 +19054,8 @@
     "evolution": {},
     "profile": {
         "height": "2.1 m",
-        "weight": "250 kg"
+        "weight": "250 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 639,
@@ -18441,7 +19079,8 @@
     "evolution": {},
     "profile": {
         "height": "1.9 m",
-        "weight": "260 kg"
+        "weight": "260 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 640,
@@ -18465,7 +19104,8 @@
     "evolution": {},
     "profile": {
         "height": "2 m",
-        "weight": "200 kg"
+        "weight": "200 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 641,
@@ -18489,7 +19129,8 @@
     "evolution": {},
     "profile": {
         "height": "1.5 m",
-        "weight": "63 kg"
+        "weight": "63 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 642,
@@ -18513,7 +19154,8 @@
     "evolution": {},
     "profile": {
         "height": "1.5 m",
-        "weight": "61 kg"
+        "weight": "61 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 643,
@@ -18537,7 +19179,8 @@
     "evolution": {},
     "profile": {
         "height": "3.2 m",
-        "weight": "330 kg"
+        "weight": "330 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 644,
@@ -18561,7 +19204,8 @@
     "evolution": {},
     "profile": {
         "height": "2.9 m",
-        "weight": "345 kg"
+        "weight": "345 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 645,
@@ -18585,7 +19229,8 @@
     "evolution": {},
     "profile": {
         "height": "1.5 m",
-        "weight": "68 kg"
+        "weight": "68 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 646,
@@ -18609,7 +19254,8 @@
     "evolution": {},
     "profile": {
         "height": "3 m",
-        "weight": "325 kg"
+        "weight": "325 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 647,
@@ -18633,7 +19279,8 @@
     "evolution": {},
     "profile": {
         "height": "1.4 m",
-        "weight": "48.5 kg"
+        "weight": "48.5 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 648,
@@ -18657,7 +19304,8 @@
     "evolution": {},
     "profile": {
         "height": "0.6 m",
-        "weight": "6.5 kg"
+        "weight": "6.5 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 649,
@@ -18681,7 +19329,8 @@
     "evolution": {},
     "profile": {
         "height": "1.5 m",
-        "weight": "82.5 kg"
+        "weight": "82.5 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 650,
@@ -18710,7 +19359,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "9 kg"
+        "weight": "9 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 651,
@@ -18743,7 +19393,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "29 kg"
+        "weight": "29 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 652,
@@ -18772,7 +19423,8 @@
     },
     "profile": {
         "height": "1.6 m",
-        "weight": "90 kg"
+        "weight": "90 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 653,
@@ -18801,7 +19453,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "9.4 kg"
+        "weight": "9.4 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 654,
@@ -18834,7 +19487,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "14.5 kg"
+        "weight": "14.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 655,
@@ -18863,7 +19517,8 @@
     },
     "profile": {
         "height": "1.5 m",
-        "weight": "39 kg"
+        "weight": "39 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 656,
@@ -18892,7 +19547,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "7 kg"
+        "weight": "7 kg",
+        "egg": ["Water 1"]
     }
 }, {
     "id": 657,
@@ -18925,7 +19581,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "10.9 kg"
+        "weight": "10.9 kg",
+        "egg": ["Water 1"]
     }
 }, {
     "id": 658,
@@ -18954,7 +19611,8 @@
     },
     "profile": {
         "height": "1.5 m",
-        "weight": "40 kg"
+        "weight": "40 kg",
+        "egg": ["Water 1"]
     }
 }, {
     "id": 659,
@@ -18983,7 +19641,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "5 kg"
+        "weight": "5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 660,
@@ -19012,7 +19671,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "42.4 kg"
+        "weight": "42.4 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 661,
@@ -19041,7 +19701,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "1.7 kg"
+        "weight": "1.7 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 662,
@@ -19074,7 +19735,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "16 kg"
+        "weight": "16 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 663,
@@ -19103,7 +19765,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "24.5 kg"
+        "weight": "24.5 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 664,
@@ -19132,7 +19795,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "2.5 kg"
+        "weight": "2.5 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 665,
@@ -19165,7 +19829,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "8.4 kg"
+        "weight": "8.4 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 666,
@@ -19194,7 +19859,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "17 kg"
+        "weight": "17 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 667,
@@ -19223,7 +19889,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "13.5 kg"
+        "weight": "13.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 668,
@@ -19252,7 +19919,8 @@
     },
     "profile": {
         "height": "1.5 m",
-        "weight": "81.5 kg"
+        "weight": "81.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 669,
@@ -19281,7 +19949,8 @@
     },
     "profile": {
         "height": "0.1 m",
-        "weight": "0.1 kg"
+        "weight": "0.1 kg",
+        "egg": ["Fairy"]
     }
 }, {
     "id": 670,
@@ -19314,7 +19983,8 @@
     },
     "profile": {
         "height": "0.2 m",
-        "weight": "0.9 kg"
+        "weight": "0.9 kg",
+        "egg": ["Fairy"]
     }
 }, {
     "id": 671,
@@ -19343,7 +20013,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "10 kg"
+        "weight": "10 kg",
+        "egg": ["Fairy"]
     }
 }, {
     "id": 672,
@@ -19372,7 +20043,8 @@
     },
     "profile": {
         "height": "0.9 m",
-        "weight": "31 kg"
+        "weight": "31 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 673,
@@ -19401,7 +20073,8 @@
     },
     "profile": {
         "height": "1.7 m",
-        "weight": "91 kg"
+        "weight": "91 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 674,
@@ -19430,7 +20103,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "8 kg"
+        "weight": "8 kg",
+        "egg": ["Field", "Human-Like"]
     }
 }, {
     "id": 675,
@@ -19459,7 +20133,8 @@
     },
     "profile": {
         "height": "2.1 m",
-        "weight": "136 kg"
+        "weight": "136 kg",
+        "egg": ["Field", "Human-Like"]
     }
 }, {
     "id": 676,
@@ -19483,7 +20158,8 @@
     "evolution": {},
     "profile": {
         "height": "1.2 m",
-        "weight": "28 kg"
+        "weight": "28 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 677,
@@ -19512,7 +20188,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "3.5 kg"
+        "weight": "3.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 678,
@@ -19541,7 +20218,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "8.5 kg"
+        "weight": "8.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 679,
@@ -19570,7 +20248,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "2 kg"
+        "weight": "2 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 680,
@@ -19603,7 +20282,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "4.5 kg"
+        "weight": "4.5 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 681,
@@ -19632,7 +20312,8 @@
     },
     "profile": {
         "height": "1.7 m",
-        "weight": "53 kg"
+        "weight": "53 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 682,
@@ -19661,7 +20342,8 @@
     },
     "profile": {
         "height": "0.2 m",
-        "weight": "0.5 kg"
+        "weight": "0.5 kg",
+        "egg": ["Fairy"]
     }
 }, {
     "id": 683,
@@ -19690,7 +20372,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "15.5 kg"
+        "weight": "15.5 kg",
+        "egg": ["Fairy"]
     }
 }, {
     "id": 684,
@@ -19719,7 +20402,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "3.5 kg"
+        "weight": "3.5 kg",
+        "egg": ["Fairy"]
     }
 }, {
     "id": 685,
@@ -19748,7 +20432,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "5 kg"
+        "weight": "5 kg",
+        "egg": ["Fairy"]
     }
 }, {
     "id": 686,
@@ -19777,7 +20462,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "3.5 kg"
+        "weight": "3.5 kg",
+        "egg": ["Water 1", "Water 2"]
     }
 }, {
     "id": 687,
@@ -19806,7 +20492,8 @@
     },
     "profile": {
         "height": "1.5 m",
-        "weight": "47 kg"
+        "weight": "47 kg",
+        "egg": ["Water 1", "Water 2"]
     }
 }, {
     "id": 688,
@@ -19835,7 +20522,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "31 kg"
+        "weight": "31 kg",
+        "egg": ["Water 3"]
     }
 }, {
     "id": 689,
@@ -19864,7 +20552,8 @@
     },
     "profile": {
         "height": "1.3 m",
-        "weight": "96 kg"
+        "weight": "96 kg",
+        "egg": ["Water 3"]
     }
 }, {
     "id": 690,
@@ -19893,7 +20582,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "7.3 kg"
+        "weight": "7.3 kg",
+        "egg": ["Water 1", "Dragon"]
     }
 }, {
     "id": 691,
@@ -19922,7 +20612,8 @@
     },
     "profile": {
         "height": "1.8 m",
-        "weight": "81.5 kg"
+        "weight": "81.5 kg",
+        "egg": ["Water 1", "Dragon"]
     }
 }, {
     "id": 692,
@@ -19951,7 +20642,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "8.3 kg"
+        "weight": "8.3 kg",
+        "egg": ["Water 1", "Water 3"]
     }
 }, {
     "id": 693,
@@ -19980,7 +20672,8 @@
     },
     "profile": {
         "height": "1.3 m",
-        "weight": "35.3 kg"
+        "weight": "35.3 kg",
+        "egg": ["Water 1", "Water 3"]
     }
 }, {
     "id": 694,
@@ -20009,7 +20702,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "6 kg"
+        "weight": "6 kg",
+        "egg": ["Monster", "Dragon"]
     }
 }, {
     "id": 695,
@@ -20038,7 +20732,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "21 kg"
+        "weight": "21 kg",
+        "egg": ["Monster", "Dragon"]
     }
 }, {
     "id": 696,
@@ -20067,7 +20762,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "26 kg"
+        "weight": "26 kg",
+        "egg": ["Monster", "Dragon"]
     }
 }, {
     "id": 697,
@@ -20096,7 +20792,8 @@
     },
     "profile": {
         "height": "2.5 m",
-        "weight": "270 kg"
+        "weight": "270 kg",
+        "egg": ["Monster", "Dragon"]
     }
 }, {
     "id": 698,
@@ -20125,7 +20822,8 @@
     },
     "profile": {
         "height": "1.3 m",
-        "weight": "25.2 kg"
+        "weight": "25.2 kg",
+        "egg": ["Monster"]
     }
 }, {
     "id": 699,
@@ -20154,7 +20852,8 @@
     },
     "profile": {
         "height": "2.7 m",
-        "weight": "225 kg"
+        "weight": "225 kg",
+        "egg": ["Monster"]
     }
 }, {
     "id": 700,
@@ -20183,7 +20882,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "23.5 kg"
+        "weight": "23.5 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 701,
@@ -20207,7 +20907,8 @@
     "evolution": {},
     "profile": {
         "height": "0.8 m",
-        "weight": "21.5 kg"
+        "weight": "21.5 kg",
+        "egg": ["Human-Like"]
     }
 }, {
     "id": 702,
@@ -20231,7 +20932,8 @@
     "evolution": {},
     "profile": {
         "height": "0.2 m",
-        "weight": "2.2 kg"
+        "weight": "2.2 kg",
+        "egg": ["Field", "Fairy"]
     }
 }, {
     "id": 703,
@@ -20255,7 +20957,8 @@
     "evolution": {},
     "profile": {
         "height": "0.3 m",
-        "weight": "5.7 kg"
+        "weight": "5.7 kg",
+        "egg": ["Fairy", "Mineral"]
     }
 }, {
     "id": 704,
@@ -20284,7 +20987,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "2.8 kg"
+        "weight": "2.8 kg",
+        "egg": ["Dragon"]
     }
 }, {
     "id": 705,
@@ -20317,7 +21021,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "17.5 kg"
+        "weight": "17.5 kg",
+        "egg": ["Dragon"]
     }
 }, {
     "id": 706,
@@ -20346,7 +21051,8 @@
     },
     "profile": {
         "height": "2 m",
-        "weight": "150.5 kg"
+        "weight": "150.5 kg",
+        "egg": ["Dragon"]
     }
 }, {
     "id": 707,
@@ -20370,7 +21076,8 @@
     "evolution": {},
     "profile": {
         "height": "0.2 m",
-        "weight": "3 kg"
+        "weight": "3 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 708,
@@ -20399,7 +21106,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "7 kg"
+        "weight": "7 kg",
+        "egg": ["Grass", "Amorphous"]
     }
 }, {
     "id": 709,
@@ -20428,7 +21136,8 @@
     },
     "profile": {
         "height": "1.5 m",
-        "weight": "71 kg"
+        "weight": "71 kg",
+        "egg": ["Grass", "Amorphous"]
     }
 }, {
     "id": 710,
@@ -20457,7 +21166,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "5 kg"
+        "weight": "5 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 711,
@@ -20486,7 +21196,8 @@
     },
     "profile": {
         "height": "0.9 m",
-        "weight": "12.5 kg"
+        "weight": "12.5 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 712,
@@ -20515,7 +21226,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "99.5 kg"
+        "weight": "99.5 kg",
+        "egg": ["Monster"]
     }
 }, {
     "id": 713,
@@ -20544,7 +21256,8 @@
     },
     "profile": {
         "height": "2 m",
-        "weight": "505 kg"
+        "weight": "505 kg",
+        "egg": ["Monster"]
     }
 }, {
     "id": 714,
@@ -20573,7 +21286,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "8 kg"
+        "weight": "8 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 715,
@@ -20602,7 +21316,8 @@
     },
     "profile": {
         "height": "1.5 m",
-        "weight": "85 kg"
+        "weight": "85 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 716,
@@ -20626,7 +21341,8 @@
     "evolution": {},
     "profile": {
         "height": "3 m",
-        "weight": "215 kg"
+        "weight": "215 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 717,
@@ -20650,7 +21366,8 @@
     "evolution": {},
     "profile": {
         "height": "5.8 m",
-        "weight": "203 kg"
+        "weight": "203 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 718,
@@ -20674,7 +21391,8 @@
     "evolution": {},
     "profile": {
         "height": "5 m",
-        "weight": "305 kg"
+        "weight": "305 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 719,
@@ -20698,7 +21416,8 @@
     "evolution": {},
     "profile": {
         "height": "0.7 m",
-        "weight": "8.8 kg"
+        "weight": "8.8 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 720,
@@ -20722,7 +21441,8 @@
     "evolution": {},
     "profile": {
         "height": "0.5 m",
-        "weight": "9 kg"
+        "weight": "9 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 721,
@@ -20746,7 +21466,8 @@
     "evolution": {},
     "profile": {
         "height": "1.7 m",
-        "weight": "195 kg"
+        "weight": "195 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 722,
@@ -20775,7 +21496,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "1.5 kg"
+        "weight": "1.5 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 723,
@@ -20808,7 +21530,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "16 kg"
+        "weight": "16 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 724,
@@ -20837,7 +21560,8 @@
     },
     "profile": {
         "height": "1.6 m",
-        "weight": "36.6 kg"
+        "weight": "36.6 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 725,
@@ -20866,7 +21590,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "4.3 kg"
+        "weight": "4.3 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 726,
@@ -20899,7 +21624,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "25 kg"
+        "weight": "25 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 727,
@@ -20928,7 +21654,8 @@
     },
     "profile": {
         "height": "1.8 m",
-        "weight": "83 kg"
+        "weight": "83 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 728,
@@ -20957,7 +21684,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "7.5 kg"
+        "weight": "7.5 kg",
+        "egg": ["Water 1", "Field"]
     }
 }, {
     "id": 729,
@@ -20990,7 +21718,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "17.5 kg"
+        "weight": "17.5 kg",
+        "egg": ["Water 1", "Field"]
     }
 }, {
     "id": 730,
@@ -21019,7 +21748,8 @@
     },
     "profile": {
         "height": "1.8 m",
-        "weight": "44 kg"
+        "weight": "44 kg",
+        "egg": ["Water 1", "Field"]
     }
 }, {
     "id": 731,
@@ -21048,7 +21778,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "1.2 kg"
+        "weight": "1.2 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 732,
@@ -21081,7 +21812,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "14.8 kg"
+        "weight": "14.8 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 733,
@@ -21110,7 +21842,8 @@
     },
     "profile": {
         "height": "1.1 m",
-        "weight": "26 kg"
+        "weight": "26 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 734,
@@ -21139,7 +21872,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "6 kg"
+        "weight": "6 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 735,
@@ -21168,7 +21902,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "14.2 kg"
+        "weight": "14.2 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 736,
@@ -21197,7 +21932,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "4.4 kg"
+        "weight": "4.4 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 737,
@@ -21230,7 +21966,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "10.5 kg"
+        "weight": "10.5 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 738,
@@ -21259,7 +21996,8 @@
     },
     "profile": {
         "height": "1.5 m",
-        "weight": "45 kg"
+        "weight": "45 kg",
+        "egg": ["Bug"]
     }
 }, {
     "id": 739,
@@ -21288,7 +22026,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "7 kg"
+        "weight": "7 kg",
+        "egg": ["Water 3"]
     }
 }, {
     "id": 740,
@@ -21317,7 +22056,8 @@
     },
     "profile": {
         "height": "1.7 m",
-        "weight": "180 kg"
+        "weight": "180 kg",
+        "egg": ["Water 3"]
     }
 }, {
     "id": 741,
@@ -21341,7 +22081,8 @@
     "evolution": {},
     "profile": {
         "height": "0.6 m",
-        "weight": "3.4 kg"
+        "weight": "3.4 kg",
+        "egg": ["Flying"]
     }
 }, {
     "id": 742,
@@ -21370,7 +22111,8 @@
     },
     "profile": {
         "height": "0.1 m",
-        "weight": "0.2 kg"
+        "weight": "0.2 kg",
+        "egg": ["Bug", "Fairy"]
     }
 }, {
     "id": 743,
@@ -21399,7 +22141,8 @@
     },
     "profile": {
         "height": "0.2 m",
-        "weight": "0.5 kg"
+        "weight": "0.5 kg",
+        "egg": ["Bug", "Fairy"]
     }
 }, {
     "id": 744,
@@ -21428,7 +22171,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "9.2 kg"
+        "weight": "9.2 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 745,
@@ -21457,7 +22201,8 @@
     },
     "profile": {
         "height": "0.8 m",
-        "weight": "25 kg"
+        "weight": "25 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 746,
@@ -21481,7 +22226,8 @@
     "evolution": {},
     "profile": {
         "height": "0.2 m",
-        "weight": "0.3 kg"
+        "weight": "0.3 kg",
+        "egg": ["Water 2"]
     }
 }, {
     "id": 747,
@@ -21510,7 +22256,8 @@
     },
     "profile": {
         "height": "0.4 m",
-        "weight": "8 kg"
+        "weight": "8 kg",
+        "egg": ["Water 1"]
     }
 }, {
     "id": 748,
@@ -21539,7 +22286,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "14.5 kg"
+        "weight": "14.5 kg",
+        "egg": ["Water 1"]
     }
 }, {
     "id": 749,
@@ -21568,7 +22316,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "110 kg"
+        "weight": "110 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 750,
@@ -21597,7 +22346,8 @@
     },
     "profile": {
         "height": "2.5 m",
-        "weight": "920 kg"
+        "weight": "920 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 751,
@@ -21626,7 +22376,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "4 kg"
+        "weight": "4 kg",
+        "egg": ["Water 1", "Bug"]
     }
 }, {
     "id": 752,
@@ -21655,7 +22406,8 @@
     },
     "profile": {
         "height": "1.8 m",
-        "weight": "82 kg"
+        "weight": "82 kg",
+        "egg": ["Water 1", "Bug"]
     }
 }, {
     "id": 753,
@@ -21684,7 +22436,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "1.5 kg"
+        "weight": "1.5 kg",
+        "egg": ["Grass"]
     }
 }, {
     "id": 754,
@@ -21713,7 +22466,8 @@
     },
     "profile": {
         "height": "0.9 m",
-        "weight": "18.5 kg"
+        "weight": "18.5 kg",
+        "egg": ["Grass"]
     }
 }, {
     "id": 755,
@@ -21742,7 +22496,8 @@
     },
     "profile": {
         "height": "0.2 m",
-        "weight": "1.5 kg"
+        "weight": "1.5 kg",
+        "egg": ["Grass"]
     }
 }, {
     "id": 756,
@@ -21771,7 +22526,8 @@
     },
     "profile": {
         "height": "1 m",
-        "weight": "11.5 kg"
+        "weight": "11.5 kg",
+        "egg": ["Grass"]
     }
 }, {
     "id": 757,
@@ -21800,7 +22556,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "4.8 kg"
+        "weight": "4.8 kg",
+        "egg": ["Monster", "Dragon"]
     }
 }, {
     "id": 758,
@@ -21829,7 +22586,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "22.2 kg"
+        "weight": "22.2 kg",
+        "egg": ["Monster", "Dragon"]
     }
 }, {
     "id": 759,
@@ -21858,7 +22616,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "6.8 kg"
+        "weight": "6.8 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 760,
@@ -21887,7 +22646,8 @@
     },
     "profile": {
         "height": "2.1 m",
-        "weight": "135 kg"
+        "weight": "135 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 761,
@@ -21916,7 +22676,8 @@
     },
     "profile": {
         "height": "0.3 m",
-        "weight": "3.2 kg"
+        "weight": "3.2 kg",
+        "egg": ["Grass"]
     }
 }, {
     "id": 762,
@@ -21949,7 +22710,8 @@
     },
     "profile": {
         "height": "0.7 m",
-        "weight": "8.2 kg"
+        "weight": "8.2 kg",
+        "egg": ["Grass"]
     }
 }, {
     "id": 763,
@@ -21978,7 +22740,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "21.4 kg"
+        "weight": "21.4 kg",
+        "egg": ["Grass"]
     }
 }, {
     "id": 764,
@@ -22002,7 +22765,8 @@
     "evolution": {},
     "profile": {
         "height": "0.1 m",
-        "weight": "0.3 kg"
+        "weight": "0.3 kg",
+        "egg": ["Grass"]
     }
 }, {
     "id": 765,
@@ -22026,7 +22790,8 @@
     "evolution": {},
     "profile": {
         "height": "1.5 m",
-        "weight": "76 kg"
+        "weight": "76 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 766,
@@ -22050,7 +22815,8 @@
     "evolution": {},
     "profile": {
         "height": "2 m",
-        "weight": "82.8 kg"
+        "weight": "82.8 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 767,
@@ -22079,7 +22845,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "12 kg"
+        "weight": "12 kg",
+        "egg": ["Bug", "Water 3"]
     }
 }, {
     "id": 768,
@@ -22108,7 +22875,8 @@
     },
     "profile": {
         "height": "2 m",
-        "weight": "108 kg"
+        "weight": "108 kg",
+        "egg": ["Bug", "Water 3"]
     }
 }, {
     "id": 769,
@@ -22137,7 +22905,8 @@
     },
     "profile": {
         "height": "0.5 m",
-        "weight": "70 kg"
+        "weight": "70 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 770,
@@ -22166,7 +22935,8 @@
     },
     "profile": {
         "height": "1.3 m",
-        "weight": "250 kg"
+        "weight": "250 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 771,
@@ -22190,7 +22960,8 @@
     "evolution": {},
     "profile": {
         "height": "0.3 m",
-        "weight": "1.2 kg"
+        "weight": "1.2 kg",
+        "egg": ["Water 1"]
     }
 }, {
     "id": 772,
@@ -22219,7 +22990,8 @@
     },
     "profile": {
         "height": "1.9 m",
-        "weight": "120.5 kg"
+        "weight": "120.5 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 773,
@@ -22248,7 +23020,8 @@
     },
     "profile": {
         "height": "2.3 m",
-        "weight": "100.5 kg"
+        "weight": "100.5 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 774,
@@ -22272,7 +23045,8 @@
     "evolution": {},
     "profile": {
         "height": "0.3 m",
-        "weight": "40 kg"
+        "weight": "40 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 775,
@@ -22296,7 +23070,8 @@
     "evolution": {},
     "profile": {
         "height": "0.4 m",
-        "weight": "19.9 kg"
+        "weight": "19.9 kg",
+        "egg": ["Field"]
     }
 }, {
     "id": 776,
@@ -22320,7 +23095,8 @@
     "evolution": {},
     "profile": {
         "height": "2 m",
-        "weight": "212 kg"
+        "weight": "212 kg",
+        "egg": ["Monster", "Dragon"]
     }
 }, {
     "id": 777,
@@ -22344,7 +23120,8 @@
     "evolution": {},
     "profile": {
         "height": "0.3 m",
-        "weight": "3.3 kg"
+        "weight": "3.3 kg",
+        "egg": ["Field", "Fairy"]
     }
 }, {
     "id": 778,
@@ -22368,7 +23145,8 @@
     "evolution": {},
     "profile": {
         "height": "0.2 m",
-        "weight": "0.7 kg"
+        "weight": "0.7 kg",
+        "egg": ["Amorphous"]
     }
 }, {
     "id": 779,
@@ -22392,7 +23170,8 @@
     "evolution": {},
     "profile": {
         "height": "0.9 m",
-        "weight": "19 kg"
+        "weight": "19 kg",
+        "egg": ["Water 2"]
     }
 }, {
     "id": 780,
@@ -22416,7 +23195,8 @@
     "evolution": {},
     "profile": {
         "height": "3 m",
-        "weight": "185 kg"
+        "weight": "185 kg",
+        "egg": ["Monster", "Dragon"]
     }
 }, {
     "id": 781,
@@ -22440,7 +23220,8 @@
     "evolution": {},
     "profile": {
         "height": "3.9 m",
-        "weight": "210 kg"
+        "weight": "210 kg",
+        "egg": ["Mineral"]
     }
 }, {
     "id": 782,
@@ -22469,7 +23250,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "29.7 kg"
+        "weight": "29.7 kg",
+        "egg": ["Dragon"]
     }
 }, {
     "id": 783,
@@ -22502,7 +23284,8 @@
     },
     "profile": {
         "height": "1.2 m",
-        "weight": "47 kg"
+        "weight": "47 kg",
+        "egg": ["Dragon"]
     }
 }, {
     "id": 784,
@@ -22531,7 +23314,8 @@
     },
     "profile": {
         "height": "1.6 m",
-        "weight": "78.2 kg"
+        "weight": "78.2 kg",
+        "egg": ["Dragon"]
     }
 }, {
     "id": 785,
@@ -22555,7 +23339,8 @@
     "evolution": {},
     "profile": {
         "height": "1.8 m",
-        "weight": "20.5 kg"
+        "weight": "20.5 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 786,
@@ -22579,7 +23364,8 @@
     "evolution": {},
     "profile": {
         "height": "1.2 m",
-        "weight": "18.6 kg"
+        "weight": "18.6 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 787,
@@ -22603,7 +23389,8 @@
     "evolution": {},
     "profile": {
         "height": "1.9 m",
-        "weight": "45.5 kg"
+        "weight": "45.5 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 788,
@@ -22627,7 +23414,8 @@
     "evolution": {},
     "profile": {
         "height": "1.3 m",
-        "weight": "21.2 kg"
+        "weight": "21.2 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 789,
@@ -22656,7 +23444,8 @@
     },
     "profile": {
         "height": "0.2 m",
-        "weight": "0.1 kg"
+        "weight": "0.1 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 790,
@@ -22693,7 +23482,8 @@
     },
     "profile": {
         "height": "0.1 m",
-        "weight": "999.9 kg"
+        "weight": "999.9 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 791,
@@ -22722,7 +23512,8 @@
     },
     "profile": {
         "height": "3.4 m",
-        "weight": "230 kg"
+        "weight": "230 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 792,
@@ -22751,7 +23542,8 @@
     },
     "profile": {
         "height": "4 m",
-        "weight": "120 kg"
+        "weight": "120 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 793,
@@ -22775,7 +23567,8 @@
     "evolution": {},
     "profile": {
         "height": "1.2 m",
-        "weight": "55.5 kg"
+        "weight": "55.5 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 794,
@@ -22799,7 +23592,8 @@
     "evolution": {},
     "profile": {
         "height": "2.4 m",
-        "weight": "333.6 kg"
+        "weight": "333.6 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 795,
@@ -22823,7 +23617,8 @@
     "evolution": {},
     "profile": {
         "height": "1.8 m",
-        "weight": "25 kg"
+        "weight": "25 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 796,
@@ -22847,7 +23642,8 @@
     "evolution": {},
     "profile": {
         "height": "3.8 m",
-        "weight": "100 kg"
+        "weight": "100 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 797,
@@ -22871,7 +23667,8 @@
     "evolution": {},
     "profile": {
         "height": "9.2 m",
-        "weight": "999.9 kg"
+        "weight": "999.9 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 798,
@@ -22895,7 +23692,8 @@
     "evolution": {},
     "profile": {
         "height": "0.3 m",
-        "weight": "0.1 kg"
+        "weight": "0.1 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 799,
@@ -22919,7 +23717,8 @@
     "evolution": {},
     "profile": {
         "height": "5.5 m",
-        "weight": "888 kg"
+        "weight": "888 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 800,
@@ -22943,7 +23742,8 @@
     "evolution": {},
     "profile": {
         "height": "2.4 m",
-        "weight": "230 kg"
+        "weight": "230 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 801,
@@ -22967,7 +23767,8 @@
     "evolution": {},
     "profile": {
         "height": "1 m",
-        "weight": "80.5 kg"
+        "weight": "80.5 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 802,
@@ -22991,7 +23792,8 @@
     "evolution": {},
     "profile": {
         "height": "0.7 m",
-        "weight": "22.2 kg"
+        "weight": "22.2 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 803,
@@ -23020,7 +23822,8 @@
     },
     "profile": {
         "height": "0.6 m",
-        "weight": "1.8 kg"
+        "weight": "1.8 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 804,
@@ -23049,7 +23852,8 @@
     },
     "profile": {
         "height": "3.6 m",
-        "weight": "150 kg"
+        "weight": "150 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 805,
@@ -23073,7 +23877,8 @@
     "evolution": {},
     "profile": {
         "height": "5.5 m",
-        "weight": "820 kg"
+        "weight": "820 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 806,
@@ -23097,7 +23902,8 @@
     "evolution": {},
     "profile": {
         "height": "1.8 m",
-        "weight": "13 kg"
+        "weight": "13 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 807,
@@ -23121,7 +23927,8 @@
     "evolution": {},
     "profile": {
         "height": "1.5 m",
-        "weight": "44.5 kg"
+        "weight": "44.5 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 808,
@@ -23150,7 +23957,8 @@
     },
     "profile": {
         "height": "0.2 m",
-        "weight": "8.0 kg"
+        "weight": "8.0 kg",
+        "egg": ["Undiscovered"]
     }
 }, {
     "id": 809,
@@ -23179,6 +23987,7 @@
     },
     "profile": {
         "height": "2.5 m",
-        "weight": "800.0 kg"
+        "weight": "800.0 kg",
+        "egg": ["Undiscovered"]
     }
 }]
