@@ -22,6 +22,10 @@
             "id": "2",
             "req": "Level 16"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "6.9 kg"
     }
 }, {
     "id": 2,
@@ -51,6 +55,10 @@
             "id": "1",
             "req": "Level 16"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "13 kg"
     }
 }, {
     "id": 3,
@@ -76,6 +84,10 @@
             "id": "2",
             "req": "Level 32"
         }
+    },
+    "profile": {
+        "height": "2 m",
+        "weight": "100 kg"
     }
 }, {
     "id": 4,
@@ -101,6 +113,10 @@
             "id": "5",
             "req": "Level 16"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "8.5 kg"
     }
 }, {
     "id": 5,
@@ -130,6 +146,10 @@
             "id": "4",
             "req": "Level 16"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "19 kg"
     }
 }, {
     "id": 6,
@@ -155,6 +175,10 @@
             "id": "5",
             "req": "Level 36"
         }
+    },
+    "profile": {
+        "height": "1.7 m",
+        "weight": "90.5 kg"
     }
 }, {
     "id": 7,
@@ -180,6 +204,10 @@
             "id": "8",
             "req": "Level 16"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "9 kg"
     }
 }, {
     "id": 8,
@@ -209,6 +237,10 @@
             "id": "7",
             "req": "Level 16"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "22.5 kg"
     }
 }, {
     "id": 9,
@@ -234,6 +266,10 @@
             "id": "8",
             "req": "Level 36"
         }
+    },
+    "profile": {
+        "height": "1.6 m",
+        "weight": "85.5 kg"
     }
 }, {
     "id": 10,
@@ -259,6 +295,10 @@
             "id": "11",
             "req": "Level 7"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "2.9 kg"
     }
 }, {
     "id": 11,
@@ -288,6 +328,10 @@
             "id": "10",
             "req": "Level 7"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "9.9 kg"
     }
 }, {
     "id": 12,
@@ -313,6 +357,10 @@
             "id": "11",
             "req": "Level 10"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "32 kg"
     }
 }, {
     "id": 13,
@@ -338,6 +386,10 @@
             "id": "14",
             "req": "Level 7"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "3.2 kg"
     }
 }, {
     "id": 14,
@@ -367,6 +419,10 @@
             "id": "13",
             "req": "Level 7"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "10 kg"
     }
 }, {
     "id": 15,
@@ -392,6 +448,10 @@
             "id": "14",
             "req": "Level 10"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "29.5 kg"
     }
 }, {
     "id": 16,
@@ -417,6 +477,10 @@
             "id": "17",
             "req": "Level 18"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "1.8 kg"
     }
 }, {
     "id": 17,
@@ -446,6 +510,10 @@
             "id": "16",
             "req": "Level 18"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "30 kg"
     }
 }, {
     "id": 18,
@@ -471,6 +539,10 @@
             "id": "17",
             "req": "Level 36"
         }
+    },
+    "profile": {
+        "height": "1.5 m",
+        "weight": "39.5 kg"
     }
 }, {
     "id": 19,
@@ -496,6 +568,10 @@
             "id": "20",
             "req": "Level 20"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "3.5 kg"
     }
 }, {
     "id": 20,
@@ -521,6 +597,10 @@
             "id": "19",
             "req": "Level 20"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "18.5 kg"
     }
 }, {
     "id": 21,
@@ -546,6 +626,10 @@
             "id": "22",
             "req": "Level 20"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "2 kg"
     }
 }, {
     "id": 22,
@@ -571,6 +655,10 @@
             "id": "21",
             "req": "Level 20"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "38 kg"
     }
 }, {
     "id": 23,
@@ -596,6 +684,10 @@
             "id": "24",
             "req": "Level 22"
         }
+    },
+    "profile": {
+        "height": "2 m",
+        "weight": "6.9 kg"
     }
 }, {
     "id": 24,
@@ -621,6 +713,10 @@
             "id": "23",
             "req": "Level 22"
         }
+    },
+    "profile": {
+        "height": "3.5 m",
+        "weight": "65 kg"
     }
 }, {
     "id": 25,
@@ -650,6 +746,10 @@
             "id": "172",
             "req": "high Friendship"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "6 kg"
     }
 }, {
     "id": 26,
@@ -675,6 +775,10 @@
             "id": "25",
             "req": "use Thunder Stone"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "30 kg"
     }
 }, {
     "id": 27,
@@ -700,6 +804,10 @@
             "id": "28",
             "req": "Level 22"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "12 kg"
     }
 }, {
     "id": 28,
@@ -725,6 +833,10 @@
             "id": "27",
             "req": "Level 22"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "29.5 kg"
     }
 }, {
     "id": 29,
@@ -750,6 +862,10 @@
             "id": "30",
             "req": "Level 16"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "7 kg"
     }
 }, {
     "id": 30,
@@ -779,6 +895,10 @@
             "id": "29",
             "req": "Level 16"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "20 kg"
     }
 }, {
     "id": 31,
@@ -804,6 +924,10 @@
             "id": "30",
             "req": "use Moon Stone"
         }
+    },
+    "profile": {
+        "height": "1.3 m",
+        "weight": "60 kg"
     }
 }, {
     "id": 32,
@@ -829,6 +953,10 @@
             "id": "33",
             "req": "Level 16"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "9 kg"
     }
 }, {
     "id": 33,
@@ -858,6 +986,10 @@
             "id": "32",
             "req": "Level 16"
         }
+    },
+    "profile": {
+        "height": "0.9 m",
+        "weight": "19.5 kg"
     }
 }, {
     "id": 34,
@@ -883,6 +1015,10 @@
             "id": "33",
             "req": "use Moon Stone"
         }
+    },
+    "profile": {
+        "height": "1.4 m",
+        "weight": "62 kg"
     }
 }, {
     "id": 35,
@@ -912,6 +1048,10 @@
             "id": "173",
             "req": "high Friendship"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "7.5 kg"
     }
 }, {
     "id": 36,
@@ -937,6 +1077,10 @@
             "id": "35",
             "req": "use Moon Stone"
         }
+    },
+    "profile": {
+        "height": "1.3 m",
+        "weight": "40 kg"
     }
 }, {
     "id": 37,
@@ -962,6 +1106,10 @@
             "id": "38",
             "req": "use Fire Stone"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "9.9 kg"
     }
 }, {
     "id": 38,
@@ -987,6 +1135,10 @@
             "id": "37",
             "req": "use Fire Stone"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "19.9 kg"
     }
 }, {
     "id": 39,
@@ -1016,6 +1168,10 @@
             "id": "174",
             "req": "high Friendship"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "5.5 kg"
     }
 }, {
     "id": 40,
@@ -1041,6 +1197,10 @@
             "id": "39",
             "req": "use Moon Stone"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "12 kg"
     }
 }, {
     "id": 41,
@@ -1066,6 +1226,10 @@
             "id": "42",
             "req": "Level 22"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "7.5 kg"
     }
 }, {
     "id": 42,
@@ -1095,6 +1259,10 @@
             "id": "41",
             "req": "Level 22"
         }
+    },
+    "profile": {
+        "height": "1.6 m",
+        "weight": "55 kg"
     }
 }, {
     "id": 43,
@@ -1120,6 +1288,10 @@
             "id": "44",
             "req": "Level 21"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "5.4 kg"
     }
 }, {
     "id": 44,
@@ -1153,6 +1325,10 @@
             "id": "43",
             "req": "Level 21"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "8.6 kg"
     }
 }, {
     "id": 45,
@@ -1178,6 +1354,10 @@
             "id": "44",
             "req": "use Leaf Stone"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "18.6 kg"
     }
 }, {
     "id": 46,
@@ -1203,6 +1383,10 @@
             "id": "47",
             "req": "Level 24"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "5.4 kg"
     }
 }, {
     "id": 47,
@@ -1228,6 +1412,10 @@
             "id": "46",
             "req": "Level 24"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "29.5 kg"
     }
 }, {
     "id": 48,
@@ -1253,6 +1441,10 @@
             "id": "49",
             "req": "Level 31"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "30 kg"
     }
 }, {
     "id": 49,
@@ -1278,6 +1470,10 @@
             "id": "48",
             "req": "Level 31"
         }
+    },
+    "profile": {
+        "height": "1.5 m",
+        "weight": "12.5 kg"
     }
 }, {
     "id": 50,
@@ -1303,6 +1499,10 @@
             "id": "51",
             "req": "Level 26"
         }
+    },
+    "profile": {
+        "height": "0.2 m",
+        "weight": "0.8 kg"
     }
 }, {
     "id": 51,
@@ -1328,6 +1528,10 @@
             "id": "50",
             "req": "Level 26"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "33.3 kg"
     }
 }, {
     "id": 52,
@@ -1353,6 +1557,10 @@
             "id": "53",
             "req": "Level 28"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "4.2 kg"
     }
 }, {
     "id": 53,
@@ -1378,6 +1586,10 @@
             "id": "52",
             "req": "Level 28"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "32 kg"
     }
 }, {
     "id": 54,
@@ -1403,6 +1615,10 @@
             "id": "55",
             "req": "Level 33"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "19.6 kg"
     }
 }, {
     "id": 55,
@@ -1428,6 +1644,10 @@
             "id": "54",
             "req": "Level 33"
         }
+    },
+    "profile": {
+        "height": "1.7 m",
+        "weight": "76.6 kg"
     }
 }, {
     "id": 56,
@@ -1453,6 +1673,10 @@
             "id": "57",
             "req": "Level 28"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "28 kg"
     }
 }, {
     "id": 57,
@@ -1478,6 +1702,10 @@
             "id": "56",
             "req": "Level 28"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "32 kg"
     }
 }, {
     "id": 58,
@@ -1503,6 +1731,10 @@
             "id": "59",
             "req": "use Fire Stone"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "19 kg"
     }
 }, {
     "id": 59,
@@ -1528,6 +1760,10 @@
             "id": "58",
             "req": "use Fire Stone"
         }
+    },
+    "profile": {
+        "height": "1.9 m",
+        "weight": "155 kg"
     }
 }, {
     "id": 60,
@@ -1553,6 +1789,10 @@
             "id": "61",
             "req": "Level 25"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "12.4 kg"
     }
 }, {
     "id": 61,
@@ -1586,6 +1826,10 @@
             "id": "60",
             "req": "Level 25"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "20 kg"
     }
 }, {
     "id": 62,
@@ -1611,6 +1855,10 @@
             "id": "61",
             "req": "use Water Stone"
         }
+    },
+    "profile": {
+        "height": "1.3 m",
+        "weight": "54 kg"
     }
 }, {
     "id": 63,
@@ -1636,6 +1884,10 @@
             "id": "64",
             "req": "Level 16"
         }
+    },
+    "profile": {
+        "height": "0.9 m",
+        "weight": "19.5 kg"
     }
 }, {
     "id": 64,
@@ -1665,6 +1917,10 @@
             "id": "63",
             "req": "Level 16"
         }
+    },
+    "profile": {
+        "height": "1.3 m",
+        "weight": "56.5 kg"
     }
 }, {
     "id": 65,
@@ -1690,6 +1946,10 @@
             "id": "64",
             "req": "Trade"
         }
+    },
+    "profile": {
+        "height": "1.5 m",
+        "weight": "48 kg"
     }
 }, {
     "id": 66,
@@ -1715,6 +1975,10 @@
             "id": "67",
             "req": "Level 28"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "19.5 kg"
     }
 }, {
     "id": 67,
@@ -1744,6 +2008,10 @@
             "id": "66",
             "req": "Level 28"
         }
+    },
+    "profile": {
+        "height": "1.5 m",
+        "weight": "70.5 kg"
     }
 }, {
     "id": 68,
@@ -1769,6 +2037,10 @@
             "id": "67",
             "req": "Trade"
         }
+    },
+    "profile": {
+        "height": "1.6 m",
+        "weight": "130 kg"
     }
 }, {
     "id": 69,
@@ -1794,6 +2066,10 @@
             "id": "70",
             "req": "Level 21"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "4 kg"
     }
 }, {
     "id": 70,
@@ -1823,6 +2099,10 @@
             "id": "69",
             "req": "Level 21"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "6.4 kg"
     }
 }, {
     "id": 71,
@@ -1848,6 +2128,10 @@
             "id": "70",
             "req": "use Leaf Stone"
         }
+    },
+    "profile": {
+        "height": "1.7 m",
+        "weight": "15.5 kg"
     }
 }, {
     "id": 72,
@@ -1873,6 +2157,10 @@
             "id": "73",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "0.9 m",
+        "weight": "45.5 kg"
     }
 }, {
     "id": 73,
@@ -1898,6 +2186,10 @@
             "id": "72",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "1.6 m",
+        "weight": "55 kg"
     }
 }, {
     "id": 74,
@@ -1923,6 +2215,10 @@
             "id": "75",
             "req": "Level 25"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "20 kg"
     }
 }, {
     "id": 75,
@@ -1952,6 +2248,10 @@
             "id": "74",
             "req": "Level 25"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "105 kg"
     }
 }, {
     "id": 76,
@@ -1977,6 +2277,10 @@
             "id": "75",
             "req": "Trade"
         }
+    },
+    "profile": {
+        "height": "1.4 m",
+        "weight": "300 kg"
     }
 }, {
     "id": 77,
@@ -2002,6 +2306,10 @@
             "id": "78",
             "req": "Level 40"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "30 kg"
     }
 }, {
     "id": 78,
@@ -2027,6 +2335,10 @@
             "id": "77",
             "req": "Level 40"
         }
+    },
+    "profile": {
+        "height": "1.7 m",
+        "weight": "95 kg"
     }
 }, {
     "id": 79,
@@ -2056,6 +2368,10 @@
             "id": "199",
             "req": "trade holding Kings Rock"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "36 kg"
     }
 }, {
     "id": 80,
@@ -2081,6 +2397,10 @@
             "id": "79",
             "req": "Level 37"
         }
+    },
+    "profile": {
+        "height": "1.6 m",
+        "weight": "78.5 kg"
     }
 }, {
     "id": 81,
@@ -2106,6 +2426,10 @@
             "id": "82",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "6 kg"
     }
 }, {
     "id": 82,
@@ -2135,6 +2459,10 @@
             "id": "81",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "60 kg"
     }
 }, {
     "id": 83,
@@ -2155,7 +2483,11 @@
     },
     "species": "Wild Duck Pokémon",
     "description": "Farfetch’d is always seen with a stalk from a plant of some sort. Apparently, there are good stalks and bad stalks. This Pokémon has been known to fight with others over stalks.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.8 m",
+        "weight": "15 kg"
+    }
 }, {
     "id": 84,
     "name": {
@@ -2180,6 +2512,10 @@
             "id": "85",
             "req": "Level 31"
         }
+    },
+    "profile": {
+        "height": "1.4 m",
+        "weight": "39.2 kg"
     }
 }, {
     "id": 85,
@@ -2205,6 +2541,10 @@
             "id": "84",
             "req": "Level 31"
         }
+    },
+    "profile": {
+        "height": "1.8 m",
+        "weight": "85.2 kg"
     }
 }, {
     "id": 86,
@@ -2230,6 +2570,10 @@
             "id": "87",
             "req": "Level 34"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "90 kg"
     }
 }, {
     "id": 87,
@@ -2255,6 +2599,10 @@
             "id": "86",
             "req": "Level 34"
         }
+    },
+    "profile": {
+        "height": "1.7 m",
+        "weight": "120 kg"
     }
 }, {
     "id": 88,
@@ -2280,6 +2628,10 @@
             "id": "89",
             "req": "Level 38"
         }
+    },
+    "profile": {
+        "height": "0.9 m",
+        "weight": "30 kg"
     }
 }, {
     "id": 89,
@@ -2305,6 +2657,10 @@
             "id": "88",
             "req": "Level 38"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "30 kg"
     }
 }, {
     "id": 90,
@@ -2330,6 +2686,10 @@
             "id": "91",
             "req": "use Water Stone"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "4 kg"
     }
 }, {
     "id": 91,
@@ -2355,6 +2715,10 @@
             "id": "90",
             "req": "use Water Stone"
         }
+    },
+    "profile": {
+        "height": "1.5 m",
+        "weight": "132.5 kg"
     }
 }, {
     "id": 92,
@@ -2380,6 +2744,10 @@
             "id": "93",
             "req": "Level 25"
         }
+    },
+    "profile": {
+        "height": "1.3 m",
+        "weight": "0.1 kg"
     }
 }, {
     "id": 93,
@@ -2409,6 +2777,10 @@
             "id": "92",
             "req": "Level 25"
         }
+    },
+    "profile": {
+        "height": "1.6 m",
+        "weight": "0.1 kg"
     }
 }, {
     "id": 94,
@@ -2434,6 +2806,10 @@
             "id": "93",
             "req": "Trade"
         }
+    },
+    "profile": {
+        "height": "1.5 m",
+        "weight": "40.5 kg"
     }
 }, {
     "id": 95,
@@ -2459,6 +2835,10 @@
             "id": "208",
             "req": "trade holding Metal Coat"
         }
+    },
+    "profile": {
+        "height": "8.8 m",
+        "weight": "210 kg"
     }
 }, {
     "id": 96,
@@ -2484,6 +2864,10 @@
             "id": "97",
             "req": "Level 26"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "32.4 kg"
     }
 }, {
     "id": 97,
@@ -2509,6 +2893,10 @@
             "id": "96",
             "req": "Level 26"
         }
+    },
+    "profile": {
+        "height": "1.6 m",
+        "weight": "75.6 kg"
     }
 }, {
     "id": 98,
@@ -2534,6 +2922,10 @@
             "id": "99",
             "req": "Level 28"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "6.5 kg"
     }
 }, {
     "id": 99,
@@ -2559,6 +2951,10 @@
             "id": "98",
             "req": "Level 28"
         }
+    },
+    "profile": {
+        "height": "1.3 m",
+        "weight": "60 kg"
     }
 }, {
     "id": 100,
@@ -2584,6 +2980,10 @@
             "id": "101",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "10.4 kg"
     }
 }, {
     "id": 101,
@@ -2609,6 +3009,10 @@
             "id": "100",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "66.6 kg"
     }
 }, {
     "id": 102,
@@ -2634,6 +3038,10 @@
             "id": "103",
             "req": "use Leaf Stone"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "2.5 kg"
     }
 }, {
     "id": 103,
@@ -2659,6 +3067,10 @@
             "id": "102",
             "req": "use Leaf Stone"
         }
+    },
+    "profile": {
+        "height": "2 m",
+        "weight": "120 kg"
     }
 }, {
     "id": 104,
@@ -2684,6 +3096,10 @@
             "id": "105",
             "req": "Level 28"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "6.5 kg"
     }
 }, {
     "id": 105,
@@ -2709,6 +3125,10 @@
             "id": "104",
             "req": "Level 28"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "45 kg"
     }
 }, {
     "id": 106,
@@ -2734,6 +3154,10 @@
             "id": "236",
             "req": "Level 20, Attack > Defense"
         }
+    },
+    "profile": {
+        "height": "1.5 m",
+        "weight": "49.8 kg"
     }
 }, {
     "id": 107,
@@ -2759,6 +3183,10 @@
             "id": "236",
             "req": "Level 20, Attack < Defense"
         }
+    },
+    "profile": {
+        "height": "1.4 m",
+        "weight": "50.2 kg"
     }
 }, {
     "id": 108,
@@ -2784,6 +3212,10 @@
             "id": "463",
             "req": "after Rollout learned"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "65.5 kg"
     }
 }, {
     "id": 109,
@@ -2809,6 +3241,10 @@
             "id": "110",
             "req": "Level 35"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "1 kg"
     }
 }, {
     "id": 110,
@@ -2834,6 +3270,10 @@
             "id": "109",
             "req": "Level 35"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "9.5 kg"
     }
 }, {
     "id": 111,
@@ -2859,6 +3299,10 @@
             "id": "112",
             "req": "Level 42"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "115 kg"
     }
 }, {
     "id": 112,
@@ -2888,6 +3332,10 @@
             "id": "111",
             "req": "Level 42"
         }
+    },
+    "profile": {
+        "height": "1.9 m",
+        "weight": "120 kg"
     }
 }, {
     "id": 113,
@@ -2917,6 +3365,10 @@
             "id": "440",
             "req": "hold Oval Stone, Daytime"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "34.6 kg"
     }
 }, {
     "id": 114,
@@ -2942,6 +3394,10 @@
             "id": "465",
             "req": "after Ancient Power learned"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "35 kg"
     }
 }, {
     "id": 115,
@@ -2962,7 +3418,11 @@
     },
     "species": "Parent Pokémon",
     "description": "You shouldn’t get close to the child when it’s playing outside its mother’s pouch. Its mother is always nearby watching over it.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "2.2 m",
+        "weight": "80 kg"
+    }
 }, {
     "id": 116,
     "name": {
@@ -2987,6 +3447,10 @@
             "id": "117",
             "req": "Level 32"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "8 kg"
     }
 }, {
     "id": 117,
@@ -3016,6 +3480,10 @@
             "id": "116",
             "req": "Level 32"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "25 kg"
     }
 }, {
     "id": 118,
@@ -3041,6 +3509,10 @@
             "id": "119",
             "req": "Level 33"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "15 kg"
     }
 }, {
     "id": 119,
@@ -3066,6 +3538,10 @@
             "id": "118",
             "req": "Level 33"
         }
+    },
+    "profile": {
+        "height": "1.3 m",
+        "weight": "39 kg"
     }
 }, {
     "id": 120,
@@ -3091,6 +3567,10 @@
             "id": "121",
             "req": "use Water Stone"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "34.5 kg"
     }
 }, {
     "id": 121,
@@ -3116,6 +3596,10 @@
             "id": "120",
             "req": "use Water Stone"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "80 kg"
     }
 }, {
     "id": 122,
@@ -3141,6 +3625,10 @@
             "id": "439",
             "req": "after Mimic learned"
         }
+    },
+    "profile": {
+        "height": "1.3 m",
+        "weight": "54.5 kg"
     }
 }, {
     "id": 123,
@@ -3166,6 +3654,10 @@
             "id": "212",
             "req": "trade holding Metal Coat"
         }
+    },
+    "profile": {
+        "height": "1.5 m",
+        "weight": "56 kg"
     }
 }, {
     "id": 124,
@@ -3191,6 +3683,10 @@
             "id": "238",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "1.4 m",
+        "weight": "40.6 kg"
     }
 }, {
     "id": 125,
@@ -3220,6 +3716,10 @@
             "id": "239",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "30 kg"
     }
 }, {
     "id": 126,
@@ -3249,6 +3749,10 @@
             "id": "240",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "1.3 m",
+        "weight": "44.5 kg"
     }
 }, {
     "id": 127,
@@ -3269,7 +3773,11 @@
     },
     "species": "Stag Beetle Pokémon",
     "description": "Although it’s tough, it can’t handle cold well. When night falls, it buries itself in leafage and sleeps.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.5 m",
+        "weight": "55 kg"
+    }
 }, {
     "id": 128,
     "name": {
@@ -3289,7 +3797,11 @@
     },
     "species": "Wild Bull Pokémon",
     "description": "The climate seems to be related to the reason Tauros in Alola are a little calmer than those in other regions.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.4 m",
+        "weight": "88.4 kg"
+    }
 }, {
     "id": 129,
     "name": {
@@ -3314,6 +3826,10 @@
             "id": "130",
             "req": "Level 20"
         }
+    },
+    "profile": {
+        "height": "0.9 m",
+        "weight": "10 kg"
     }
 }, {
     "id": 130,
@@ -3339,6 +3855,10 @@
             "id": "129",
             "req": "Level 20"
         }
+    },
+    "profile": {
+        "height": "6.5 m",
+        "weight": "235 kg"
     }
 }, {
     "id": 131,
@@ -3359,7 +3879,11 @@
     },
     "species": "Transport Pokémon",
     "description": "They’ve been so cherished that there’s now an overabundance. The fish Pokémon population has declined in waters with too many Lapras.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "2.5 m",
+        "weight": "220 kg"
+    }
 }, {
     "id": 132,
     "name": {
@@ -3379,7 +3903,11 @@
     },
     "species": "Transform Pokémon",
     "description": "It transforms into whatever it sees. If the thing it’s transforming into isn’t right in front of it, Ditto relies on its memory—so sometimes it fails.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.3 m",
+        "weight": "4 kg"
+    }
 }, {
     "id": 133,
     "name": {
@@ -3432,6 +3960,10 @@
             "id": "700",
             "req": "High Affection and knowing Fairy move"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "6.5 kg"
     }
 }, {
     "id": 134,
@@ -3457,6 +3989,10 @@
             "id": "133",
             "req": "use Water Stone"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "29 kg"
     }
 }, {
     "id": 135,
@@ -3482,6 +4018,10 @@
             "id": "133",
             "req": "use Thunder Stone"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "24.5 kg"
     }
 }, {
     "id": 136,
@@ -3507,6 +4047,10 @@
             "id": "133",
             "req": "use Fire Stone"
         }
+    },
+    "profile": {
+        "height": "0.9 m",
+        "weight": "25 kg"
     }
 }, {
     "id": 137,
@@ -3532,6 +4076,10 @@
             "id": "233",
             "req": "trade holding Upgrade"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "36.5 kg"
     }
 }, {
     "id": 138,
@@ -3557,6 +4105,10 @@
             "id": "139",
             "req": "Level 40"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "7.5 kg"
     }
 }, {
     "id": 139,
@@ -3582,6 +4134,10 @@
             "id": "138",
             "req": "Level 40"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "35 kg"
     }
 }, {
     "id": 140,
@@ -3607,6 +4163,10 @@
             "id": "141",
             "req": "Level 40"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "11.5 kg"
     }
 }, {
     "id": 141,
@@ -3632,6 +4192,10 @@
             "id": "140",
             "req": "Level 40"
         }
+    },
+    "profile": {
+        "height": "1.3 m",
+        "weight": "40.5 kg"
     }
 }, {
     "id": 142,
@@ -3652,7 +4216,11 @@
     },
     "species": "Fossil Pokémon",
     "description": "It flew through the open skies over the ancient continent as if they were its own. When it touched ground, its walk was weak and slow.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.8 m",
+        "weight": "59 kg"
+    }
 }, {
     "id": 143,
     "name": {
@@ -3677,6 +4245,10 @@
             "id": "446",
             "req": "high Friendship"
         }
+    },
+    "profile": {
+        "height": "2.1 m",
+        "weight": "460 kg"
     }
 }, {
     "id": 144,
@@ -3697,7 +4269,11 @@
     },
     "species": "Freeze Pokémon",
     "description": "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.7 m",
+        "weight": "55.4 kg"
+    }
 }, {
     "id": 145,
     "name": {
@@ -3717,7 +4293,11 @@
     },
     "species": "Electric Pokémon",
     "description": "Zapdos is a legendary bird Pokémon that has the ability to control electricity. It usually lives in thunderclouds. The Pokémon gains power if it is stricken by lightning bolts.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.6 m",
+        "weight": "52.6 kg"
+    }
 }, {
     "id": 146,
     "name": {
@@ -3737,7 +4317,11 @@
     },
     "species": "Flame Pokémon",
     "description": "Moltres is a legendary bird Pokémon that has the ability to control fire. If this Pokémon is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "2 m",
+        "weight": "60 kg"
+    }
 }, {
     "id": 147,
     "name": {
@@ -3762,6 +4346,10 @@
             "id": "148",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "1.8 m",
+        "weight": "3.3 kg"
     }
 }, {
     "id": 148,
@@ -3791,6 +4379,10 @@
             "id": "147",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "4 m",
+        "weight": "16.5 kg"
     }
 }, {
     "id": 149,
@@ -3816,6 +4408,10 @@
             "id": "148",
             "req": "Level 55"
         }
+    },
+    "profile": {
+        "height": "2.2 m",
+        "weight": "210 kg"
     }
 }, {
     "id": 150,
@@ -3836,7 +4432,11 @@
     },
     "species": "Genetic Pokémon",
     "description": "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon’s body, they failed to endow Mewtwo with a compassionate heart.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "2 m",
+        "weight": "122 kg"
+    }
 }, {
     "id": 151,
     "name": {
@@ -3856,7 +4456,11 @@
     },
     "species": "New Species Pokémon",
     "description": "Mew is said to possess the genetic composition of all Pokémon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.4 m",
+        "weight": "4 kg"
+    }
 }, {
     "id": 152,
     "name": {
@@ -3881,6 +4485,10 @@
             "id": "153",
             "req": "Level 16"
         }
+    },
+    "profile": {
+        "height": "0.9 m",
+        "weight": "6.4 kg"
     }
 }, {
     "id": 153,
@@ -3910,6 +4518,10 @@
             "id": "152",
             "req": "Level 16"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "15.8 kg"
     }
 }, {
     "id": 154,
@@ -3935,6 +4547,10 @@
             "id": "153",
             "req": "Level 32"
         }
+    },
+    "profile": {
+        "height": "1.8 m",
+        "weight": "100.5 kg"
     }
 }, {
     "id": 155,
@@ -3960,6 +4576,10 @@
             "id": "156",
             "req": "Level 14"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "7.9 kg"
     }
 }, {
     "id": 156,
@@ -3989,6 +4609,10 @@
             "id": "155",
             "req": "Level 14"
         }
+    },
+    "profile": {
+        "height": "0.9 m",
+        "weight": "19 kg"
     }
 }, {
     "id": 157,
@@ -4014,6 +4638,10 @@
             "id": "156",
             "req": "Level 36"
         }
+    },
+    "profile": {
+        "height": "1.7 m",
+        "weight": "79.5 kg"
     }
 }, {
     "id": 158,
@@ -4039,6 +4667,10 @@
             "id": "159",
             "req": "Level 18"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "9.5 kg"
     }
 }, {
     "id": 159,
@@ -4068,6 +4700,10 @@
             "id": "158",
             "req": "Level 18"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "25 kg"
     }
 }, {
     "id": 160,
@@ -4093,6 +4729,10 @@
             "id": "159",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "2.3 m",
+        "weight": "88.8 kg"
     }
 }, {
     "id": 161,
@@ -4118,6 +4758,10 @@
             "id": "162",
             "req": "Level 15"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "6 kg"
     }
 }, {
     "id": 162,
@@ -4143,6 +4787,10 @@
             "id": "161",
             "req": "Level 15"
         }
+    },
+    "profile": {
+        "height": "1.8 m",
+        "weight": "32.5 kg"
     }
 }, {
     "id": 163,
@@ -4168,6 +4816,10 @@
             "id": "164",
             "req": "Level 20"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "21.2 kg"
     }
 }, {
     "id": 164,
@@ -4193,6 +4845,10 @@
             "id": "163",
             "req": "Level 20"
         }
+    },
+    "profile": {
+        "height": "1.6 m",
+        "weight": "40.8 kg"
     }
 }, {
     "id": 165,
@@ -4218,6 +4874,10 @@
             "id": "166",
             "req": "Level 18"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "10.8 kg"
     }
 }, {
     "id": 166,
@@ -4243,6 +4903,10 @@
             "id": "165",
             "req": "Level 18"
         }
+    },
+    "profile": {
+        "height": "1.4 m",
+        "weight": "35.6 kg"
     }
 }, {
     "id": 167,
@@ -4268,6 +4932,10 @@
             "id": "168",
             "req": "Level 22"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "8.5 kg"
     }
 }, {
     "id": 168,
@@ -4293,6 +4961,10 @@
             "id": "167",
             "req": "Level 22"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "33.5 kg"
     }
 }, {
     "id": 169,
@@ -4318,6 +4990,10 @@
             "id": "42",
             "req": "high Friendship"
         }
+    },
+    "profile": {
+        "height": "1.8 m",
+        "weight": "75 kg"
     }
 }, {
     "id": 170,
@@ -4343,6 +5019,10 @@
             "id": "171",
             "req": "Level 27"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "12 kg"
     }
 }, {
     "id": 171,
@@ -4368,6 +5048,10 @@
             "id": "170",
             "req": "Level 27"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "22.5 kg"
     }
 }, {
     "id": 172,
@@ -4393,6 +5077,10 @@
             "id": "25",
             "req": "high Friendship"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "2 kg"
     }
 }, {
     "id": 173,
@@ -4418,6 +5106,10 @@
             "id": "35",
             "req": "high Friendship"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "3 kg"
     }
 }, {
     "id": 174,
@@ -4443,6 +5135,10 @@
             "id": "39",
             "req": "high Friendship"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "1 kg"
     }
 }, {
     "id": 175,
@@ -4468,6 +5164,10 @@
             "id": "176",
             "req": "high Friendship"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "1.5 kg"
     }
 }, {
     "id": 176,
@@ -4497,6 +5197,10 @@
             "id": "175",
             "req": "high Friendship"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "3.2 kg"
     }
 }, {
     "id": 177,
@@ -4522,6 +5226,10 @@
             "id": "178",
             "req": "Level 25"
         }
+    },
+    "profile": {
+        "height": "0.2 m",
+        "weight": "2 kg"
     }
 }, {
     "id": 178,
@@ -4547,6 +5255,10 @@
             "id": "177",
             "req": "Level 25"
         }
+    },
+    "profile": {
+        "height": "1.5 m",
+        "weight": "15 kg"
     }
 }, {
     "id": 179,
@@ -4572,6 +5284,10 @@
             "id": "180",
             "req": "Level 15"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "7.8 kg"
     }
 }, {
     "id": 180,
@@ -4601,6 +5317,10 @@
             "id": "179",
             "req": "Level 15"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "13.3 kg"
     }
 }, {
     "id": 181,
@@ -4626,6 +5346,10 @@
             "id": "180",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "1.4 m",
+        "weight": "61.5 kg"
     }
 }, {
     "id": 182,
@@ -4651,6 +5375,10 @@
             "id": "44",
             "req": "use Sun Stone"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "5.8 kg"
     }
 }, {
     "id": 183,
@@ -4680,6 +5408,10 @@
             "id": "298",
             "req": "high Friendship"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "8.5 kg"
     }
 }, {
     "id": 184,
@@ -4705,6 +5437,10 @@
             "id": "183",
             "req": "Level 18"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "28.5 kg"
     }
 }, {
     "id": 185,
@@ -4730,6 +5466,10 @@
             "id": "438",
             "req": "after Mimic learned"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "38 kg"
     }
 }, {
     "id": 186,
@@ -4755,6 +5495,10 @@
             "id": "61",
             "req": "trade holding Kings Rock"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "33.9 kg"
     }
 }, {
     "id": 187,
@@ -4780,6 +5524,10 @@
             "id": "188",
             "req": "Level 18"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "0.5 kg"
     }
 }, {
     "id": 188,
@@ -4809,6 +5557,10 @@
             "id": "187",
             "req": "Level 18"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "1 kg"
     }
 }, {
     "id": 189,
@@ -4834,6 +5586,10 @@
             "id": "188",
             "req": "Level 27"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "3 kg"
     }
 }, {
     "id": 190,
@@ -4859,6 +5615,10 @@
             "id": "424",
             "req": "after Double Hit learned"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "11.5 kg"
     }
 }, {
     "id": 191,
@@ -4884,6 +5644,10 @@
             "id": "192",
             "req": "use Sun Stone"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "1.8 kg"
     }
 }, {
     "id": 192,
@@ -4909,6 +5673,10 @@
             "id": "191",
             "req": "use Sun Stone"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "8.5 kg"
     }
 }, {
     "id": 193,
@@ -4934,6 +5702,10 @@
             "id": "469",
             "req": "after Ancient Power learned"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "38 kg"
     }
 }, {
     "id": 194,
@@ -4959,6 +5731,10 @@
             "id": "195",
             "req": "Level 20"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "8.5 kg"
     }
 }, {
     "id": 195,
@@ -4984,6 +5760,10 @@
             "id": "194",
             "req": "Level 20"
         }
+    },
+    "profile": {
+        "height": "1.4 m",
+        "weight": "75 kg"
     }
 }, {
     "id": 196,
@@ -5009,6 +5789,10 @@
             "id": "133",
             "req": "high Friendship, Daytime"
         }
+    },
+    "profile": {
+        "height": "0.9 m",
+        "weight": "26.5 kg"
     }
 }, {
     "id": 197,
@@ -5034,6 +5818,10 @@
             "id": "133",
             "req": "high Friendship, Nighttime"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "27 kg"
     }
 }, {
     "id": 198,
@@ -5059,6 +5847,10 @@
             "id": "430",
             "req": "use Dusk Stone"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "2.1 kg"
     }
 }, {
     "id": 199,
@@ -5084,6 +5876,10 @@
             "id": "79",
             "req": "trade holding Kings Rock"
         }
+    },
+    "profile": {
+        "height": "2 m",
+        "weight": "79.5 kg"
     }
 }, {
     "id": 200,
@@ -5109,6 +5905,10 @@
             "id": "429",
             "req": "use Dusk Stone"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "1 kg"
     }
 }, {
     "id": 201,
@@ -5129,7 +5929,11 @@
     },
     "species": "Symbol Pokémon",
     "description": "This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.5 m",
+        "weight": "5 kg"
+    }
 }, {
     "id": 202,
     "name": {
@@ -5154,6 +5958,10 @@
             "id": "360",
             "req": "Level 15"
         }
+    },
+    "profile": {
+        "height": "1.3 m",
+        "weight": "28.5 kg"
     }
 }, {
     "id": 203,
@@ -5174,7 +5982,11 @@
     },
     "species": "Long Neck Pokémon",
     "description": "Girafarig’s rear head contains a tiny brain that is too small for thinking. However, the rear head doesn’t need to sleep, so it can keep watch over its surroundings 24 hours a day.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.5 m",
+        "weight": "41.5 kg"
+    }
 }, {
     "id": 204,
     "name": {
@@ -5199,6 +6011,10 @@
             "id": "205",
             "req": "Level 31"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "7.2 kg"
     }
 }, {
     "id": 205,
@@ -5224,6 +6040,10 @@
             "id": "204",
             "req": "Level 31"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "125.8 kg"
     }
 }, {
     "id": 206,
@@ -5244,7 +6064,11 @@
     },
     "species": "Land Snake Pokémon",
     "description": "When it sees a person, it digs a hole with its tail to make its escape. If you happen to find one, consider yourself lucky.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.5 m",
+        "weight": "14 kg"
+    }
 }, {
     "id": 207,
     "name": {
@@ -5269,6 +6093,10 @@
             "id": "472",
             "req": "hold Razor Fang, Nighttime"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "64.8 kg"
     }
 }, {
     "id": 208,
@@ -5294,6 +6122,10 @@
             "id": "95",
             "req": "trade holding Metal Coat"
         }
+    },
+    "profile": {
+        "height": "9.2 m",
+        "weight": "400 kg"
     }
 }, {
     "id": 209,
@@ -5319,6 +6151,10 @@
             "id": "210",
             "req": "Level 23"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "7.8 kg"
     }
 }, {
     "id": 210,
@@ -5344,6 +6180,10 @@
             "id": "209",
             "req": "Level 23"
         }
+    },
+    "profile": {
+        "height": "1.4 m",
+        "weight": "48.7 kg"
     }
 }, {
     "id": 211,
@@ -5364,7 +6204,11 @@
     },
     "species": "Balloon Pokémon",
     "description": "Qwilfish sucks in water, inflating itself. This Pokémon uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.5 m",
+        "weight": "3.9 kg"
+    }
 }, {
     "id": 212,
     "name": {
@@ -5389,6 +6233,10 @@
             "id": "123",
             "req": "trade holding Metal Coat"
         }
+    },
+    "profile": {
+        "height": "1.8 m",
+        "weight": "118 kg"
     }
 }, {
     "id": 213,
@@ -5409,7 +6257,11 @@
     },
     "species": "Mold Pokémon",
     "description": "Shuckle quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.6 m",
+        "weight": "20.5 kg"
+    }
 }, {
     "id": 214,
     "name": {
@@ -5429,7 +6281,11 @@
     },
     "species": "Single Horn Pokémon",
     "description": "It roams through forests searching for sweet nectar. Although it boasts fantastic physical strength, it’s not that good at flying.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.5 m",
+        "weight": "54 kg"
+    }
 }, {
     "id": 215,
     "name": {
@@ -5454,6 +6310,10 @@
             "id": "461",
             "req": "hold Razor Claw, Nighttime"
         }
+    },
+    "profile": {
+        "height": "0.9 m",
+        "weight": "28 kg"
     }
 }, {
     "id": 216,
@@ -5479,6 +6339,10 @@
             "id": "217",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "8.8 kg"
     }
 }, {
     "id": 217,
@@ -5504,6 +6368,10 @@
             "id": "216",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "1.8 m",
+        "weight": "125.8 kg"
     }
 }, {
     "id": 218,
@@ -5529,6 +6397,10 @@
             "id": "219",
             "req": "Level 38"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "35 kg"
     }
 }, {
     "id": 219,
@@ -5554,6 +6426,10 @@
             "id": "218",
             "req": "Level 38"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "55 kg"
     }
 }, {
     "id": 220,
@@ -5579,6 +6455,10 @@
             "id": "221",
             "req": "Level 33"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "6.5 kg"
     }
 }, {
     "id": 221,
@@ -5608,6 +6488,10 @@
             "id": "220",
             "req": "Level 33"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "55.8 kg"
     }
 }, {
     "id": 222,
@@ -5628,7 +6512,11 @@
     },
     "species": "Coral Pokémon",
     "description": "In Alola, where their natural enemies Mareanie are plentiful, many Corsola have stubby branches on their heads.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.6 m",
+        "weight": "5 kg"
+    }
 }, {
     "id": 223,
     "name": {
@@ -5653,6 +6541,10 @@
             "id": "224",
             "req": "Level 25"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "12 kg"
     }
 }, {
     "id": 224,
@@ -5678,6 +6570,10 @@
             "id": "223",
             "req": "Level 25"
         }
+    },
+    "profile": {
+        "height": "0.9 m",
+        "weight": "28.5 kg"
     }
 }, {
     "id": 225,
@@ -5698,7 +6594,11 @@
     },
     "species": "Delivery Pokémon",
     "description": "It wraps food in its tail to carry it around. The Delibird with the biggest tail is the boss of the flock!",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.9 m",
+        "weight": "16 kg"
+    }
 }, {
     "id": 226,
     "name": {
@@ -5723,6 +6623,10 @@
             "id": "458",
             "req": "with Remoraid in party"
         }
+    },
+    "profile": {
+        "height": "2.1 m",
+        "weight": "220 kg"
     }
 }, {
     "id": 227,
@@ -5743,7 +6647,11 @@
     },
     "species": "Armor Bird Pokémon",
     "description": "Its body is draped in steel armor. It looks heavy, but it can fly at speeds of up to 185 miles an hour!",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.7 m",
+        "weight": "50.5 kg"
+    }
 }, {
     "id": 228,
     "name": {
@@ -5768,6 +6676,10 @@
             "id": "229",
             "req": "Level 24"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "10.8 kg"
     }
 }, {
     "id": 229,
@@ -5793,6 +6705,10 @@
             "id": "228",
             "req": "Level 24"
         }
+    },
+    "profile": {
+        "height": "1.4 m",
+        "weight": "35 kg"
     }
 }, {
     "id": 230,
@@ -5818,6 +6734,10 @@
             "id": "117",
             "req": "trade holding Dragon Scale"
         }
+    },
+    "profile": {
+        "height": "1.8 m",
+        "weight": "152 kg"
     }
 }, {
     "id": 231,
@@ -5843,6 +6763,10 @@
             "id": "232",
             "req": "Level 25"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "33.5 kg"
     }
 }, {
     "id": 232,
@@ -5868,6 +6792,10 @@
             "id": "231",
             "req": "Level 25"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "120 kg"
     }
 }, {
     "id": 233,
@@ -5897,6 +6825,10 @@
             "id": "137",
             "req": "trade holding Upgrade"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "32.5 kg"
     }
 }, {
     "id": 234,
@@ -5917,7 +6849,11 @@
     },
     "species": "Big Horn Pokémon",
     "description": "Stantler’s magnificent antlers were traded at high prices as works of art. As a result, this Pokémon was hunted close to extinction by those who were after the priceless antlers.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.4 m",
+        "weight": "71.2 kg"
+    }
 }, {
     "id": 235,
     "name": {
@@ -5937,7 +6873,11 @@
     },
     "species": "Painter Pokémon",
     "description": "It draws symbols with the fluid that oozes from the tip of its tail. Depending on the symbol, Smeargle fanatics will pay big money for them.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.2 m",
+        "weight": "58 kg"
+    }
 }, {
     "id": 236,
     "name": {
@@ -5970,6 +6910,10 @@
             "id": "237",
             "req": "Level 20, Attack = Defense"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "21 kg"
     }
 }, {
     "id": 237,
@@ -5995,6 +6939,10 @@
             "id": "236",
             "req": "Level 20, Attack = Defense"
         }
+    },
+    "profile": {
+        "height": "1.4 m",
+        "weight": "48 kg"
     }
 }, {
     "id": 238,
@@ -6020,6 +6968,10 @@
             "id": "124",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "6 kg"
     }
 }, {
     "id": 239,
@@ -6045,6 +6997,10 @@
             "id": "125",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "23.5 kg"
     }
 }, {
     "id": 240,
@@ -6070,6 +7026,10 @@
             "id": "126",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "21.4 kg"
     }
 }, {
     "id": 241,
@@ -6090,7 +7050,11 @@
     },
     "species": "Milk Cow Pokémon",
     "description": "Its milk is delicious and chock-full of nutrients. However, if you drink too much, it could make your stomach hurt, so be careful.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.2 m",
+        "weight": "75.5 kg"
+    }
 }, {
     "id": 242,
     "name": {
@@ -6115,6 +7079,10 @@
             "id": "113",
             "req": "high Friendship"
         }
+    },
+    "profile": {
+        "height": "1.5 m",
+        "weight": "46.8 kg"
     }
 }, {
     "id": 243,
@@ -6135,7 +7103,11 @@
     },
     "species": "Thunder Pokémon",
     "description": "Raikou embodies the speed of lightning. The roars of this Pokémon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.9 m",
+        "weight": "178 kg"
+    }
 }, {
     "id": 244,
     "name": {
@@ -6155,7 +7127,11 @@
     },
     "species": "Volcano Pokémon",
     "description": "Entei embodies the passion of magma. This Pokémon is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "2.1 m",
+        "weight": "198 kg"
+    }
 }, {
     "id": 245,
     "name": {
@@ -6175,7 +7151,11 @@
     },
     "species": "Aurora Pokémon",
     "description": "Suicune embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This Pokémon has the power to purify dirty water.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "2 m",
+        "weight": "187 kg"
+    }
 }, {
     "id": 246,
     "name": {
@@ -6200,6 +7180,10 @@
             "id": "247",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "72 kg"
     }
 }, {
     "id": 247,
@@ -6229,6 +7213,10 @@
             "id": "246",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "152 kg"
     }
 }, {
     "id": 248,
@@ -6254,6 +7242,10 @@
             "id": "247",
             "req": "Level 55"
         }
+    },
+    "profile": {
+        "height": "2 m",
+        "weight": "202 kg"
     }
 }, {
     "id": 249,
@@ -6274,7 +7266,11 @@
     },
     "species": "Diving Pokémon",
     "description": "Lugia’s wings pack devastating power—a light fluttering of its wings can blow apart regular houses. As a result, this Pokémon chooses to live out of sight deep under the sea.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "5.2 m",
+        "weight": "216 kg"
+    }
 }, {
     "id": 250,
     "name": {
@@ -6294,7 +7290,11 @@
     },
     "species": "Rainbow Pokémon",
     "description": "Ho-Oh’s feathers glow in seven colors depending on the angle at which they are struck by light. These feathers are said to bring happiness to the bearers. This Pokémon is said to live at the foot of a rainbow.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "3.8 m",
+        "weight": "199 kg"
+    }
 }, {
     "id": 251,
     "name": {
@@ -6314,7 +7314,11 @@
     },
     "species": "Time Travel Pokémon",
     "description": "This Pokémon came from the future by crossing over time. It is thought that so long as Celebi appears, a bright and shining future awaits us.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.6 m",
+        "weight": "5 kg"
+    }
 }, {
     "id": 252,
     "name": {
@@ -6339,6 +7343,10 @@
             "id": "253",
             "req": "Level 16"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "5 kg"
     }
 }, {
     "id": 253,
@@ -6368,6 +7376,10 @@
             "id": "252",
             "req": "Level 16"
         }
+    },
+    "profile": {
+        "height": "0.9 m",
+        "weight": "21.6 kg"
     }
 }, {
     "id": 254,
@@ -6393,6 +7405,10 @@
             "id": "253",
             "req": "Level 36"
         }
+    },
+    "profile": {
+        "height": "1.7 m",
+        "weight": "52.2 kg"
     }
 }, {
     "id": 255,
@@ -6418,6 +7434,10 @@
             "id": "256",
             "req": "Level 16"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "2.5 kg"
     }
 }, {
     "id": 256,
@@ -6447,6 +7467,10 @@
             "id": "255",
             "req": "Level 16"
         }
+    },
+    "profile": {
+        "height": "0.9 m",
+        "weight": "19.5 kg"
     }
 }, {
     "id": 257,
@@ -6472,6 +7496,10 @@
             "id": "256",
             "req": "Level 36"
         }
+    },
+    "profile": {
+        "height": "1.9 m",
+        "weight": "52 kg"
     }
 }, {
     "id": 258,
@@ -6497,6 +7525,10 @@
             "id": "259",
             "req": "Level 16"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "7.6 kg"
     }
 }, {
     "id": 259,
@@ -6526,6 +7558,10 @@
             "id": "258",
             "req": "Level 16"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "28 kg"
     }
 }, {
     "id": 260,
@@ -6551,6 +7587,10 @@
             "id": "259",
             "req": "Level 36"
         }
+    },
+    "profile": {
+        "height": "1.5 m",
+        "weight": "81.9 kg"
     }
 }, {
     "id": 261,
@@ -6576,6 +7616,10 @@
             "id": "262",
             "req": "Level 18"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "13.6 kg"
     }
 }, {
     "id": 262,
@@ -6601,6 +7645,10 @@
             "id": "261",
             "req": "Level 18"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "37 kg"
     }
 }, {
     "id": 263,
@@ -6626,6 +7674,10 @@
             "id": "264",
             "req": "Level 20"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "17.5 kg"
     }
 }, {
     "id": 264,
@@ -6655,6 +7707,10 @@
             "id": "862",
             "req": "Level 35, Nighttime"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "32.5 kg"
     }
 }, {
     "id": 265,
@@ -6684,6 +7740,10 @@
             "id": "268",
             "req": "Level 7, random based on personality"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "3.6 kg"
     }
 }, {
     "id": 266,
@@ -6713,6 +7773,10 @@
             "id": "265",
             "req": "Level 7, random based on personality"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "10 kg"
     }
 }, {
     "id": 267,
@@ -6738,6 +7802,10 @@
             "id": "266",
             "req": "Level 10"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "28.4 kg"
     }
 }, {
     "id": 268,
@@ -6767,6 +7835,10 @@
             "id": "265",
             "req": "Level 7, random based on personality"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "11.5 kg"
     }
 }, {
     "id": 269,
@@ -6792,6 +7864,10 @@
             "id": "265",
             "req": "Level 10"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "31.6 kg"
     }
 }, {
     "id": 270,
@@ -6817,6 +7893,10 @@
             "id": "271",
             "req": "Level 14"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "2.6 kg"
     }
 }, {
     "id": 271,
@@ -6846,6 +7926,10 @@
             "id": "270",
             "req": "Level 14"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "32.5 kg"
     }
 }, {
     "id": 272,
@@ -6871,6 +7955,10 @@
             "id": "271",
             "req": "use Water Stone"
         }
+    },
+    "profile": {
+        "height": "1.5 m",
+        "weight": "55 kg"
     }
 }, {
     "id": 273,
@@ -6896,6 +7984,10 @@
             "id": "274",
             "req": "Level 14"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "4 kg"
     }
 }, {
     "id": 274,
@@ -6925,6 +8017,10 @@
             "id": "273",
             "req": "Level 14"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "28 kg"
     }
 }, {
     "id": 275,
@@ -6950,6 +8046,10 @@
             "id": "274",
             "req": "use Leaf Stone"
         }
+    },
+    "profile": {
+        "height": "1.3 m",
+        "weight": "59.6 kg"
     }
 }, {
     "id": 276,
@@ -6975,6 +8075,10 @@
             "id": "277",
             "req": "Level 22"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "2.3 kg"
     }
 }, {
     "id": 277,
@@ -7000,6 +8104,10 @@
             "id": "276",
             "req": "Level 22"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "19.8 kg"
     }
 }, {
     "id": 278,
@@ -7025,6 +8133,10 @@
             "id": "279",
             "req": "Level 25"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "9.5 kg"
     }
 }, {
     "id": 279,
@@ -7050,6 +8162,10 @@
             "id": "278",
             "req": "Level 25"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "28 kg"
     }
 }, {
     "id": 280,
@@ -7075,6 +8191,10 @@
             "id": "281",
             "req": "Level 20"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "6.6 kg"
     }
 }, {
     "id": 281,
@@ -7104,6 +8224,10 @@
             "id": "280",
             "req": "Level 20"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "20.2 kg"
     }
 }, {
     "id": 282,
@@ -7129,6 +8253,10 @@
             "id": "281",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "1.6 m",
+        "weight": "48.4 kg"
     }
 }, {
     "id": 283,
@@ -7154,6 +8282,10 @@
             "id": "284",
             "req": "Level 22"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "1.7 kg"
     }
 }, {
     "id": 284,
@@ -7179,6 +8311,10 @@
             "id": "283",
             "req": "Level 22"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "3.6 kg"
     }
 }, {
     "id": 285,
@@ -7204,6 +8340,10 @@
             "id": "286",
             "req": "Level 23"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "4.5 kg"
     }
 }, {
     "id": 286,
@@ -7229,6 +8369,10 @@
             "id": "285",
             "req": "Level 23"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "39.2 kg"
     }
 }, {
     "id": 287,
@@ -7254,6 +8398,10 @@
             "id": "288",
             "req": "Level 18"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "24 kg"
     }
 }, {
     "id": 288,
@@ -7283,6 +8431,10 @@
             "id": "287",
             "req": "Level 18"
         }
+    },
+    "profile": {
+        "height": "1.4 m",
+        "weight": "46.5 kg"
     }
 }, {
     "id": 289,
@@ -7308,6 +8460,10 @@
             "id": "288",
             "req": "Level 36"
         }
+    },
+    "profile": {
+        "height": "2 m",
+        "weight": "130.5 kg"
     }
 }, {
     "id": 290,
@@ -7337,6 +8493,10 @@
             "id": "292",
             "req": "Level 20, empty spot in party, Pokéball in bag"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "5.5 kg"
     }
 }, {
     "id": 291,
@@ -7362,6 +8522,10 @@
             "id": "290",
             "req": "Level 20"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "12 kg"
     }
 }, {
     "id": 292,
@@ -7387,6 +8551,10 @@
             "id": "290",
             "req": "Level 20, empty spot in party, Pokéball in bag"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "1.2 kg"
     }
 }, {
     "id": 293,
@@ -7412,6 +8580,10 @@
             "id": "294",
             "req": "Level 20"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "16.3 kg"
     }
 }, {
     "id": 294,
@@ -7441,6 +8613,10 @@
             "id": "293",
             "req": "Level 20"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "40.5 kg"
     }
 }, {
     "id": 295,
@@ -7466,6 +8642,10 @@
             "id": "294",
             "req": "Level 40"
         }
+    },
+    "profile": {
+        "height": "1.5 m",
+        "weight": "84 kg"
     }
 }, {
     "id": 296,
@@ -7491,6 +8671,10 @@
             "id": "297",
             "req": "Level 24"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "86.4 kg"
     }
 }, {
     "id": 297,
@@ -7516,6 +8700,10 @@
             "id": "296",
             "req": "Level 24"
         }
+    },
+    "profile": {
+        "height": "2.3 m",
+        "weight": "253.8 kg"
     }
 }, {
     "id": 298,
@@ -7541,6 +8729,10 @@
             "id": "183",
             "req": "high Friendship"
         }
+    },
+    "profile": {
+        "height": "0.2 m",
+        "weight": "2 kg"
     }
 }, {
     "id": 299,
@@ -7566,6 +8758,10 @@
             "id": "476",
             "req": "level up in a Magnetic Field area"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "97 kg"
     }
 }, {
     "id": 300,
@@ -7591,6 +8787,10 @@
             "id": "301",
             "req": "use Moon Stone"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "11 kg"
     }
 }, {
     "id": 301,
@@ -7616,6 +8816,10 @@
             "id": "300",
             "req": "use Moon Stone"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "32.6 kg"
     }
 }, {
     "id": 302,
@@ -7636,7 +8840,11 @@
     },
     "species": "Darkness Pokémon",
     "description": "Materials from gems it has eaten float to the surface of its body and can form an infinite number of patterns among individuals.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.5 m",
+        "weight": "11 kg"
+    }
 }, {
     "id": 303,
     "name": {
@@ -7656,7 +8864,11 @@
     },
     "species": "Deceiver Pokémon",
     "description": "It has two mouths. The big jaws on the back of its head can’t taste anything, so that’s the mouth it uses to eat foods it doesn’t like.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.6 m",
+        "weight": "11.5 kg"
+    }
 }, {
     "id": 304,
     "name": {
@@ -7681,6 +8893,10 @@
             "id": "305",
             "req": "Level 32"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "60 kg"
     }
 }, {
     "id": 305,
@@ -7710,6 +8926,10 @@
             "id": "304",
             "req": "Level 32"
         }
+    },
+    "profile": {
+        "height": "0.9 m",
+        "weight": "120 kg"
     }
 }, {
     "id": 306,
@@ -7735,6 +8955,10 @@
             "id": "305",
             "req": "Level 42"
         }
+    },
+    "profile": {
+        "height": "2.1 m",
+        "weight": "360 kg"
     }
 }, {
     "id": 307,
@@ -7760,6 +8984,10 @@
             "id": "308",
             "req": "Level 37"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "11.2 kg"
     }
 }, {
     "id": 308,
@@ -7785,6 +9013,10 @@
             "id": "307",
             "req": "Level 37"
         }
+    },
+    "profile": {
+        "height": "1.3 m",
+        "weight": "31.5 kg"
     }
 }, {
     "id": 309,
@@ -7810,6 +9042,10 @@
             "id": "310",
             "req": "Level 26"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "15.2 kg"
     }
 }, {
     "id": 310,
@@ -7835,6 +9071,10 @@
             "id": "309",
             "req": "Level 26"
         }
+    },
+    "profile": {
+        "height": "1.5 m",
+        "weight": "40.2 kg"
     }
 }, {
     "id": 311,
@@ -7855,7 +9095,11 @@
     },
     "species": "Cheering Pokémon",
     "description": "When Plusle is cheering on its partner, it flashes with electric sparks from all over its body. If its partner loses, this Pokémon cries loudly.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.4 m",
+        "weight": "4.2 kg"
+    }
 }, {
     "id": 312,
     "name": {
@@ -7875,7 +9119,11 @@
     },
     "species": "Cheering Pokémon",
     "description": "Minun loves to cheer on its partner in battle. It gives off sparks from its body while it is doing so. If its partner is in trouble, this Pokémon gives off increasing amounts of sparks.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.4 m",
+        "weight": "4.2 kg"
+    }
 }, {
     "id": 313,
     "name": {
@@ -7895,7 +9143,11 @@
     },
     "species": "Firefly Pokémon",
     "description": "Volbeat’s tail glows like a lightbulb. With other Volbeat, it uses its tail to draw geometric shapes in the night sky. This Pokémon loves the sweet aroma given off by Illumise.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.7 m",
+        "weight": "17.7 kg"
+    }
 }, {
     "id": 314,
     "name": {
@@ -7915,7 +9167,11 @@
     },
     "species": "Firefly Pokémon",
     "description": "Illumise leads a flight of illuminated Volbeat to draw signs in the night sky. This Pokémon is said to earn greater respect from its peers by composing more complex designs in the sky.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.6 m",
+        "weight": "17.7 kg"
+    }
 }, {
     "id": 315,
     "name": {
@@ -7944,6 +9200,10 @@
             "id": "406",
             "req": "high Friendship, Daytime"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "2 kg"
     }
 }, {
     "id": 316,
@@ -7969,6 +9229,10 @@
             "id": "317",
             "req": "Level 26"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "10.3 kg"
     }
 }, {
     "id": 317,
@@ -7994,6 +9258,10 @@
             "id": "316",
             "req": "Level 26"
         }
+    },
+    "profile": {
+        "height": "1.7 m",
+        "weight": "80 kg"
     }
 }, {
     "id": 318,
@@ -8019,6 +9287,10 @@
             "id": "319",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "20.8 kg"
     }
 }, {
     "id": 319,
@@ -8044,6 +9316,10 @@
             "id": "318",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "1.8 m",
+        "weight": "88.8 kg"
     }
 }, {
     "id": 320,
@@ -8069,6 +9345,10 @@
             "id": "321",
             "req": "Level 40"
         }
+    },
+    "profile": {
+        "height": "2 m",
+        "weight": "130 kg"
     }
 }, {
     "id": 321,
@@ -8094,6 +9374,10 @@
             "id": "320",
             "req": "Level 40"
         }
+    },
+    "profile": {
+        "height": "14.5 m",
+        "weight": "398 kg"
     }
 }, {
     "id": 322,
@@ -8119,6 +9403,10 @@
             "id": "323",
             "req": "Level 33"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "24 kg"
     }
 }, {
     "id": 323,
@@ -8144,6 +9432,10 @@
             "id": "322",
             "req": "Level 33"
         }
+    },
+    "profile": {
+        "height": "1.9 m",
+        "weight": "220 kg"
     }
 }, {
     "id": 324,
@@ -8164,7 +9456,11 @@
     },
     "species": "Coal Pokémon",
     "description": "It burns coal to produce energy. When it has burned through all of its coal, it becomes unable to move.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.5 m",
+        "weight": "80.4 kg"
+    }
 }, {
     "id": 325,
     "name": {
@@ -8189,6 +9485,10 @@
             "id": "326",
             "req": "Level 32"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "30.6 kg"
     }
 }, {
     "id": 326,
@@ -8214,6 +9514,10 @@
             "id": "325",
             "req": "Level 32"
         }
+    },
+    "profile": {
+        "height": "0.9 m",
+        "weight": "71.5 kg"
     }
 }, {
     "id": 327,
@@ -8234,7 +9538,11 @@
     },
     "species": "Spot Panda Pokémon",
     "description": "Each Spinda’s spot pattern is different. With its stumbling movements, it evades opponents’ attacks brilliantly!",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.1 m",
+        "weight": "5 kg"
+    }
 }, {
     "id": 328,
     "name": {
@@ -8259,6 +9567,10 @@
             "id": "329",
             "req": "Level 35"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "15 kg"
     }
 }, {
     "id": 329,
@@ -8288,6 +9600,10 @@
             "id": "328",
             "req": "Level 35"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "15.3 kg"
     }
 }, {
     "id": 330,
@@ -8313,6 +9629,10 @@
             "id": "329",
             "req": "Level 45"
         }
+    },
+    "profile": {
+        "height": "2 m",
+        "weight": "82 kg"
     }
 }, {
     "id": 331,
@@ -8338,6 +9658,10 @@
             "id": "332",
             "req": "Level 32"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "51.3 kg"
     }
 }, {
     "id": 332,
@@ -8363,6 +9687,10 @@
             "id": "331",
             "req": "Level 32"
         }
+    },
+    "profile": {
+        "height": "1.3 m",
+        "weight": "77.4 kg"
     }
 }, {
     "id": 333,
@@ -8388,6 +9716,10 @@
             "id": "334",
             "req": "Level 35"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "1.2 kg"
     }
 }, {
     "id": 334,
@@ -8413,6 +9745,10 @@
             "id": "333",
             "req": "Level 35"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "20.6 kg"
     }
 }, {
     "id": 335,
@@ -8433,7 +9769,11 @@
     },
     "species": "Cat Ferret Pokémon",
     "description": "Zangoose usually stays on all fours, but when angered, it gets up on its hind legs and extends its claws. This Pokémon shares a bitter rivalry with Seviper that dates back over generations.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.3 m",
+        "weight": "40.3 kg"
+    }
 }, {
     "id": 336,
     "name": {
@@ -8453,7 +9793,11 @@
     },
     "species": "Fang Snake Pokémon",
     "description": "Seviper’s swordlike tail serves two purposes—it slashes foes and douses them with secreted poison. This Pokémon will not give up its long-running blood feud with Zangoose.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "2.7 m",
+        "weight": "52.5 kg"
+    }
 }, {
     "id": 337,
     "name": {
@@ -8473,7 +9817,11 @@
     },
     "species": "Meteorite Pokémon",
     "description": "Lunatone becomes active around the time of the full moon. Instead of walking, it moves by floating in midair. The Pokémon’s intimidating red eyes cause all those who see it to become transfixed with fear.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1 m",
+        "weight": "168 kg"
+    }
 }, {
     "id": 338,
     "name": {
@@ -8493,7 +9841,11 @@
     },
     "species": "Meteorite Pokémon",
     "description": "Sunlight is the source of Solrock’s power. It is said to possess the ability to read the emotions of others. This Pokémon gives off intense heat while rotating its body.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.2 m",
+        "weight": "154 kg"
+    }
 }, {
     "id": 339,
     "name": {
@@ -8518,6 +9870,10 @@
             "id": "340",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "1.9 kg"
     }
 }, {
     "id": 340,
@@ -8543,6 +9899,10 @@
             "id": "339",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "0.9 m",
+        "weight": "23.6 kg"
     }
 }, {
     "id": 341,
@@ -8568,6 +9928,10 @@
             "id": "342",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "11.5 kg"
     }
 }, {
     "id": 342,
@@ -8593,6 +9957,10 @@
             "id": "341",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "32.8 kg"
     }
 }, {
     "id": 343,
@@ -8618,6 +9986,10 @@
             "id": "344",
             "req": "Level 36"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "21.5 kg"
     }
 }, {
     "id": 344,
@@ -8643,6 +10015,10 @@
             "id": "343",
             "req": "Level 36"
         }
+    },
+    "profile": {
+        "height": "1.5 m",
+        "weight": "108 kg"
     }
 }, {
     "id": 345,
@@ -8668,6 +10044,10 @@
             "id": "346",
             "req": "Level 40"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "23.8 kg"
     }
 }, {
     "id": 346,
@@ -8693,6 +10073,10 @@
             "id": "345",
             "req": "Level 40"
         }
+    },
+    "profile": {
+        "height": "1.5 m",
+        "weight": "60.4 kg"
     }
 }, {
     "id": 347,
@@ -8718,6 +10102,10 @@
             "id": "348",
             "req": "Level 40"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "12.5 kg"
     }
 }, {
     "id": 348,
@@ -8743,6 +10131,10 @@
             "id": "347",
             "req": "Level 40"
         }
+    },
+    "profile": {
+        "height": "1.5 m",
+        "weight": "68.2 kg"
     }
 }, {
     "id": 349,
@@ -8768,6 +10160,10 @@
             "id": "350",
             "req": "trade holding Prism Scale, or level up with max Beauty"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "7.4 kg"
     }
 }, {
     "id": 350,
@@ -8793,6 +10189,10 @@
             "id": "349",
             "req": "trade holding Prism Scale, or level up with max Beauty"
         }
+    },
+    "profile": {
+        "height": "6.2 m",
+        "weight": "162 kg"
     }
 }, {
     "id": 351,
@@ -8813,7 +10213,11 @@
     },
     "species": "Weather Pokémon",
     "description": "Its form changes depending on the weather. The rougher conditions get, the rougher Castform’s disposition!",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.3 m",
+        "weight": "0.8 kg"
+    }
 }, {
     "id": 352,
     "name": {
@@ -8833,7 +10237,11 @@
     },
     "species": "Color Swap Pokémon",
     "description": "Its color changes for concealment and also when its mood or health changes. The darker the color, the healthier it is.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1 m",
+        "weight": "22 kg"
+    }
 }, {
     "id": 353,
     "name": {
@@ -8858,6 +10266,10 @@
             "id": "354",
             "req": "Level 37"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "2.3 kg"
     }
 }, {
     "id": 354,
@@ -8883,6 +10295,10 @@
             "id": "353",
             "req": "Level 37"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "12.5 kg"
     }
 }, {
     "id": 355,
@@ -8908,6 +10324,10 @@
             "id": "356",
             "req": "Level 37"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "15 kg"
     }
 }, {
     "id": 356,
@@ -8937,6 +10357,10 @@
             "id": "355",
             "req": "Level 37"
         }
+    },
+    "profile": {
+        "height": "1.6 m",
+        "weight": "30.6 kg"
     }
 }, {
     "id": 357,
@@ -8957,7 +10381,11 @@
     },
     "species": "Fruit Pokémon",
     "description": "Bunches of delicious fruit grow around its neck. In warm areas, many ranches raise Tropius.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "2 m",
+        "weight": "100 kg"
+    }
 }, {
     "id": 358,
     "name": {
@@ -8982,6 +10410,10 @@
             "id": "433",
             "req": "high Friendship, Nighttime"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "1 kg"
     }
 }, {
     "id": 359,
@@ -9002,7 +10434,11 @@
     },
     "species": "Disaster Pokémon",
     "description": "The elderly call it the disaster Pokémon and detest it, but interest in its power to predict disasters is on the rise.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.2 m",
+        "weight": "47 kg"
+    }
 }, {
     "id": 360,
     "name": {
@@ -9027,6 +10463,10 @@
             "id": "202",
             "req": "Level 15"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "14 kg"
     }
 }, {
     "id": 361,
@@ -9056,6 +10496,10 @@
             "id": "478",
             "req": "use Dawn Stone, Female"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "16.8 kg"
     }
 }, {
     "id": 362,
@@ -9081,6 +10525,10 @@
             "id": "361",
             "req": "Level 42"
         }
+    },
+    "profile": {
+        "height": "1.5 m",
+        "weight": "256.5 kg"
     }
 }, {
     "id": 363,
@@ -9106,6 +10554,10 @@
             "id": "364",
             "req": "Level 32"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "39.5 kg"
     }
 }, {
     "id": 364,
@@ -9135,6 +10587,10 @@
             "id": "363",
             "req": "Level 32"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "87.6 kg"
     }
 }, {
     "id": 365,
@@ -9160,6 +10616,10 @@
             "id": "364",
             "req": "Level 44"
         }
+    },
+    "profile": {
+        "height": "1.4 m",
+        "weight": "150.6 kg"
     }
 }, {
     "id": 366,
@@ -9189,6 +10649,10 @@
             "id": "368",
             "req": "trade holding Deep Sea Scale"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "52.5 kg"
     }
 }, {
     "id": 367,
@@ -9214,6 +10678,10 @@
             "id": "366",
             "req": "trade holding Deep Sea Tooth"
         }
+    },
+    "profile": {
+        "height": "1.7 m",
+        "weight": "27 kg"
     }
 }, {
     "id": 368,
@@ -9239,6 +10707,10 @@
             "id": "366",
             "req": "trade holding Deep Sea Scale"
         }
+    },
+    "profile": {
+        "height": "1.8 m",
+        "weight": "22.6 kg"
     }
 }, {
     "id": 369,
@@ -9259,7 +10731,11 @@
     },
     "species": "Longevity Pokémon",
     "description": "The reason it hasn’t changed at all in a hundred million years is that it’s apparently already a perfect life-form.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1 m",
+        "weight": "23.4 kg"
+    }
 }, {
     "id": 370,
     "name": {
@@ -9279,7 +10755,11 @@
     },
     "species": "Rendezvous Pokémon",
     "description": "Luvdisc makes its home in coral reefs in warm seas. It especially likes sleeping in the space between Corsola’s branches.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.6 m",
+        "weight": "8.7 kg"
+    }
 }, {
     "id": 371,
     "name": {
@@ -9304,6 +10784,10 @@
             "id": "372",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "42.1 kg"
     }
 }, {
     "id": 372,
@@ -9333,6 +10817,10 @@
             "id": "371",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "110.5 kg"
     }
 }, {
     "id": 373,
@@ -9358,6 +10846,10 @@
             "id": "372",
             "req": "Level 50"
         }
+    },
+    "profile": {
+        "height": "1.5 m",
+        "weight": "102.6 kg"
     }
 }, {
     "id": 374,
@@ -9383,6 +10875,10 @@
             "id": "375",
             "req": "Level 20"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "95.2 kg"
     }
 }, {
     "id": 375,
@@ -9412,6 +10908,10 @@
             "id": "374",
             "req": "Level 20"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "202.5 kg"
     }
 }, {
     "id": 376,
@@ -9437,6 +10937,10 @@
             "id": "375",
             "req": "Level 45"
         }
+    },
+    "profile": {
+        "height": "1.6 m",
+        "weight": "550 kg"
     }
 }, {
     "id": 377,
@@ -9457,7 +10961,11 @@
     },
     "species": "Rock Peak Pokémon",
     "description": "Regirock’s body is composed entirely of rocks. Recently, a study made the startling discovery that the rocks were all unearthed from different locations.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.7 m",
+        "weight": "230 kg"
+    }
 }, {
     "id": 378,
     "name": {
@@ -9477,7 +10985,11 @@
     },
     "species": "Iceberg Pokémon",
     "description": "Regice cloaks itself with frigid air of -328 degrees Fahrenheit. Things will freeze solid just by going near this Pokémon. Its icy body is so cold, it will not melt even if it is immersed in magma.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.8 m",
+        "weight": "175 kg"
+    }
 }, {
     "id": 379,
     "name": {
@@ -9497,7 +11009,11 @@
     },
     "species": "Iron Pokémon",
     "description": "Registeel was imprisoned by people in ancient times. The metal composing its body is thought to be a curious substance that is not of this earth.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.9 m",
+        "weight": "205 kg"
+    }
 }, {
     "id": 380,
     "name": {
@@ -9517,7 +11033,11 @@
     },
     "species": "Eon Pokémon",
     "description": "Latias is highly intelligent and capable of understanding human speech. It is covered with a glass-like down. The Pokémon enfolds its body with its down and refracts light to alter its appearance.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.4 m",
+        "weight": "40 kg"
+    }
 }, {
     "id": 381,
     "name": {
@@ -9537,7 +11057,11 @@
     },
     "species": "Eon Pokémon",
     "description": "Latios will only open its heart to a Trainer with a compassionate spirit. This Pokémon can fly faster than a jet plane by folding its forelegs to minimize air resistance.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "2 m",
+        "weight": "60 kg"
+    }
 }, {
     "id": 382,
     "name": {
@@ -9557,7 +11081,11 @@
     },
     "species": "Sea Basin Pokémon",
     "description": "Kyogre is said to be the personification of the sea itself. Legends tell of its many clashes against Groudon, as each sought to gain the power of nature.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "4.5 m",
+        "weight": "352 kg"
+    }
 }, {
     "id": 383,
     "name": {
@@ -9577,7 +11105,11 @@
     },
     "species": "Continent Pokémon",
     "description": "Through Primal Reversion and with nature’s full power, it will take back its true form. It can cause magma to erupt and expand the landmass of the world.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "3.5 m",
+        "weight": "950 kg"
+    }
 }, {
     "id": 384,
     "name": {
@@ -9597,7 +11129,11 @@
     },
     "species": "Sky High Pokémon",
     "description": "It flies forever through the ozone layer, consuming meteoroids for sustenance. The many meteoroids in its body provide the energy it needs to Mega Evolve.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "7 m",
+        "weight": "206.5 kg"
+    }
 }, {
     "id": 385,
     "name": {
@@ -9617,7 +11153,11 @@
     },
     "species": "Wish Pokémon",
     "description": "Jirachi will awaken from its sleep of a thousand years if you sing to it in a voice of purity. It is said to make true any wish that people desire.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.3 m",
+        "weight": "1.1 kg"
+    }
 }, {
     "id": 386,
     "name": {
@@ -9637,7 +11177,11 @@
     },
     "species": "DNA Pokémon",
     "description": "Deoxys emerged from a virus that came from space. It is highly intelligent and wields psychokinetic powers. This Pokémon shoots lasers from the crystalline organ on its chest.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.7 m",
+        "weight": "60.8 kg"
+    }
 }, {
     "id": 387,
     "name": {
@@ -9662,6 +11206,10 @@
             "id": "388",
             "req": "Level 18"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "10.2 kg"
     }
 }, {
     "id": 388,
@@ -9691,6 +11239,10 @@
             "id": "387",
             "req": "Level 18"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "97 kg"
     }
 }, {
     "id": 389,
@@ -9716,6 +11268,10 @@
             "id": "388",
             "req": "Level 32"
         }
+    },
+    "profile": {
+        "height": "2.2 m",
+        "weight": "310 kg"
     }
 }, {
     "id": 390,
@@ -9741,6 +11297,10 @@
             "id": "391",
             "req": "Level 14"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "6.2 kg"
     }
 }, {
     "id": 391,
@@ -9770,6 +11330,10 @@
             "id": "390",
             "req": "Level 14"
         }
+    },
+    "profile": {
+        "height": "0.9 m",
+        "weight": "22 kg"
     }
 }, {
     "id": 392,
@@ -9795,6 +11359,10 @@
             "id": "391",
             "req": "Level 36"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "55 kg"
     }
 }, {
     "id": 393,
@@ -9820,6 +11388,10 @@
             "id": "394",
             "req": "Level 16"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "5.2 kg"
     }
 }, {
     "id": 394,
@@ -9849,6 +11421,10 @@
             "id": "393",
             "req": "Level 16"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "23 kg"
     }
 }, {
     "id": 395,
@@ -9874,6 +11450,10 @@
             "id": "394",
             "req": "Level 36"
         }
+    },
+    "profile": {
+        "height": "1.7 m",
+        "weight": "84.5 kg"
     }
 }, {
     "id": 396,
@@ -9899,6 +11479,10 @@
             "id": "397",
             "req": "Level 14"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "2 kg"
     }
 }, {
     "id": 397,
@@ -9928,6 +11512,10 @@
             "id": "396",
             "req": "Level 14"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "15.5 kg"
     }
 }, {
     "id": 398,
@@ -9953,6 +11541,10 @@
             "id": "397",
             "req": "Level 34"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "24.9 kg"
     }
 }, {
     "id": 399,
@@ -9978,6 +11570,10 @@
             "id": "400",
             "req": "Level 15"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "20 kg"
     }
 }, {
     "id": 400,
@@ -10003,6 +11599,10 @@
             "id": "399",
             "req": "Level 15"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "31.5 kg"
     }
 }, {
     "id": 401,
@@ -10028,6 +11628,10 @@
             "id": "402",
             "req": "Level 10"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "2.2 kg"
     }
 }, {
     "id": 402,
@@ -10053,6 +11657,10 @@
             "id": "401",
             "req": "Level 10"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "25.5 kg"
     }
 }, {
     "id": 403,
@@ -10078,6 +11686,10 @@
             "id": "404",
             "req": "Level 15"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "9.5 kg"
     }
 }, {
     "id": 404,
@@ -10107,6 +11719,10 @@
             "id": "403",
             "req": "Level 15"
         }
+    },
+    "profile": {
+        "height": "0.9 m",
+        "weight": "30.5 kg"
     }
 }, {
     "id": 405,
@@ -10132,6 +11748,10 @@
             "id": "404",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "1.4 m",
+        "weight": "42 kg"
     }
 }, {
     "id": 406,
@@ -10157,6 +11777,10 @@
             "id": "315",
             "req": "high Friendship, Daytime"
         }
+    },
+    "profile": {
+        "height": "0.2 m",
+        "weight": "1.2 kg"
     }
 }, {
     "id": 407,
@@ -10182,6 +11806,10 @@
             "id": "315",
             "req": "use Shiny Stone"
         }
+    },
+    "profile": {
+        "height": "0.9 m",
+        "weight": "14.5 kg"
     }
 }, {
     "id": 408,
@@ -10207,6 +11835,10 @@
             "id": "409",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "0.9 m",
+        "weight": "31.5 kg"
     }
 }, {
     "id": 409,
@@ -10232,6 +11864,10 @@
             "id": "408",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "1.6 m",
+        "weight": "102.5 kg"
     }
 }, {
     "id": 410,
@@ -10257,6 +11893,10 @@
             "id": "411",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "57 kg"
     }
 }, {
     "id": 411,
@@ -10282,6 +11922,10 @@
             "id": "410",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "1.3 m",
+        "weight": "149.5 kg"
     }
 }, {
     "id": 412,
@@ -10311,6 +11955,10 @@
             "id": "414",
             "req": "Level 20, Male"
         }
+    },
+    "profile": {
+        "height": "0.2 m",
+        "weight": "3.4 kg"
     }
 }, {
     "id": 413,
@@ -10336,6 +11984,10 @@
             "id": "412",
             "req": "Level 20, Female"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "6.5 kg"
     }
 }, {
     "id": 414,
@@ -10361,6 +12013,10 @@
             "id": "412",
             "req": "Level 20, Male"
         }
+    },
+    "profile": {
+        "height": "0.9 m",
+        "weight": "23.3 kg"
     }
 }, {
     "id": 415,
@@ -10386,6 +12042,10 @@
             "id": "416",
             "req": "Level 21, Female"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "5.5 kg"
     }
 }, {
     "id": 416,
@@ -10411,6 +12071,10 @@
             "id": "415",
             "req": "Level 21, Female"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "38.5 kg"
     }
 }, {
     "id": 417,
@@ -10431,7 +12095,11 @@
     },
     "species": "EleSquirrel Pokémon",
     "description": "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.4 m",
+        "weight": "3.9 kg"
+    }
 }, {
     "id": 418,
     "name": {
@@ -10456,6 +12124,10 @@
             "id": "419",
             "req": "Level 26"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "29.5 kg"
     }
 }, {
     "id": 419,
@@ -10481,6 +12153,10 @@
             "id": "418",
             "req": "Level 26"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "33.5 kg"
     }
 }, {
     "id": 420,
@@ -10506,6 +12182,10 @@
             "id": "421",
             "req": "Level 25"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "3.3 kg"
     }
 }, {
     "id": 421,
@@ -10531,6 +12211,10 @@
             "id": "420",
             "req": "Level 25"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "9.3 kg"
     }
 }, {
     "id": 422,
@@ -10556,6 +12240,10 @@
             "id": "423",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "6.3 kg"
     }
 }, {
     "id": 423,
@@ -10581,6 +12269,10 @@
             "id": "422",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "0.9 m",
+        "weight": "29.9 kg"
     }
 }, {
     "id": 424,
@@ -10606,6 +12298,10 @@
             "id": "190",
             "req": "after Double Hit learned"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "20.3 kg"
     }
 }, {
     "id": 425,
@@ -10631,6 +12327,10 @@
             "id": "426",
             "req": "Level 28"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "1.2 kg"
     }
 }, {
     "id": 426,
@@ -10656,6 +12356,10 @@
             "id": "425",
             "req": "Level 28"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "15 kg"
     }
 }, {
     "id": 427,
@@ -10681,6 +12385,10 @@
             "id": "428",
             "req": "high Friendship"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "5.5 kg"
     }
 }, {
     "id": 428,
@@ -10706,6 +12414,10 @@
             "id": "427",
             "req": "high Friendship"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "33.3 kg"
     }
 }, {
     "id": 429,
@@ -10731,6 +12443,10 @@
             "id": "200",
             "req": "use Dusk Stone"
         }
+    },
+    "profile": {
+        "height": "0.9 m",
+        "weight": "4.4 kg"
     }
 }, {
     "id": 430,
@@ -10756,6 +12472,10 @@
             "id": "198",
             "req": "use Dusk Stone"
         }
+    },
+    "profile": {
+        "height": "0.9 m",
+        "weight": "27.3 kg"
     }
 }, {
     "id": 431,
@@ -10781,6 +12501,10 @@
             "id": "432",
             "req": "Level 38"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "3.9 kg"
     }
 }, {
     "id": 432,
@@ -10806,6 +12530,10 @@
             "id": "431",
             "req": "Level 38"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "43.8 kg"
     }
 }, {
     "id": 433,
@@ -10831,6 +12559,10 @@
             "id": "358",
             "req": "high Friendship, Nighttime"
         }
+    },
+    "profile": {
+        "height": "0.2 m",
+        "weight": "0.6 kg"
     }
 }, {
     "id": 434,
@@ -10856,6 +12588,10 @@
             "id": "435",
             "req": "Level 34"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "19.2 kg"
     }
 }, {
     "id": 435,
@@ -10881,6 +12617,10 @@
             "id": "434",
             "req": "Level 34"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "38 kg"
     }
 }, {
     "id": 436,
@@ -10906,6 +12646,10 @@
             "id": "437",
             "req": "Level 33"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "60.5 kg"
     }
 }, {
     "id": 437,
@@ -10931,6 +12675,10 @@
             "id": "436",
             "req": "Level 33"
         }
+    },
+    "profile": {
+        "height": "1.3 m",
+        "weight": "187 kg"
     }
 }, {
     "id": 438,
@@ -10956,6 +12704,10 @@
             "id": "185",
             "req": "after Mimic learned"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "15 kg"
     }
 }, {
     "id": 439,
@@ -10981,6 +12733,10 @@
             "id": "122",
             "req": "after Mimic learned"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "13 kg"
     }
 }, {
     "id": 440,
@@ -11006,6 +12762,10 @@
             "id": "113",
             "req": "hold Oval Stone, Daytime"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "24.4 kg"
     }
 }, {
     "id": 441,
@@ -11026,7 +12786,11 @@
     },
     "species": "Music Note Pokémon",
     "description": "It can learn and speak human words. If they gather, they all learn the same saying.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.5 m",
+        "weight": "1.9 kg"
+    }
 }, {
     "id": 442,
     "name": {
@@ -11046,7 +12810,11 @@
     },
     "species": "Forbidden Pokémon",
     "description": "It was bound to a fissure in an odd keystone as punishment for misdeeds 500 years ago.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1 m",
+        "weight": "108 kg"
+    }
 }, {
     "id": 443,
     "name": {
@@ -11071,6 +12839,10 @@
             "id": "444",
             "req": "Level 24"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "20.5 kg"
     }
 }, {
     "id": 444,
@@ -11100,6 +12872,10 @@
             "id": "443",
             "req": "Level 24"
         }
+    },
+    "profile": {
+        "height": "1.4 m",
+        "weight": "56 kg"
     }
 }, {
     "id": 445,
@@ -11125,6 +12901,10 @@
             "id": "444",
             "req": "Level 48"
         }
+    },
+    "profile": {
+        "height": "1.9 m",
+        "weight": "95 kg"
     }
 }, {
     "id": 446,
@@ -11150,6 +12930,10 @@
             "id": "143",
             "req": "high Friendship"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "105 kg"
     }
 }, {
     "id": 447,
@@ -11175,6 +12959,10 @@
             "id": "448",
             "req": "high Friendship, Daytime"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "20.2 kg"
     }
 }, {
     "id": 448,
@@ -11200,6 +12988,10 @@
             "id": "447",
             "req": "high Friendship, Daytime"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "54 kg"
     }
 }, {
     "id": 449,
@@ -11225,6 +13017,10 @@
             "id": "450",
             "req": "Level 34"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "49.5 kg"
     }
 }, {
     "id": 450,
@@ -11250,6 +13046,10 @@
             "id": "449",
             "req": "Level 34"
         }
+    },
+    "profile": {
+        "height": "2 m",
+        "weight": "300 kg"
     }
 }, {
     "id": 451,
@@ -11275,6 +13075,10 @@
             "id": "452",
             "req": "Level 40"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "12 kg"
     }
 }, {
     "id": 452,
@@ -11300,6 +13104,10 @@
             "id": "451",
             "req": "Level 40"
         }
+    },
+    "profile": {
+        "height": "1.3 m",
+        "weight": "61.5 kg"
     }
 }, {
     "id": 453,
@@ -11325,6 +13133,10 @@
             "id": "454",
             "req": "Level 37"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "23 kg"
     }
 }, {
     "id": 454,
@@ -11350,6 +13162,10 @@
             "id": "453",
             "req": "Level 37"
         }
+    },
+    "profile": {
+        "height": "1.3 m",
+        "weight": "44.4 kg"
     }
 }, {
     "id": 455,
@@ -11370,7 +13186,11 @@
     },
     "species": "Bug Catcher Pokémon",
     "description": "It binds itself to trees in marshes. It attracts prey with its sweet-smelling drool and gulps them down.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.4 m",
+        "weight": "27 kg"
+    }
 }, {
     "id": 456,
     "name": {
@@ -11395,6 +13215,10 @@
             "id": "457",
             "req": "Level 31"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "7 kg"
     }
 }, {
     "id": 457,
@@ -11420,6 +13244,10 @@
             "id": "456",
             "req": "Level 31"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "24 kg"
     }
 }, {
     "id": 458,
@@ -11445,6 +13273,10 @@
             "id": "226",
             "req": "with Remoraid in party"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "65 kg"
     }
 }, {
     "id": 459,
@@ -11470,6 +13302,10 @@
             "id": "460",
             "req": "Level 40"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "50.5 kg"
     }
 }, {
     "id": 460,
@@ -11495,6 +13331,10 @@
             "id": "459",
             "req": "Level 40"
         }
+    },
+    "profile": {
+        "height": "2.2 m",
+        "weight": "135.5 kg"
     }
 }, {
     "id": 461,
@@ -11520,6 +13360,10 @@
             "id": "215",
             "req": "hold Razor Claw, Nighttime"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "34 kg"
     }
 }, {
     "id": 462,
@@ -11545,6 +13389,10 @@
             "id": "82",
             "req": "level up in a Magnetic Field area"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "180 kg"
     }
 }, {
     "id": 463,
@@ -11570,6 +13418,10 @@
             "id": "108",
             "req": "after Rollout learned"
         }
+    },
+    "profile": {
+        "height": "1.7 m",
+        "weight": "140 kg"
     }
 }, {
     "id": 464,
@@ -11595,6 +13447,10 @@
             "id": "112",
             "req": "trade holding Protector"
         }
+    },
+    "profile": {
+        "height": "2.4 m",
+        "weight": "282.8 kg"
     }
 }, {
     "id": 465,
@@ -11620,6 +13476,10 @@
             "id": "114",
             "req": "after Ancient Power learned"
         }
+    },
+    "profile": {
+        "height": "2 m",
+        "weight": "128.6 kg"
     }
 }, {
     "id": 466,
@@ -11645,6 +13505,10 @@
             "id": "125",
             "req": "trade holding Electirizer"
         }
+    },
+    "profile": {
+        "height": "1.8 m",
+        "weight": "138.6 kg"
     }
 }, {
     "id": 467,
@@ -11670,6 +13534,10 @@
             "id": "126",
             "req": "trade holding Magmarizer"
         }
+    },
+    "profile": {
+        "height": "1.6 m",
+        "weight": "68 kg"
     }
 }, {
     "id": 468,
@@ -11695,6 +13563,10 @@
             "id": "176",
             "req": "use Shiny Stone"
         }
+    },
+    "profile": {
+        "height": "1.5 m",
+        "weight": "38 kg"
     }
 }, {
     "id": 469,
@@ -11720,6 +13592,10 @@
             "id": "193",
             "req": "after Ancient Power learned"
         }
+    },
+    "profile": {
+        "height": "1.9 m",
+        "weight": "51.5 kg"
     }
 }, {
     "id": 470,
@@ -11745,6 +13621,10 @@
             "id": "133",
             "req": "level up near a Mossy Rock"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "25.5 kg"
     }
 }, {
     "id": 471,
@@ -11770,6 +13650,10 @@
             "id": "133",
             "req": "level up near an Icy Rock"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "25.9 kg"
     }
 }, {
     "id": 472,
@@ -11795,6 +13679,10 @@
             "id": "207",
             "req": "hold Razor Fang, Nighttime"
         }
+    },
+    "profile": {
+        "height": "2 m",
+        "weight": "42.5 kg"
     }
 }, {
     "id": 473,
@@ -11820,6 +13708,10 @@
             "id": "221",
             "req": "after Ancient Power learned"
         }
+    },
+    "profile": {
+        "height": "2.5 m",
+        "weight": "291 kg"
     }
 }, {
     "id": 474,
@@ -11845,6 +13737,10 @@
             "id": "233",
             "req": "trade holding Dubious Disc"
         }
+    },
+    "profile": {
+        "height": "0.9 m",
+        "weight": "34 kg"
     }
 }, {
     "id": 475,
@@ -11870,6 +13766,10 @@
             "id": "281",
             "req": "use Dawn Stone, Male"
         }
+    },
+    "profile": {
+        "height": "1.6 m",
+        "weight": "52 kg"
     }
 }, {
     "id": 476,
@@ -11895,6 +13795,10 @@
             "id": "299",
             "req": "level up in a Magnetic Field area"
         }
+    },
+    "profile": {
+        "height": "1.4 m",
+        "weight": "340 kg"
     }
 }, {
     "id": 477,
@@ -11920,6 +13824,10 @@
             "id": "356",
             "req": "trade holding Reaper Cloth"
         }
+    },
+    "profile": {
+        "height": "2.2 m",
+        "weight": "106.6 kg"
     }
 }, {
     "id": 478,
@@ -11945,6 +13853,10 @@
             "id": "361",
             "req": "use Dawn Stone, Female"
         }
+    },
+    "profile": {
+        "height": "1.3 m",
+        "weight": "26.6 kg"
     }
 }, {
     "id": 479,
@@ -11965,7 +13877,11 @@
     },
     "species": "Plasma Pokémon",
     "description": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.3 m",
+        "weight": "0.3 kg"
+    }
 }, {
     "id": 480,
     "name": {
@@ -11985,7 +13901,11 @@
     },
     "species": "Knowledge Pokémon",
     "description": "It is said that its emergence gave humans the intelligence to improve their quality of life.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.3 m",
+        "weight": "0.3 kg"
+    }
 }, {
     "id": 481,
     "name": {
@@ -12005,7 +13925,11 @@
     },
     "species": "Emotion Pokémon",
     "description": "It sleeps at the bottom of a lake. Its spirit is said to leave its body to fly on the lake’s surface.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.3 m",
+        "weight": "0.3 kg"
+    }
 }, {
     "id": 482,
     "name": {
@@ -12025,7 +13949,11 @@
     },
     "species": "Willpower Pokémon",
     "description": "It is thought that Uxie, Mesprit, and Azelf all came from the same egg.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.3 m",
+        "weight": "0.3 kg"
+    }
 }, {
     "id": 483,
     "name": {
@@ -12045,7 +13973,11 @@
     },
     "species": "Temporal Pokémon",
     "description": "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "5.4 m",
+        "weight": "683 kg"
+    }
 }, {
     "id": 484,
     "name": {
@@ -12065,7 +13997,11 @@
     },
     "species": "Spatial Pokémon",
     "description": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "4.2 m",
+        "weight": "336 kg"
+    }
 }, {
     "id": 485,
     "name": {
@@ -12085,7 +14021,11 @@
     },
     "species": "Lava Dome Pokémon",
     "description": "Boiling blood, like magma, circulates through its body. It makes its dwelling place in volcanic caves.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.7 m",
+        "weight": "430 kg"
+    }
 }, {
     "id": 486,
     "name": {
@@ -12105,7 +14045,11 @@
     },
     "species": "Colossal Pokémon",
     "description": "There is an enduring legend that states this Pokémon towed continents with ropes.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "3.7 m",
+        "weight": "420 kg"
+    }
 }, {
     "id": 487,
     "name": {
@@ -12125,7 +14069,11 @@
     },
     "species": "Renegade Pokémon",
     "description": "It was banished for its violence. It silently gazed upon the old world from the Distortion World.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "4.5 m",
+        "weight": "750 kg"
+    }
 }, {
     "id": 488,
     "name": {
@@ -12145,7 +14093,11 @@
     },
     "species": "Lunar Pokémon",
     "description": "Those who sleep holding Cresselia’s feather are assured of joyful dreams. It is said to represent the crescent moon.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.5 m",
+        "weight": "85.6 kg"
+    }
 }, {
     "id": 489,
     "name": {
@@ -12165,7 +14117,11 @@
     },
     "species": "Sea Drifter Pokémon",
     "description": "It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.4 m",
+        "weight": "3.1 kg"
+    }
 }, {
     "id": 490,
     "name": {
@@ -12185,7 +14141,11 @@
     },
     "species": "Seafaring Pokémon",
     "description": "It starts its life with a wondrous power that permits it to bond with any kind of Pokémon.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.3 m",
+        "weight": "1.4 kg"
+    }
 }, {
     "id": 491,
     "name": {
@@ -12205,7 +14165,11 @@
     },
     "species": "Pitch-Black Pokémon",
     "description": "It can lull people to sleep and make them dream. It is active during nights of the new moon.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.5 m",
+        "weight": "50.5 kg"
+    }
 }, {
     "id": 492,
     "name": {
@@ -12225,7 +14189,11 @@
     },
     "species": "Gratitude Pokémon",
     "description": "The blooming of Gracidea flowers confers the power of flight upon it. Feelings of gratitude are the message it delivers.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.2 m",
+        "weight": "2.1 kg"
+    }
 }, {
     "id": 493,
     "name": {
@@ -12245,7 +14213,11 @@
     },
     "species": "Alpha Pokémon",
     "description": "It is told in mythology that this Pokémon was born before the universe even existed.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "3.2 m",
+        "weight": "320 kg"
+    }
 }, {
     "id": 494,
     "name": {
@@ -12265,7 +14237,11 @@
     },
     "species": "Victory Pokémon",
     "description": "When it shares the infinite energy it creates, that being’s entire body will be overflowing with power.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.4 m",
+        "weight": "4 kg"
+    }
 }, {
     "id": 495,
     "name": {
@@ -12290,6 +14266,10 @@
             "id": "496",
             "req": "Level 17"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "8.1 kg"
     }
 }, {
     "id": 496,
@@ -12319,6 +14299,10 @@
             "id": "495",
             "req": "Level 17"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "16 kg"
     }
 }, {
     "id": 497,
@@ -12344,6 +14328,10 @@
             "id": "496",
             "req": "Level 36"
         }
+    },
+    "profile": {
+        "height": "3.3 m",
+        "weight": "63 kg"
     }
 }, {
     "id": 498,
@@ -12369,6 +14357,10 @@
             "id": "499",
             "req": "Level 17"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "9.9 kg"
     }
 }, {
     "id": 499,
@@ -12398,6 +14390,10 @@
             "id": "498",
             "req": "Level 17"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "55.5 kg"
     }
 }, {
     "id": 500,
@@ -12423,6 +14419,10 @@
             "id": "499",
             "req": "Level 36"
         }
+    },
+    "profile": {
+        "height": "1.6 m",
+        "weight": "150 kg"
     }
 }, {
     "id": 501,
@@ -12448,6 +14448,10 @@
             "id": "502",
             "req": "Level 17"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "5.9 kg"
     }
 }, {
     "id": 502,
@@ -12477,6 +14481,10 @@
             "id": "501",
             "req": "Level 17"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "24.5 kg"
     }
 }, {
     "id": 503,
@@ -12502,6 +14510,10 @@
             "id": "502",
             "req": "Level 36"
         }
+    },
+    "profile": {
+        "height": "1.5 m",
+        "weight": "94.6 kg"
     }
 }, {
     "id": 504,
@@ -12527,6 +14539,10 @@
             "id": "505",
             "req": "Level 20"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "11.6 kg"
     }
 }, {
     "id": 505,
@@ -12552,6 +14568,10 @@
             "id": "504",
             "req": "Level 20"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "27 kg"
     }
 }, {
     "id": 506,
@@ -12577,6 +14597,10 @@
             "id": "507",
             "req": "Level 16"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "4.1 kg"
     }
 }, {
     "id": 507,
@@ -12606,6 +14630,10 @@
             "id": "506",
             "req": "Level 16"
         }
+    },
+    "profile": {
+        "height": "0.9 m",
+        "weight": "14.7 kg"
     }
 }, {
     "id": 508,
@@ -12631,6 +14659,10 @@
             "id": "507",
             "req": "Level 32"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "61 kg"
     }
 }, {
     "id": 509,
@@ -12656,6 +14688,10 @@
             "id": "510",
             "req": "Level 20"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "10.1 kg"
     }
 }, {
     "id": 510,
@@ -12681,6 +14717,10 @@
             "id": "509",
             "req": "Level 20"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "37.5 kg"
     }
 }, {
     "id": 511,
@@ -12706,6 +14746,10 @@
             "id": "512",
             "req": "use Leaf Stone"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "10.5 kg"
     }
 }, {
     "id": 512,
@@ -12731,6 +14775,10 @@
             "id": "511",
             "req": "use Leaf Stone"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "30.5 kg"
     }
 }, {
     "id": 513,
@@ -12756,6 +14804,10 @@
             "id": "514",
             "req": "use Fire Stone"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "11 kg"
     }
 }, {
     "id": 514,
@@ -12781,6 +14833,10 @@
             "id": "513",
             "req": "use Fire Stone"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "28 kg"
     }
 }, {
     "id": 515,
@@ -12806,6 +14862,10 @@
             "id": "516",
             "req": "use Water Stone"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "13.5 kg"
     }
 }, {
     "id": 516,
@@ -12831,6 +14891,10 @@
             "id": "515",
             "req": "use Water Stone"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "29 kg"
     }
 }, {
     "id": 517,
@@ -12856,6 +14920,10 @@
             "id": "518",
             "req": "use Moon Stone"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "23.3 kg"
     }
 }, {
     "id": 518,
@@ -12881,6 +14949,10 @@
             "id": "517",
             "req": "use Moon Stone"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "60.5 kg"
     }
 }, {
     "id": 519,
@@ -12906,6 +14978,10 @@
             "id": "520",
             "req": "Level 21"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "2.1 kg"
     }
 }, {
     "id": 520,
@@ -12935,6 +15011,10 @@
             "id": "519",
             "req": "Level 21"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "15 kg"
     }
 }, {
     "id": 521,
@@ -12960,6 +15040,10 @@
             "id": "520",
             "req": "Level 32"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "29 kg"
     }
 }, {
     "id": 522,
@@ -12985,6 +15069,10 @@
             "id": "523",
             "req": "Level 27"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "29.8 kg"
     }
 }, {
     "id": 523,
@@ -13010,6 +15098,10 @@
             "id": "522",
             "req": "Level 27"
         }
+    },
+    "profile": {
+        "height": "1.6 m",
+        "weight": "79.5 kg"
     }
 }, {
     "id": 524,
@@ -13035,6 +15127,10 @@
             "id": "525",
             "req": "Level 25"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "18 kg"
     }
 }, {
     "id": 525,
@@ -13064,6 +15160,10 @@
             "id": "524",
             "req": "Level 25"
         }
+    },
+    "profile": {
+        "height": "0.9 m",
+        "weight": "102 kg"
     }
 }, {
     "id": 526,
@@ -13089,6 +15189,10 @@
             "id": "525",
             "req": "Trade"
         }
+    },
+    "profile": {
+        "height": "1.7 m",
+        "weight": "260 kg"
     }
 }, {
     "id": 527,
@@ -13114,6 +15218,10 @@
             "id": "528",
             "req": "high Friendship"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "2.1 kg"
     }
 }, {
     "id": 528,
@@ -13139,6 +15247,10 @@
             "id": "527",
             "req": "high Friendship"
         }
+    },
+    "profile": {
+        "height": "0.9 m",
+        "weight": "10.5 kg"
     }
 }, {
     "id": 529,
@@ -13164,6 +15276,10 @@
             "id": "530",
             "req": "Level 31"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "8.5 kg"
     }
 }, {
     "id": 530,
@@ -13189,6 +15305,10 @@
             "id": "529",
             "req": "Level 31"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "40.4 kg"
     }
 }, {
     "id": 531,
@@ -13209,7 +15329,11 @@
     },
     "species": "Hearing Pokémon",
     "description": "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.1 m",
+        "weight": "31 kg"
+    }
 }, {
     "id": 532,
     "name": {
@@ -13234,6 +15358,10 @@
             "id": "533",
             "req": "Level 25"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "12.5 kg"
     }
 }, {
     "id": 533,
@@ -13263,6 +15391,10 @@
             "id": "532",
             "req": "Level 25"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "40 kg"
     }
 }, {
     "id": 534,
@@ -13288,6 +15420,10 @@
             "id": "533",
             "req": "Trade"
         }
+    },
+    "profile": {
+        "height": "1.4 m",
+        "weight": "87 kg"
     }
 }, {
     "id": 535,
@@ -13313,6 +15449,10 @@
             "id": "536",
             "req": "Level 25"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "4.5 kg"
     }
 }, {
     "id": 536,
@@ -13342,6 +15482,10 @@
             "id": "535",
             "req": "Level 25"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "17 kg"
     }
 }, {
     "id": 537,
@@ -13367,6 +15511,10 @@
             "id": "536",
             "req": "Level 36"
         }
+    },
+    "profile": {
+        "height": "1.5 m",
+        "weight": "62 kg"
     }
 }, {
     "id": 538,
@@ -13387,7 +15535,11 @@
     },
     "species": "Judo Pokémon",
     "description": "When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.3 m",
+        "weight": "55.5 kg"
+    }
 }, {
     "id": 539,
     "name": {
@@ -13407,7 +15559,11 @@
     },
     "species": "Karate Pokémon",
     "description": "Tying their belts gets them pumped and makes their punches more destructive. Disturbing their training angers them.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.4 m",
+        "weight": "51 kg"
+    }
 }, {
     "id": 540,
     "name": {
@@ -13432,6 +15588,10 @@
             "id": "541",
             "req": "Level 20"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "2.5 kg"
     }
 }, {
     "id": 541,
@@ -13461,6 +15621,10 @@
             "id": "540",
             "req": "Level 20"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "7.3 kg"
     }
 }, {
     "id": 542,
@@ -13486,6 +15650,10 @@
             "id": "541",
             "req": "high Friendship"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "20.5 kg"
     }
 }, {
     "id": 543,
@@ -13511,6 +15679,10 @@
             "id": "544",
             "req": "Level 22"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "5.3 kg"
     }
 }, {
     "id": 544,
@@ -13540,6 +15712,10 @@
             "id": "543",
             "req": "Level 22"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "58.5 kg"
     }
 }, {
     "id": 545,
@@ -13565,6 +15741,10 @@
             "id": "544",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "2.5 m",
+        "weight": "200.5 kg"
     }
 }, {
     "id": 546,
@@ -13590,6 +15770,10 @@
             "id": "547",
             "req": "use Sun Stone"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "0.6 kg"
     }
 }, {
     "id": 547,
@@ -13615,6 +15799,10 @@
             "id": "546",
             "req": "use Sun Stone"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "6.6 kg"
     }
 }, {
     "id": 548,
@@ -13640,6 +15828,10 @@
             "id": "549",
             "req": "use Sun Stone"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "6.6 kg"
     }
 }, {
     "id": 549,
@@ -13665,6 +15857,10 @@
             "id": "548",
             "req": "use Sun Stone"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "16.3 kg"
     }
 }, {
     "id": 550,
@@ -13685,7 +15881,11 @@
     },
     "species": "Hostile Pokémon",
     "description": "When a school of Basculin appears in a lake, everything else disappears, except for Corphish and Crawdaunt. That’s how violent Basculin are.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1 m",
+        "weight": "18 kg"
+    }
 }, {
     "id": 551,
     "name": {
@@ -13710,6 +15910,10 @@
             "id": "552",
             "req": "Level 29"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "15.2 kg"
     }
 }, {
     "id": 552,
@@ -13739,6 +15943,10 @@
             "id": "551",
             "req": "Level 29"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "33.4 kg"
     }
 }, {
     "id": 553,
@@ -13764,6 +15972,10 @@
             "id": "552",
             "req": "Level 40"
         }
+    },
+    "profile": {
+        "height": "1.5 m",
+        "weight": "96.3 kg"
     }
 }, {
     "id": 554,
@@ -13789,6 +16001,10 @@
             "id": "555",
             "req": "use Ice Stone"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "37.5 kg"
     }
 }, {
     "id": 555,
@@ -13814,6 +16030,10 @@
             "id": "554",
             "req": "use Ice Stone"
         }
+    },
+    "profile": {
+        "height": "1.3 m",
+        "weight": "92.9 kg"
     }
 }, {
     "id": 556,
@@ -13834,7 +16054,11 @@
     },
     "species": "Cactus Pokémon",
     "description": "Arid regions are their habitat. They move rhythmically, making a sound similar to maracas.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1 m",
+        "weight": "28 kg"
+    }
 }, {
     "id": 557,
     "name": {
@@ -13859,6 +16083,10 @@
             "id": "558",
             "req": "Level 34"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "14.5 kg"
     }
 }, {
     "id": 558,
@@ -13884,6 +16112,10 @@
             "id": "557",
             "req": "Level 34"
         }
+    },
+    "profile": {
+        "height": "1.4 m",
+        "weight": "200 kg"
     }
 }, {
     "id": 559,
@@ -13909,6 +16141,10 @@
             "id": "560",
             "req": "Level 39"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "11.8 kg"
     }
 }, {
     "id": 560,
@@ -13934,6 +16170,10 @@
             "id": "559",
             "req": "Level 39"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "30 kg"
     }
 }, {
     "id": 561,
@@ -13954,7 +16194,11 @@
     },
     "species": "Avianoid Pokémon",
     "description": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.4 m",
+        "weight": "14 kg"
+    }
 }, {
     "id": 562,
     "name": {
@@ -13979,6 +16223,10 @@
             "id": "867",
             "req": "near Dusty Bowl"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "1.5 kg"
     }
 }, {
     "id": 563,
@@ -14004,6 +16252,10 @@
             "id": "562",
             "req": "Level 34"
         }
+    },
+    "profile": {
+        "height": "1.7 m",
+        "weight": "76.5 kg"
     }
 }, {
     "id": 564,
@@ -14029,6 +16281,10 @@
             "id": "565",
             "req": "Level 37"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "16.5 kg"
     }
 }, {
     "id": 565,
@@ -14054,6 +16310,10 @@
             "id": "564",
             "req": "Level 37"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "81 kg"
     }
 }, {
     "id": 566,
@@ -14079,6 +16339,10 @@
             "id": "567",
             "req": "Level 37"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "9.5 kg"
     }
 }, {
     "id": 567,
@@ -14104,6 +16368,10 @@
             "id": "566",
             "req": "Level 37"
         }
+    },
+    "profile": {
+        "height": "1.4 m",
+        "weight": "32 kg"
     }
 }, {
     "id": 568,
@@ -14129,6 +16397,10 @@
             "id": "569",
             "req": "Level 36"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "31 kg"
     }
 }, {
     "id": 569,
@@ -14154,6 +16426,10 @@
             "id": "568",
             "req": "Level 36"
         }
+    },
+    "profile": {
+        "height": "1.9 m",
+        "weight": "107.3 kg"
     }
 }, {
     "id": 570,
@@ -14179,6 +16455,10 @@
             "id": "571",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "12.5 kg"
     }
 }, {
     "id": 571,
@@ -14204,6 +16484,10 @@
             "id": "570",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "1.6 m",
+        "weight": "81.1 kg"
     }
 }, {
     "id": 572,
@@ -14229,6 +16513,10 @@
             "id": "573",
             "req": "use Shiny Stone"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "5.8 kg"
     }
 }, {
     "id": 573,
@@ -14254,6 +16542,10 @@
             "id": "572",
             "req": "use Shiny Stone"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "7.5 kg"
     }
 }, {
     "id": 574,
@@ -14279,6 +16571,10 @@
             "id": "575",
             "req": "Level 32"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "5.8 kg"
     }
 }, {
     "id": 575,
@@ -14308,6 +16604,10 @@
             "id": "574",
             "req": "Level 32"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "18 kg"
     }
 }, {
     "id": 576,
@@ -14333,6 +16633,10 @@
             "id": "575",
             "req": "Level 41"
         }
+    },
+    "profile": {
+        "height": "1.5 m",
+        "weight": "44 kg"
     }
 }, {
     "id": 577,
@@ -14358,6 +16662,10 @@
             "id": "578",
             "req": "Level 32"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "1 kg"
     }
 }, {
     "id": 578,
@@ -14387,6 +16695,10 @@
             "id": "577",
             "req": "Level 32"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "8 kg"
     }
 }, {
     "id": 579,
@@ -14412,6 +16724,10 @@
             "id": "578",
             "req": "Level 41"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "20.1 kg"
     }
 }, {
     "id": 580,
@@ -14437,6 +16753,10 @@
             "id": "581",
             "req": "Level 35"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "5.5 kg"
     }
 }, {
     "id": 581,
@@ -14462,6 +16782,10 @@
             "id": "580",
             "req": "Level 35"
         }
+    },
+    "profile": {
+        "height": "1.3 m",
+        "weight": "24.2 kg"
     }
 }, {
     "id": 582,
@@ -14487,6 +16811,10 @@
             "id": "583",
             "req": "Level 35"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "5.7 kg"
     }
 }, {
     "id": 583,
@@ -14516,6 +16844,10 @@
             "id": "582",
             "req": "Level 35"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "41 kg"
     }
 }, {
     "id": 584,
@@ -14541,6 +16873,10 @@
             "id": "583",
             "req": "Level 47"
         }
+    },
+    "profile": {
+        "height": "1.3 m",
+        "weight": "57.5 kg"
     }
 }, {
     "id": 585,
@@ -14566,6 +16902,10 @@
             "id": "586",
             "req": "Level 34"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "19.5 kg"
     }
 }, {
     "id": 586,
@@ -14591,6 +16931,10 @@
             "id": "585",
             "req": "Level 34"
         }
+    },
+    "profile": {
+        "height": "1.9 m",
+        "weight": "92.5 kg"
     }
 }, {
     "id": 587,
@@ -14611,7 +16955,11 @@
     },
     "species": "Sky Squirrel Pokémon",
     "description": "As it flies, it scatters electricity around, so bird Pokémon keep their distance. That’s why Emolga can keep all its food to itself.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.4 m",
+        "weight": "5 kg"
+    }
 }, {
     "id": 588,
     "name": {
@@ -14636,6 +16984,10 @@
             "id": "589",
             "req": "Trade with Shelmet"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "5.9 kg"
     }
 }, {
     "id": 589,
@@ -14661,6 +17013,10 @@
             "id": "588",
             "req": "Trade with Shelmet"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "33 kg"
     }
 }, {
     "id": 590,
@@ -14686,6 +17042,10 @@
             "id": "591",
             "req": "Level 39"
         }
+    },
+    "profile": {
+        "height": "0.2 m",
+        "weight": "1 kg"
     }
 }, {
     "id": 591,
@@ -14711,6 +17071,10 @@
             "id": "590",
             "req": "Level 39"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "10.5 kg"
     }
 }, {
     "id": 592,
@@ -14736,6 +17100,10 @@
             "id": "593",
             "req": "Level 40"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "33 kg"
     }
 }, {
     "id": 593,
@@ -14761,6 +17129,10 @@
             "id": "592",
             "req": "Level 40"
         }
+    },
+    "profile": {
+        "height": "2.2 m",
+        "weight": "135 kg"
     }
 }, {
     "id": 594,
@@ -14781,7 +17153,11 @@
     },
     "species": "Caring Pokémon",
     "description": "The reason it helps Pokémon in a weakened condition is that any Pokémon coming after them may also attack Alomomola.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.2 m",
+        "weight": "31.6 kg"
+    }
 }, {
     "id": 595,
     "name": {
@@ -14806,6 +17182,10 @@
             "id": "596",
             "req": "Level 36"
         }
+    },
+    "profile": {
+        "height": "0.1 m",
+        "weight": "0.6 kg"
     }
 }, {
     "id": 596,
@@ -14831,6 +17211,10 @@
             "id": "595",
             "req": "Level 36"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "14.3 kg"
     }
 }, {
     "id": 597,
@@ -14856,6 +17240,10 @@
             "id": "598",
             "req": "Level 40"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "18.8 kg"
     }
 }, {
     "id": 598,
@@ -14881,6 +17269,10 @@
             "id": "597",
             "req": "Level 40"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "110 kg"
     }
 }, {
     "id": 599,
@@ -14906,6 +17298,10 @@
             "id": "600",
             "req": "Level 38"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "21 kg"
     }
 }, {
     "id": 600,
@@ -14935,6 +17331,10 @@
             "id": "599",
             "req": "Level 38"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "51 kg"
     }
 }, {
     "id": 601,
@@ -14960,6 +17360,10 @@
             "id": "600",
             "req": "Level 49"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "81 kg"
     }
 }, {
     "id": 602,
@@ -14985,6 +17389,10 @@
             "id": "603",
             "req": "Level 39"
         }
+    },
+    "profile": {
+        "height": "0.2 m",
+        "weight": "0.3 kg"
     }
 }, {
     "id": 603,
@@ -15014,6 +17422,10 @@
             "id": "602",
             "req": "Level 39"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "22 kg"
     }
 }, {
     "id": 604,
@@ -15039,6 +17451,10 @@
             "id": "603",
             "req": "use Thunder Stone"
         }
+    },
+    "profile": {
+        "height": "2.1 m",
+        "weight": "80.5 kg"
     }
 }, {
     "id": 605,
@@ -15064,6 +17480,10 @@
             "id": "606",
             "req": "Level 42"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "9 kg"
     }
 }, {
     "id": 606,
@@ -15089,6 +17509,10 @@
             "id": "605",
             "req": "Level 42"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "34.5 kg"
     }
 }, {
     "id": 607,
@@ -15114,6 +17538,10 @@
             "id": "608",
             "req": "Level 41"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "3.1 kg"
     }
 }, {
     "id": 608,
@@ -15143,6 +17571,10 @@
             "id": "607",
             "req": "Level 41"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "13 kg"
     }
 }, {
     "id": 609,
@@ -15168,6 +17600,10 @@
             "id": "608",
             "req": "use Dusk Stone"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "34.3 kg"
     }
 }, {
     "id": 610,
@@ -15193,6 +17629,10 @@
             "id": "611",
             "req": "Level 38"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "18 kg"
     }
 }, {
     "id": 611,
@@ -15222,6 +17662,10 @@
             "id": "610",
             "req": "Level 38"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "36 kg"
     }
 }, {
     "id": 612,
@@ -15247,6 +17691,10 @@
             "id": "611",
             "req": "Level 48"
         }
+    },
+    "profile": {
+        "height": "1.8 m",
+        "weight": "105.5 kg"
     }
 }, {
     "id": 613,
@@ -15272,6 +17720,10 @@
             "id": "614",
             "req": "Level 37"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "8.5 kg"
     }
 }, {
     "id": 614,
@@ -15297,6 +17749,10 @@
             "id": "613",
             "req": "Level 37"
         }
+    },
+    "profile": {
+        "height": "2.6 m",
+        "weight": "260 kg"
     }
 }, {
     "id": 615,
@@ -15317,7 +17773,11 @@
     },
     "species": "Crystallizing Pokémon",
     "description": "They are composed of ice crystals. They capture prey with chains of ice, freezing the prey at -148 degrees Fahrenheit.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.1 m",
+        "weight": "148 kg"
+    }
 }, {
     "id": 616,
     "name": {
@@ -15342,6 +17802,10 @@
             "id": "617",
             "req": "Trade with Karrablast"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "7.7 kg"
     }
 }, {
     "id": 617,
@@ -15367,6 +17831,10 @@
             "id": "616",
             "req": "Trade with Karrablast"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "25.3 kg"
     }
 }, {
     "id": 618,
@@ -15387,7 +17855,11 @@
     },
     "species": "Trap Pokémon",
     "description": "It conceals itself in the mud of the seashore. Then it waits. When prey touch it, it delivers a jolt of electricity.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.7 m",
+        "weight": "11 kg"
+    }
 }, {
     "id": 619,
     "name": {
@@ -15412,6 +17884,10 @@
             "id": "620",
             "req": "Level 50"
         }
+    },
+    "profile": {
+        "height": "0.9 m",
+        "weight": "20 kg"
     }
 }, {
     "id": 620,
@@ -15437,6 +17913,10 @@
             "id": "619",
             "req": "Level 50"
         }
+    },
+    "profile": {
+        "height": "1.4 m",
+        "weight": "35.5 kg"
     }
 }, {
     "id": 621,
@@ -15457,7 +17937,11 @@
     },
     "species": "Cave Pokémon",
     "description": "It infiltrates tunnels that Pokémon like Diglett and Dugtrio have dug and quietly waits for prey to pass through.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.6 m",
+        "weight": "139 kg"
+    }
 }, {
     "id": 622,
     "name": {
@@ -15482,6 +17966,10 @@
             "id": "623",
             "req": "Level 43"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "92 kg"
     }
 }, {
     "id": 623,
@@ -15507,6 +17995,10 @@
             "id": "622",
             "req": "Level 43"
         }
+    },
+    "profile": {
+        "height": "2.8 m",
+        "weight": "330 kg"
     }
 }, {
     "id": 624,
@@ -15532,6 +18024,10 @@
             "id": "625",
             "req": "Level 52"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "10.2 kg"
     }
 }, {
     "id": 625,
@@ -15557,6 +18053,10 @@
             "id": "624",
             "req": "Level 52"
         }
+    },
+    "profile": {
+        "height": "1.6 m",
+        "weight": "70 kg"
     }
 }, {
     "id": 626,
@@ -15577,7 +18077,11 @@
     },
     "species": "Bash Buffalo Pokémon",
     "description": "Their fluffy fur absorbs damage, even if they strike foes with a fierce headbutt.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.6 m",
+        "weight": "94.6 kg"
+    }
 }, {
     "id": 627,
     "name": {
@@ -15602,6 +18106,10 @@
             "id": "628",
             "req": "Level 54"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "10.5 kg"
     }
 }, {
     "id": 628,
@@ -15627,6 +18135,10 @@
             "id": "627",
             "req": "Level 54"
         }
+    },
+    "profile": {
+        "height": "1.5 m",
+        "weight": "41 kg"
     }
 }, {
     "id": 629,
@@ -15652,6 +18164,10 @@
             "id": "630",
             "req": "Level 54"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "9 kg"
     }
 }, {
     "id": 630,
@@ -15677,6 +18193,10 @@
             "id": "629",
             "req": "Level 54"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "39.5 kg"
     }
 }, {
     "id": 631,
@@ -15697,7 +18217,11 @@
     },
     "species": "Anteater Pokémon",
     "description": "It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.4 m",
+        "weight": "58 kg"
+    }
 }, {
     "id": 632,
     "name": {
@@ -15717,7 +18241,11 @@
     },
     "species": "Iron Ant Pokémon",
     "description": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.3 m",
+        "weight": "33 kg"
+    }
 }, {
     "id": 633,
     "name": {
@@ -15742,6 +18270,10 @@
             "id": "634",
             "req": "Level 50"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "17.3 kg"
     }
 }, {
     "id": 634,
@@ -15771,6 +18303,10 @@
             "id": "633",
             "req": "Level 50"
         }
+    },
+    "profile": {
+        "height": "1.4 m",
+        "weight": "50 kg"
     }
 }, {
     "id": 635,
@@ -15796,6 +18332,10 @@
             "id": "634",
             "req": "Level 64"
         }
+    },
+    "profile": {
+        "height": "1.8 m",
+        "weight": "160 kg"
     }
 }, {
     "id": 636,
@@ -15821,6 +18361,10 @@
             "id": "637",
             "req": "Level 59"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "28.8 kg"
     }
 }, {
     "id": 637,
@@ -15846,6 +18390,10 @@
             "id": "636",
             "req": "Level 59"
         }
+    },
+    "profile": {
+        "height": "1.6 m",
+        "weight": "46 kg"
     }
 }, {
     "id": 638,
@@ -15866,7 +18414,11 @@
     },
     "species": "Iron Will Pokémon",
     "description": "It has a body and heart of steel. It worked with its allies to punish people when they hurt Pokémon.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "2.1 m",
+        "weight": "250 kg"
+    }
 }, {
     "id": 639,
     "name": {
@@ -15886,7 +18438,11 @@
     },
     "species": "Cavern Pokémon",
     "description": "Spoken of in legend, this Pokémon used its phenomenal power to destroy a castle in its effort to protect Pokémon.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.9 m",
+        "weight": "260 kg"
+    }
 }, {
     "id": 640,
     "name": {
@@ -15906,7 +18462,11 @@
     },
     "species": "Grassland Pokémon",
     "description": "Legends say this Pokémon confounded opponents with its swift movements.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "2 m",
+        "weight": "200 kg"
+    }
 }, {
     "id": 641,
     "name": {
@@ -15926,7 +18486,11 @@
     },
     "species": "Cyclone Pokémon",
     "description": "Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.5 m",
+        "weight": "63 kg"
+    }
 }, {
     "id": 642,
     "name": {
@@ -15946,7 +18510,11 @@
     },
     "species": "Bolt Strike Pokémon",
     "description": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.5 m",
+        "weight": "61 kg"
+    }
 }, {
     "id": 643,
     "name": {
@@ -15966,7 +18534,11 @@
     },
     "species": "Vast White Pokémon",
     "description": "When Reshiram’s tail flares, the heat energy moves the atmosphere and changes the world’s weather.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "3.2 m",
+        "weight": "330 kg"
+    }
 }, {
     "id": 644,
     "name": {
@@ -15986,7 +18558,11 @@
     },
     "species": "Deep Black Pokémon",
     "description": "Concealing itself in lightning clouds, it flies throughout the Unova region. It creates electricity in its tail.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "2.9 m",
+        "weight": "345 kg"
+    }
 }, {
     "id": 645,
     "name": {
@@ -16006,7 +18582,11 @@
     },
     "species": "Abundance Pokémon",
     "description": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.5 m",
+        "weight": "68 kg"
+    }
 }, {
     "id": 646,
     "name": {
@@ -16026,7 +18606,11 @@
     },
     "species": "Boundary Pokémon",
     "description": "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "3 m",
+        "weight": "325 kg"
+    }
 }, {
     "id": 647,
     "name": {
@@ -16046,7 +18630,11 @@
     },
     "species": "Colt Pokémon",
     "description": "When it is resolute, its body fills with power and it becomes swifter. Its jumps are then too fast to follow.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.4 m",
+        "weight": "48.5 kg"
+    }
 }, {
     "id": 648,
     "name": {
@@ -16066,7 +18654,11 @@
     },
     "species": "Melody Pokémon",
     "description": "Its melodies are sung with a special vocalization method that can control the feelings of those who hear it.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.6 m",
+        "weight": "6.5 kg"
+    }
 }, {
     "id": 649,
     "name": {
@@ -16086,7 +18678,11 @@
     },
     "species": "Paleozoic Pokémon",
     "description": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.5 m",
+        "weight": "82.5 kg"
+    }
 }, {
     "id": 650,
     "name": {
@@ -16111,6 +18707,10 @@
             "id": "651",
             "req": "Level 16"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "9 kg"
     }
 }, {
     "id": 651,
@@ -16140,6 +18740,10 @@
             "id": "650",
             "req": "Level 16"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "29 kg"
     }
 }, {
     "id": 652,
@@ -16165,6 +18769,10 @@
             "id": "651",
             "req": "Level 36"
         }
+    },
+    "profile": {
+        "height": "1.6 m",
+        "weight": "90 kg"
     }
 }, {
     "id": 653,
@@ -16190,6 +18798,10 @@
             "id": "654",
             "req": "Level 16"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "9.4 kg"
     }
 }, {
     "id": 654,
@@ -16219,6 +18831,10 @@
             "id": "653",
             "req": "Level 16"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "14.5 kg"
     }
 }, {
     "id": 655,
@@ -16244,6 +18860,10 @@
             "id": "654",
             "req": "Level 36"
         }
+    },
+    "profile": {
+        "height": "1.5 m",
+        "weight": "39 kg"
     }
 }, {
     "id": 656,
@@ -16269,6 +18889,10 @@
             "id": "657",
             "req": "Level 16"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "7 kg"
     }
 }, {
     "id": 657,
@@ -16298,6 +18922,10 @@
             "id": "656",
             "req": "Level 16"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "10.9 kg"
     }
 }, {
     "id": 658,
@@ -16323,6 +18951,10 @@
             "id": "657",
             "req": "Level 36"
         }
+    },
+    "profile": {
+        "height": "1.5 m",
+        "weight": "40 kg"
     }
 }, {
     "id": 659,
@@ -16348,6 +18980,10 @@
             "id": "660",
             "req": "Level 20"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "5 kg"
     }
 }, {
     "id": 660,
@@ -16373,6 +19009,10 @@
             "id": "659",
             "req": "Level 20"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "42.4 kg"
     }
 }, {
     "id": 661,
@@ -16398,6 +19038,10 @@
             "id": "662",
             "req": "Level 17"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "1.7 kg"
     }
 }, {
     "id": 662,
@@ -16427,6 +19071,10 @@
             "id": "661",
             "req": "Level 17"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "16 kg"
     }
 }, {
     "id": 663,
@@ -16452,6 +19100,10 @@
             "id": "662",
             "req": "Level 35"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "24.5 kg"
     }
 }, {
     "id": 664,
@@ -16477,6 +19129,10 @@
             "id": "665",
             "req": "Level 9"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "2.5 kg"
     }
 }, {
     "id": 665,
@@ -16506,6 +19162,10 @@
             "id": "664",
             "req": "Level 9"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "8.4 kg"
     }
 }, {
     "id": 666,
@@ -16531,6 +19191,10 @@
             "id": "665",
             "req": "Level 12"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "17 kg"
     }
 }, {
     "id": 667,
@@ -16556,6 +19220,10 @@
             "id": "668",
             "req": "Level 35"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "13.5 kg"
     }
 }, {
     "id": 668,
@@ -16581,6 +19249,10 @@
             "id": "667",
             "req": "Level 35"
         }
+    },
+    "profile": {
+        "height": "1.5 m",
+        "weight": "81.5 kg"
     }
 }, {
     "id": 669,
@@ -16606,6 +19278,10 @@
             "id": "670",
             "req": "Level 19"
         }
+    },
+    "profile": {
+        "height": "0.1 m",
+        "weight": "0.1 kg"
     }
 }, {
     "id": 670,
@@ -16635,6 +19311,10 @@
             "id": "669",
             "req": "Level 19"
         }
+    },
+    "profile": {
+        "height": "0.2 m",
+        "weight": "0.9 kg"
     }
 }, {
     "id": 671,
@@ -16660,6 +19340,10 @@
             "id": "670",
             "req": "use Shiny Stone"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "10 kg"
     }
 }, {
     "id": 672,
@@ -16685,6 +19369,10 @@
             "id": "673",
             "req": "Level 32"
         }
+    },
+    "profile": {
+        "height": "0.9 m",
+        "weight": "31 kg"
     }
 }, {
     "id": 673,
@@ -16710,6 +19398,10 @@
             "id": "672",
             "req": "Level 32"
         }
+    },
+    "profile": {
+        "height": "1.7 m",
+        "weight": "91 kg"
     }
 }, {
     "id": 674,
@@ -16735,6 +19427,10 @@
             "id": "675",
             "req": "Level 32, Dark type Pokémon in party"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "8 kg"
     }
 }, {
     "id": 675,
@@ -16760,6 +19456,10 @@
             "id": "674",
             "req": "Level 32, Dark type Pokémon in party"
         }
+    },
+    "profile": {
+        "height": "2.1 m",
+        "weight": "136 kg"
     }
 }, {
     "id": 676,
@@ -16780,7 +19480,11 @@
     },
     "species": "Poodle Pokémon",
     "description": "Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.2 m",
+        "weight": "28 kg"
+    }
 }, {
     "id": 677,
     "name": {
@@ -16805,6 +19509,10 @@
             "id": "678",
             "req": "Level 25"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "3.5 kg"
     }
 }, {
     "id": 678,
@@ -16830,6 +19538,10 @@
             "id": "677",
             "req": "Level 25"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "8.5 kg"
     }
 }, {
     "id": 679,
@@ -16855,6 +19567,10 @@
             "id": "680",
             "req": "Level 35"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "2 kg"
     }
 }, {
     "id": 680,
@@ -16884,6 +19600,10 @@
             "id": "679",
             "req": "Level 35"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "4.5 kg"
     }
 }, {
     "id": 681,
@@ -16909,6 +19629,10 @@
             "id": "680",
             "req": "use Dusk Stone"
         }
+    },
+    "profile": {
+        "height": "1.7 m",
+        "weight": "53 kg"
     }
 }, {
     "id": 682,
@@ -16934,6 +19658,10 @@
             "id": "683",
             "req": "trade holding Sachet"
         }
+    },
+    "profile": {
+        "height": "0.2 m",
+        "weight": "0.5 kg"
     }
 }, {
     "id": 683,
@@ -16959,6 +19687,10 @@
             "id": "682",
             "req": "trade holding Sachet"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "15.5 kg"
     }
 }, {
     "id": 684,
@@ -16984,6 +19716,10 @@
             "id": "685",
             "req": "trade holding Whipped Dream"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "3.5 kg"
     }
 }, {
     "id": 685,
@@ -17009,6 +19745,10 @@
             "id": "684",
             "req": "trade holding Whipped Dream"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "5 kg"
     }
 }, {
     "id": 686,
@@ -17034,6 +19774,10 @@
             "id": "687",
             "req": "Level 30, holding console upside down"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "3.5 kg"
     }
 }, {
     "id": 687,
@@ -17059,6 +19803,10 @@
             "id": "686",
             "req": "Level 30, holding console upside down"
         }
+    },
+    "profile": {
+        "height": "1.5 m",
+        "weight": "47 kg"
     }
 }, {
     "id": 688,
@@ -17084,6 +19832,10 @@
             "id": "689",
             "req": "Level 39"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "31 kg"
     }
 }, {
     "id": 689,
@@ -17109,6 +19861,10 @@
             "id": "688",
             "req": "Level 39"
         }
+    },
+    "profile": {
+        "height": "1.3 m",
+        "weight": "96 kg"
     }
 }, {
     "id": 690,
@@ -17134,6 +19890,10 @@
             "id": "691",
             "req": "Level 48"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "7.3 kg"
     }
 }, {
     "id": 691,
@@ -17159,6 +19919,10 @@
             "id": "690",
             "req": "Level 48"
         }
+    },
+    "profile": {
+        "height": "1.8 m",
+        "weight": "81.5 kg"
     }
 }, {
     "id": 692,
@@ -17184,6 +19948,10 @@
             "id": "693",
             "req": "Level 37"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "8.3 kg"
     }
 }, {
     "id": 693,
@@ -17209,6 +19977,10 @@
             "id": "692",
             "req": "Level 37"
         }
+    },
+    "profile": {
+        "height": "1.3 m",
+        "weight": "35.3 kg"
     }
 }, {
     "id": 694,
@@ -17234,6 +20006,10 @@
             "id": "695",
             "req": "use Sun Stone"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "6 kg"
     }
 }, {
     "id": 695,
@@ -17259,6 +20035,10 @@
             "id": "694",
             "req": "use Sun Stone"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "21 kg"
     }
 }, {
     "id": 696,
@@ -17284,6 +20064,10 @@
             "id": "697",
             "req": "Level 39, Daytime"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "26 kg"
     }
 }, {
     "id": 697,
@@ -17309,6 +20093,10 @@
             "id": "696",
             "req": "Level 39, Daytime"
         }
+    },
+    "profile": {
+        "height": "2.5 m",
+        "weight": "270 kg"
     }
 }, {
     "id": 698,
@@ -17334,6 +20122,10 @@
             "id": "699",
             "req": "Level 39, Nighttime"
         }
+    },
+    "profile": {
+        "height": "1.3 m",
+        "weight": "25.2 kg"
     }
 }, {
     "id": 699,
@@ -17359,6 +20151,10 @@
             "id": "698",
             "req": "Level 39, Nighttime"
         }
+    },
+    "profile": {
+        "height": "2.7 m",
+        "weight": "225 kg"
     }
 }, {
     "id": 700,
@@ -17384,6 +20180,10 @@
             "id": "133",
             "req": "High Affection, knowing Fairy move"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "23.5 kg"
     }
 }, {
     "id": 701,
@@ -17404,7 +20204,11 @@
     },
     "species": "Wrestling Pokémon",
     "description": "In combat, Hawlucha leaps nimbly about, taking advantage of its opponents’ blind spots. It’s also skilled at using superb submission holds.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.8 m",
+        "weight": "21.5 kg"
+    }
 }, {
     "id": 702,
     "name": {
@@ -17424,7 +20228,11 @@
     },
     "species": "Antenna Pokémon",
     "description": "Its upper whiskers are sensors that survey its surroundings. Its lower whiskers are organs that shoot electricity.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.2 m",
+        "weight": "2.2 kg"
+    }
 }, {
     "id": 703,
     "name": {
@@ -17444,7 +20252,11 @@
     },
     "species": "Jewel Pokémon",
     "description": "To keep the jewels on their bodies free of tarnish, packs of Carbink use their soft manes to polish one another’s jewels.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.3 m",
+        "weight": "5.7 kg"
+    }
 }, {
     "id": 704,
     "name": {
@@ -17469,6 +20281,10 @@
             "id": "705",
             "req": "Level 40"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "2.8 kg"
     }
 }, {
     "id": 705,
@@ -17498,6 +20314,10 @@
             "id": "704",
             "req": "Level 40"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "17.5 kg"
     }
 }, {
     "id": 706,
@@ -17523,6 +20343,10 @@
             "id": "705",
             "req": "Level 50, during rain"
         }
+    },
+    "profile": {
+        "height": "2 m",
+        "weight": "150.5 kg"
     }
 }, {
     "id": 707,
@@ -17543,7 +20367,11 @@
     },
     "species": "Key Ring Pokémon",
     "description": "Long ago it lived in mines, but once the minerals that make up its diet became scarcer, Klefki began appearing in human settlements.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.2 m",
+        "weight": "3 kg"
+    }
 }, {
     "id": 708,
     "name": {
@@ -17568,6 +20396,10 @@
             "id": "709",
             "req": "Trade"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "7 kg"
     }
 }, {
     "id": 709,
@@ -17593,6 +20425,10 @@
             "id": "708",
             "req": "Trade"
         }
+    },
+    "profile": {
+        "height": "1.5 m",
+        "weight": "71 kg"
     }
 }, {
     "id": 710,
@@ -17618,6 +20454,10 @@
             "id": "711",
             "req": "Trade"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "5 kg"
     }
 }, {
     "id": 711,
@@ -17643,6 +20483,10 @@
             "id": "710",
             "req": "Trade"
         }
+    },
+    "profile": {
+        "height": "0.9 m",
+        "weight": "12.5 kg"
     }
 }, {
     "id": 712,
@@ -17668,6 +20512,10 @@
             "id": "713",
             "req": "Level 37"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "99.5 kg"
     }
 }, {
     "id": 713,
@@ -17693,6 +20541,10 @@
             "id": "712",
             "req": "Level 37"
         }
+    },
+    "profile": {
+        "height": "2 m",
+        "weight": "505 kg"
     }
 }, {
     "id": 714,
@@ -17718,6 +20570,10 @@
             "id": "715",
             "req": "Level 48"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "8 kg"
     }
 }, {
     "id": 715,
@@ -17743,6 +20599,10 @@
             "id": "714",
             "req": "Level 48"
         }
+    },
+    "profile": {
+        "height": "1.5 m",
+        "weight": "85 kg"
     }
 }, {
     "id": 716,
@@ -17763,7 +20623,11 @@
     },
     "species": "Life Pokémon",
     "description": "When the horns on its head shine in seven colors, it is said to be sharing everlasting life.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "3 m",
+        "weight": "215 kg"
+    }
 }, {
     "id": 717,
     "name": {
@@ -17783,7 +20647,11 @@
     },
     "species": "Destruction Pokémon",
     "description": "When its life comes to an end, it absorbs the life energy of every living thing and turns into a cocoon once more.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "5.8 m",
+        "weight": "203 kg"
+    }
 }, {
     "id": 718,
     "name": {
@@ -17803,7 +20671,11 @@
     },
     "species": "Order Pokémon",
     "description": "Some say it can change to an even more powerful form when battling those who threaten the ecosystem.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "5 m",
+        "weight": "305 kg"
+    }
 }, {
     "id": 719,
     "name": {
@@ -17823,7 +20695,11 @@
     },
     "species": "Jewel Pokémon",
     "description": "It can instantly create many diamonds by compressing the carbon in the air between its hands.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.7 m",
+        "weight": "8.8 kg"
+    }
 }, {
     "id": 720,
     "name": {
@@ -17843,7 +20719,11 @@
     },
     "species": "Mischief Pokémon",
     "description": "It is said to be able to seize anything it desires with its six rings and six huge arms. With its power sealed, it is transformed into a much smaller form.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.5 m",
+        "weight": "9 kg"
+    }
 }, {
     "id": 721,
     "name": {
@@ -17863,7 +20743,11 @@
     },
     "species": "Steam Pokémon",
     "description": "It expels its internal steam from the arms on its back. It has enough power to blow away a mountain.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.7 m",
+        "weight": "195 kg"
+    }
 }, {
     "id": 722,
     "name": {
@@ -17888,6 +20772,10 @@
             "id": "723",
             "req": "Level 17"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "1.5 kg"
     }
 }, {
     "id": 723,
@@ -17917,6 +20805,10 @@
             "id": "722",
             "req": "Level 17"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "16 kg"
     }
 }, {
     "id": 724,
@@ -17942,6 +20834,10 @@
             "id": "723",
             "req": "Level 34"
         }
+    },
+    "profile": {
+        "height": "1.6 m",
+        "weight": "36.6 kg"
     }
 }, {
     "id": 725,
@@ -17967,6 +20863,10 @@
             "id": "726",
             "req": "Level 17"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "4.3 kg"
     }
 }, {
     "id": 726,
@@ -17996,6 +20896,10 @@
             "id": "725",
             "req": "Level 17"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "25 kg"
     }
 }, {
     "id": 727,
@@ -18021,6 +20925,10 @@
             "id": "726",
             "req": "Level 34"
         }
+    },
+    "profile": {
+        "height": "1.8 m",
+        "weight": "83 kg"
     }
 }, {
     "id": 728,
@@ -18046,6 +20954,10 @@
             "id": "729",
             "req": "Level 17"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "7.5 kg"
     }
 }, {
     "id": 729,
@@ -18075,6 +20987,10 @@
             "id": "728",
             "req": "Level 17"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "17.5 kg"
     }
 }, {
     "id": 730,
@@ -18100,6 +21016,10 @@
             "id": "729",
             "req": "Level 34"
         }
+    },
+    "profile": {
+        "height": "1.8 m",
+        "weight": "44 kg"
     }
 }, {
     "id": 731,
@@ -18125,6 +21045,10 @@
             "id": "732",
             "req": "Level 14"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "1.2 kg"
     }
 }, {
     "id": 732,
@@ -18154,6 +21078,10 @@
             "id": "731",
             "req": "Level 14"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "14.8 kg"
     }
 }, {
     "id": 733,
@@ -18179,6 +21107,10 @@
             "id": "732",
             "req": "Level 28"
         }
+    },
+    "profile": {
+        "height": "1.1 m",
+        "weight": "26 kg"
     }
 }, {
     "id": 734,
@@ -18204,6 +21136,10 @@
             "id": "735",
             "req": "Level 20, Daytime"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "6 kg"
     }
 }, {
     "id": 735,
@@ -18229,6 +21165,10 @@
             "id": "734",
             "req": "Level 20, Daytime"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "14.2 kg"
     }
 }, {
     "id": 736,
@@ -18254,6 +21194,10 @@
             "id": "737",
             "req": "Level 20"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "4.4 kg"
     }
 }, {
     "id": 737,
@@ -18283,6 +21227,10 @@
             "id": "736",
             "req": "Level 20"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "10.5 kg"
     }
 }, {
     "id": 738,
@@ -18308,6 +21256,10 @@
             "id": "737",
             "req": "use Thunder Stone, in Gen 8, or level up in a Magnetic Field area"
         }
+    },
+    "profile": {
+        "height": "1.5 m",
+        "weight": "45 kg"
     }
 }, {
     "id": 739,
@@ -18333,6 +21285,10 @@
             "id": "740",
             "req": "at Mount Lanakila"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "7 kg"
     }
 }, {
     "id": 740,
@@ -18358,6 +21314,10 @@
             "id": "739",
             "req": "at Mount Lanakila"
         }
+    },
+    "profile": {
+        "height": "1.7 m",
+        "weight": "180 kg"
     }
 }, {
     "id": 741,
@@ -18378,7 +21338,11 @@
     },
     "species": "Dancing Pokémon",
     "description": "This Oricorio has drunk red nectar. If its Trainer gives the wrong order, this passionate Pokémon becomes fiercely angry.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.6 m",
+        "weight": "3.4 kg"
+    }
 }, {
     "id": 742,
     "name": {
@@ -18403,6 +21367,10 @@
             "id": "743",
             "req": "Level 25"
         }
+    },
+    "profile": {
+        "height": "0.1 m",
+        "weight": "0.2 kg"
     }
 }, {
     "id": 743,
@@ -18428,6 +21396,10 @@
             "id": "742",
             "req": "Level 25"
         }
+    },
+    "profile": {
+        "height": "0.2 m",
+        "weight": "0.5 kg"
     }
 }, {
     "id": 744,
@@ -18453,6 +21425,10 @@
             "id": "745",
             "req": "Level 25"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "9.2 kg"
     }
 }, {
     "id": 745,
@@ -18478,6 +21454,10 @@
             "id": "744",
             "req": "Level 25"
         }
+    },
+    "profile": {
+        "height": "0.8 m",
+        "weight": "25 kg"
     }
 }, {
     "id": 746,
@@ -18498,7 +21478,11 @@
     },
     "species": "Small Fry Pokémon",
     "description": "When it’s in a jam, its shining eyes attract others of its kind. The light from its eyes is visible almost 25 miles away.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.2 m",
+        "weight": "0.3 kg"
+    }
 }, {
     "id": 747,
     "name": {
@@ -18523,6 +21507,10 @@
             "id": "748",
             "req": "Level 38"
         }
+    },
+    "profile": {
+        "height": "0.4 m",
+        "weight": "8 kg"
     }
 }, {
     "id": 748,
@@ -18548,6 +21536,10 @@
             "id": "747",
             "req": "Level 38"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "14.5 kg"
     }
 }, {
     "id": 749,
@@ -18573,6 +21565,10 @@
             "id": "750",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "110 kg"
     }
 }, {
     "id": 750,
@@ -18598,6 +21594,10 @@
             "id": "749",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "2.5 m",
+        "weight": "920 kg"
     }
 }, {
     "id": 751,
@@ -18623,6 +21623,10 @@
             "id": "752",
             "req": "Level 22"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "4 kg"
     }
 }, {
     "id": 752,
@@ -18648,6 +21652,10 @@
             "id": "751",
             "req": "Level 22"
         }
+    },
+    "profile": {
+        "height": "1.8 m",
+        "weight": "82 kg"
     }
 }, {
     "id": 753,
@@ -18673,6 +21681,10 @@
             "id": "754",
             "req": "Level 34, Daytime"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "1.5 kg"
     }
 }, {
     "id": 754,
@@ -18698,6 +21710,10 @@
             "id": "753",
             "req": "Level 34, Daytime"
         }
+    },
+    "profile": {
+        "height": "0.9 m",
+        "weight": "18.5 kg"
     }
 }, {
     "id": 755,
@@ -18723,6 +21739,10 @@
             "id": "756",
             "req": "Level 24"
         }
+    },
+    "profile": {
+        "height": "0.2 m",
+        "weight": "1.5 kg"
     }
 }, {
     "id": 756,
@@ -18748,6 +21768,10 @@
             "id": "755",
             "req": "Level 24"
         }
+    },
+    "profile": {
+        "height": "1 m",
+        "weight": "11.5 kg"
     }
 }, {
     "id": 757,
@@ -18773,6 +21797,10 @@
             "id": "758",
             "req": "Level 33, Female"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "4.8 kg"
     }
 }, {
     "id": 758,
@@ -18798,6 +21826,10 @@
             "id": "757",
             "req": "Level 33, Female"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "22.2 kg"
     }
 }, {
     "id": 759,
@@ -18823,6 +21855,10 @@
             "id": "760",
             "req": "Level 27"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "6.8 kg"
     }
 }, {
     "id": 760,
@@ -18848,6 +21884,10 @@
             "id": "759",
             "req": "Level 27"
         }
+    },
+    "profile": {
+        "height": "2.1 m",
+        "weight": "135 kg"
     }
 }, {
     "id": 761,
@@ -18873,6 +21913,10 @@
             "id": "762",
             "req": "Level 18"
         }
+    },
+    "profile": {
+        "height": "0.3 m",
+        "weight": "3.2 kg"
     }
 }, {
     "id": 762,
@@ -18902,6 +21946,10 @@
             "id": "761",
             "req": "Level 18"
         }
+    },
+    "profile": {
+        "height": "0.7 m",
+        "weight": "8.2 kg"
     }
 }, {
     "id": 763,
@@ -18927,6 +21975,10 @@
             "id": "762",
             "req": "after Stomp learned"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "21.4 kg"
     }
 }, {
     "id": 764,
@@ -18947,7 +21999,11 @@
     },
     "species": "Posy Picker Pokémon",
     "description": "It picks flowers and sticks them to its body with fluids it produces. The aroma that wafts from its petals has a healing effect.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.1 m",
+        "weight": "0.3 kg"
+    }
 }, {
     "id": 765,
     "name": {
@@ -18967,7 +22023,11 @@
     },
     "species": "Sage Pokémon",
     "description": "Oranguru don’t get along with each other, so they’re always engaging in battles of wits to decide which one is superior.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.5 m",
+        "weight": "76 kg"
+    }
 }, {
     "id": 766,
     "name": {
@@ -18987,7 +22047,11 @@
     },
     "species": "Teamwork Pokémon",
     "description": "Berries are its weapons as well as the staple of its diet. The one that can throw a berry the farthest is the boss of the troop.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "2 m",
+        "weight": "82.8 kg"
+    }
 }, {
     "id": 767,
     "name": {
@@ -19012,6 +22076,10 @@
             "id": "768",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "12 kg"
     }
 }, {
     "id": 768,
@@ -19037,6 +22105,10 @@
             "id": "767",
             "req": "Level 30"
         }
+    },
+    "profile": {
+        "height": "2 m",
+        "weight": "108 kg"
     }
 }, {
     "id": 769,
@@ -19062,6 +22134,10 @@
             "id": "770",
             "req": "Level 42"
         }
+    },
+    "profile": {
+        "height": "0.5 m",
+        "weight": "70 kg"
     }
 }, {
     "id": 770,
@@ -19087,6 +22163,10 @@
             "id": "769",
             "req": "Level 42"
         }
+    },
+    "profile": {
+        "height": "1.3 m",
+        "weight": "250 kg"
     }
 }, {
     "id": 771,
@@ -19107,7 +22187,11 @@
     },
     "species": "Sea Cucumber Pokémon",
     "description": "Its entire body is covered in its own slime. If you accidentally step on one, you’ll slip, and it will get mad and smack you!",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.3 m",
+        "weight": "1.2 kg"
+    }
 }, {
     "id": 772,
     "name": {
@@ -19132,6 +22216,10 @@
             "id": "773",
             "req": "high Friendship"
         }
+    },
+    "profile": {
+        "height": "1.9 m",
+        "weight": "120.5 kg"
     }
 }, {
     "id": 773,
@@ -19157,6 +22245,10 @@
             "id": "772",
             "req": "high Friendship"
         }
+    },
+    "profile": {
+        "height": "2.3 m",
+        "weight": "100.5 kg"
     }
 }, {
     "id": 774,
@@ -19177,7 +22269,11 @@
     },
     "species": "Meteor Pokémon",
     "description": "Although its outer shell is uncommonly durable, the shock of falling to the ground smashes the shell to smithereens.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.3 m",
+        "weight": "40 kg"
+    }
 }, {
     "id": 775,
     "name": {
@@ -19197,7 +22293,11 @@
     },
     "species": "Drowsing Pokémon",
     "description": "It remains asleep from birth to death as a result of the sedative properties of the leaves that form its diet.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.4 m",
+        "weight": "19.9 kg"
+    }
 }, {
     "id": 776,
     "name": {
@@ -19217,7 +22317,11 @@
     },
     "species": "Blast Turtle Pokémon",
     "description": "Its exploding shell poses a real danger but is sensitive to moisture. On rainy days, Turtonator takes silent refuge in caves.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "2 m",
+        "weight": "212 kg"
+    }
 }, {
     "id": 777,
     "name": {
@@ -19237,7 +22341,11 @@
     },
     "species": "Roly-Poly Pokémon",
     "description": "Its capacity to produce electricity is somewhat limited, so it gets charged up by letting lightning strike it!",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.3 m",
+        "weight": "3.3 kg"
+    }
 }, {
     "id": 778,
     "name": {
@@ -19257,7 +22365,11 @@
     },
     "species": "Disguise Pokémon",
     "description": "A gust of wind revealed what hides under this Pokémon’s rag to a passing Trainer, who went home and died painfully that very night.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.2 m",
+        "weight": "0.7 kg"
+    }
 }, {
     "id": 779,
     "name": {
@@ -19277,7 +22389,11 @@
     },
     "species": "Gnash Teeth Pokémon",
     "description": "Its skin is thick enough to fend off Mareanie’s spikes. With its robust teeth, Bruxish crunches up the spikes and eats them.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.9 m",
+        "weight": "19 kg"
+    }
 }, {
     "id": 780,
     "name": {
@@ -19297,7 +22413,11 @@
     },
     "species": "Placid Pokémon",
     "description": "It appears in towns and plays with the children. Drampa will protect kids when they’re in danger, so their moms don’t have to worry.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "3 m",
+        "weight": "185 kg"
+    }
 }, {
     "id": 781,
     "name": {
@@ -19317,7 +22437,11 @@
     },
     "species": "Sea Creeper Pokémon",
     "description": "Its chain-like green seaweed can stretch outward for hundreds of yards. For some reason, it gets along well with Skrelp.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "3.9 m",
+        "weight": "210 kg"
+    }
 }, {
     "id": 782,
     "name": {
@@ -19342,6 +22466,10 @@
             "id": "783",
             "req": "Level 35"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "29.7 kg"
     }
 }, {
     "id": 783,
@@ -19371,6 +22499,10 @@
             "id": "782",
             "req": "Level 35"
         }
+    },
+    "profile": {
+        "height": "1.2 m",
+        "weight": "47 kg"
     }
 }, {
     "id": 784,
@@ -19396,6 +22528,10 @@
             "id": "783",
             "req": "Level 45"
         }
+    },
+    "profile": {
+        "height": "1.6 m",
+        "weight": "78.2 kg"
     }
 }, {
     "id": 785,
@@ -19416,7 +22552,11 @@
     },
     "species": "Land Spirit Pokémon",
     "description": "The lightning-wielding guardian deity of Melemele, Tapu Koko is brimming with curiosity and appears before people from time to time.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.8 m",
+        "weight": "20.5 kg"
+    }
 }, {
     "id": 786,
     "name": {
@@ -19436,7 +22576,11 @@
     },
     "species": "Land Spirit Pokémon",
     "description": "Although called a guardian deity, Tapu Lele is devoid of guilt about its cruel disposition and can be described as nature incarnate.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.2 m",
+        "weight": "18.6 kg"
+    }
 }, {
     "id": 787,
     "name": {
@@ -19456,7 +22600,11 @@
     },
     "species": "Land Spirit Pokémon",
     "description": "It makes ringing sounds with its tail to let others know where it is, avoiding unneeded conflicts. This guardian deity of Ula’ula controls plants.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.9 m",
+        "weight": "45.5 kg"
+    }
 }, {
     "id": 788,
     "name": {
@@ -19476,7 +22624,11 @@
     },
     "species": "Land Spirit Pokémon",
     "description": "Although it’s called a guardian deity, terrible calamities sometimes befall those who recklessly approach Tapu Fini.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.3 m",
+        "weight": "21.2 kg"
+    }
 }, {
     "id": 789,
     "name": {
@@ -19501,6 +22653,10 @@
             "id": "790",
             "req": "Level 43"
         }
+    },
+    "profile": {
+        "height": "0.2 m",
+        "weight": "0.1 kg"
     }
 }, {
     "id": 790,
@@ -19534,6 +22690,10 @@
             "id": "789",
             "req": "Level 43"
         }
+    },
+    "profile": {
+        "height": "0.1 m",
+        "weight": "999.9 kg"
     }
 }, {
     "id": 791,
@@ -19559,6 +22719,10 @@
             "id": "790",
             "req": "Level 53, in Pokémon Sun or Ultra Sun"
         }
+    },
+    "profile": {
+        "height": "3.4 m",
+        "weight": "230 kg"
     }
 }, {
     "id": 792,
@@ -19584,6 +22748,10 @@
             "id": "790",
             "req": "Level 53, in Pokémon Moon or Ultra Moon"
         }
+    },
+    "profile": {
+        "height": "4 m",
+        "weight": "120 kg"
     }
 }, {
     "id": 793,
@@ -19604,7 +22772,11 @@
     },
     "species": "Parasite Pokémon",
     "description": "It appeared in this world from an Ultra Wormhole. Nihilego appears to be a parasite that lives by feeding on people and Pokémon.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.2 m",
+        "weight": "55.5 kg"
+    }
 }, {
     "id": 794,
     "name": {
@@ -19624,7 +22796,11 @@
     },
     "species": "Swollen Pokémon",
     "description": "Buzzwole goes around showing off its abnormally swollen muscles. It is one kind of Ultra Beast.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "2.4 m",
+        "weight": "333.6 kg"
+    }
 }, {
     "id": 795,
     "name": {
@@ -19644,7 +22820,11 @@
     },
     "species": "Lissome Pokémon",
     "description": "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.8 m",
+        "weight": "25 kg"
+    }
 }, {
     "id": 796,
     "name": {
@@ -19664,7 +22844,11 @@
     },
     "species": "Glowing Pokémon",
     "description": "They’ve been dubbed Ultra Beasts. Some of them stand unmoving, like trees, with their arms and legs stuck into the ground.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "3.8 m",
+        "weight": "100 kg"
+    }
 }, {
     "id": 797,
     "name": {
@@ -19684,7 +22868,11 @@
     },
     "species": "Launch Pokémon",
     "description": "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "9.2 m",
+        "weight": "999.9 kg"
+    }
 }, {
     "id": 798,
     "name": {
@@ -19704,7 +22892,11 @@
     },
     "species": "Drawn Sword Pokémon",
     "description": "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.3 m",
+        "weight": "0.1 kg"
+    }
 }, {
     "id": 799,
     "name": {
@@ -19724,7 +22916,11 @@
     },
     "species": "Junkivore Pokémon",
     "description": "An unknown life-form called a UB. It may be constantly hungry—it is certainly always devouring something.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "5.5 m",
+        "weight": "888 kg"
+    }
 }, {
     "id": 800,
     "name": {
@@ -19744,7 +22940,11 @@
     },
     "species": "Prism Pokémon",
     "description": "Light is the source of its energy. If it isn’t devouring light, impurities build up in it and on it, and Necrozma darkens and stops moving.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "2.4 m",
+        "weight": "230 kg"
+    }
 }, {
     "id": 801,
     "name": {
@@ -19764,7 +22964,11 @@
     },
     "species": "Artificial Pokémon",
     "description": "Built roughly 500 years ago by a scientist, the part called the Soul-Heart is the actual life-form.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1 m",
+        "weight": "80.5 kg"
+    }
 }, {
     "id": 802,
     "name": {
@@ -19784,7 +22988,11 @@
     },
     "species": "Gloomdweller Pokémon",
     "description": "It sinks into the shadows of people and Pokémon, where it can understand their feelings and copy their capabilities.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "0.7 m",
+        "weight": "22.2 kg"
+    }
 }, {
     "id": 803,
     "name": {
@@ -19809,6 +23017,10 @@
             "id": "804",
             "req": "after Dragon Pulse learned"
         }
+    },
+    "profile": {
+        "height": "0.6 m",
+        "weight": "1.8 kg"
     }
 }, {
     "id": 804,
@@ -19834,6 +23046,10 @@
             "id": "803",
             "req": "after Dragon Pulse learned"
         }
+    },
+    "profile": {
+        "height": "3.6 m",
+        "weight": "150 kg"
     }
 }, {
     "id": 805,
@@ -19854,7 +23070,11 @@
     },
     "species": "Rampart Pokémon",
     "description": "When stone walls started moving and attacking, the brute’s true identity was this mysterious life-form, which brings to mind an Ultra Beast.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "5.5 m",
+        "weight": "820 kg"
+    }
 }, {
     "id": 806,
     "name": {
@@ -19874,7 +23094,11 @@
     },
     "species": "Fireworks Pokémon",
     "description": "A UB that appeared from an Ultra Wormhole, it causes explosions, then takes advantage of opponents’ surprise to rob them of their vitality.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.8 m",
+        "weight": "13 kg"
+    }
 }, {
     "id": 807,
     "name": {
@@ -19894,7 +23118,11 @@
     },
     "species": "Thunderclap Pokémon",
     "description": "It approaches its enemies at the speed of lightning, then tears them limb from limb with its sharp claws.",
-    "evolution": {}
+    "evolution": {},
+    "profile": {
+        "height": "1.5 m",
+        "weight": "44.5 kg"
+    }
 }, {
     "id": 808,
     "name": {
@@ -19919,6 +23147,10 @@
             "id": "809",
             "req": "Pokémon GO only, 400 Meltan Candies"
         }
+    },
+    "profile": {
+        "height": "0.2 m",
+        "weight": "8.0 kg"
     }
 }, {
     "id": 809,
@@ -19944,5 +23176,9 @@
             "id": "808",
             "req": "Pokémon GO only, 400 Meltan Candies"
         }
+    },
+    "profile": {
+        "height": "2.5 m",
+        "weight": "800.0 kg"
     }
 }]
