@@ -9,7 +9,7 @@
 #### Generation VIII update will be resumed once the current issues are solved
 
 
-### Suggested source for scraping [https://pokemondb.net](https://pokemondb.net)
+### Suggested source for scraping data for contributions [https://pokemondb.net](https://pokemondb.net)
 
 ## File description
 
