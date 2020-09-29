@@ -9,7 +9,7 @@
 #### Generation VIII update will be resumed once the current issues are solved
 
 
-### Suggested source for scraping data for contributions [https://pokemondb.net](https://pokemondb.net)
+### Suggested sources for scraping data for contributions are [https://pokemondb.net](https://pokemondb.net) and [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page)
 
 ## File description
 
