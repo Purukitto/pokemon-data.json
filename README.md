@@ -24,8 +24,8 @@ Contains hires, lowres and sprites for all Pokemons upto Gen7
  - #### Thumbnails
  Contains lowres images for all Pokemons upto Gen7
 
-- ### `items.json` [![Current Generation](https://img.shields.io/badge/Generation-VII-blue)]()
-JSON file with items
+- ### `items.json` [![Current Generation](https://img.shields.io/badge/Generation-VIII-green)]()
+JSON file with item details
 
 - ### `moves.json` [![Current Generation](https://img.shields.io/badge/Generation-VII-blue)]()
 JSON file with all Pokemon attacks updated upto Gen7
