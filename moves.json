@@ -9919,7 +9919,10 @@
 }, {
     "id": "797",
     "name": {
-        "english": "Expanding Force"
+        "english": "Expanding Force",
+        "japanese": "ワイドフォース",
+        "french": "Vaste Pouvoir",
+        "chinese": "廣域戰力"
     },
     "type": "Psychic",
     "category": "Special",
@@ -9929,7 +9932,10 @@
 }, {
     "id": "798",
     "name": {
-        "english": "Steel Roller"
+        "english": "Steel Roller",
+        "japanese": "アイアンローラー",
+        "french": "Métalliroue",
+        "chinese": "鐵滾輪"
     },
     "type": "Steel",
     "category": "Physical",
@@ -9939,7 +9945,10 @@
 }, {
     "id": "799",
     "name": {
-        "english": "Scale Shot"
+        "english": "Scale Shot",
+        "japanese": "スケイルショット",
+        "french": "Rafale Écailles",
+        "chinese": "鱗射"
     },
     "type": "Dragon",
     "category": "Physical",
@@ -9949,17 +9958,10 @@
 }, {
     "id": "800",
     "name": {
-        "english": "Meteor Beam"
-    },
-    "type": "Rock",
-    "category": "Special",
-    "pp": "10",
-    "power": "120",
-    "accuracy": "90%"
-}, {
-    "id": "800",
-    "name": {
-        "english": "Meteor Beam"
+        "english": "Meteor Beam",
+        "japanese": "メテオビーム",
+        "french": "Laser Météore",
+        "chinese": "流星光束"
     },
     "type": "Rock",
     "category": "Special",
@@ -9969,7 +9971,10 @@
 }, {
     "id": "801",
     "name": {
-        "english": "Shell Side Arm"
+        "english": "Shell Side Arm",
+        "japanese": "シェルアームズ",
+        "french": "Kokiyarme",
+        "chinese": "臂貝武器"
     },
     "type": "Poison",
     "category": "Special",
@@ -9979,7 +9984,10 @@
 }, {
     "id": "802",
     "name": {
-        "english": "Misty Explosion"
+        "english": "Misty Explosion",
+        "japanese": "ミストバースト",
+        "french": "Explo-Brume",
+        "chinese": "薄霧炸裂"
     },
     "type": "Fairy",
     "category": "Special",
@@ -9989,7 +9997,10 @@
 }, {
     "id": "803",
     "name": {
-        "english": "Grassy Glide"
+        "english": "Grassy Glide",
+        "japanese": "グラススライダー",
+        "french": "Gliss'Herbe",
+        "chinese": "青草滑梯"
     },
     "type": "Grass",
     "category": "Physical",
@@ -9999,7 +10010,10 @@
 }, {
     "id": "804",
     "name": {
-        "english": "Rising Voltage"
+        "english": "Rising Voltage",
+        "japanese": "ライジングボルト",
+        "french": "Monte-Tension",
+        "chinese": "電力上升"
     },
     "type": "Electric",
     "category": "Special",
@@ -10009,7 +10023,10 @@
 }, {
     "id": "805",
     "name": {
-        "english": "Terrain Pulse"
+        "english": "Terrain Pulse",
+        "japanese": "だいちのはどう",
+        "french": "Champlification",
+        "chinese": "大地波動"
     },
     "type": "Normal",
     "category": "Special",
@@ -10019,7 +10036,10 @@
 }, {
     "id": "806",
     "name": {
-        "english": "Skitter Smack"
+        "english": "Skitter Smack",
+        "japanese": "はいよるいちげき",
+        "french": "Ravage Rampant",
+        "chinese": "爬擊"
     },
     "type": "Bug",
     "category": "Physical",
@@ -10029,7 +10049,10 @@
 }, {
     "id": "807",
     "name": {
-        "english": "Burning Jealousy"
+        "english": "Burning Jealousy",
+        "japanese": "しっとのほのお",
+        "french": "Feu Envieux",
+        "chinese": "妒火"
     },
     "type": "Fire",
     "category": "Special",
@@ -10039,7 +10062,10 @@
 }, {
     "id": "808",
     "name": {
-        "english": "Lash Out"
+        "english": "Lash Out",
+        "japanese": "うっぷんばらし",
+        "french": "Cent Rancunes",
+        "chinese": "洩憤"
     },
     "type": "Dark",
     "category": "Physical",
@@ -10049,7 +10075,10 @@
 }, {
     "id": "809",
     "name": {
-        "english": "Poltergeist"
+        "english": "Poltergeist",
+        "japanese": "ポルターガイスト",
+        "french": "Esprit Frappeur",
+        "chinese": "靈騷"
     },
     "type": "Ghost",
     "category": "Physical",
@@ -10059,17 +10088,10 @@
 }, {
     "id": "810",
     "name": {
-        "english": "Corrosive Gas"
-    },
-    "type": "Poison",
-    "category": "Status",
-    "pp": "40",
-    "power": "—",
-    "accuracy": "100%"
-}, {
-    "id": "810",
-    "name": {
-        "english": "Corrosive Gas"
+        "english": "Corrosive Gas",
+        "japanese": "ふしょくガス",
+        "french": "Gaz Corrosif",
+        "chinese": "腐蝕氣體"
     },
     "type": "Poison",
     "category": "Status",
@@ -10079,7 +10101,10 @@
 }, {
     "id": "811",
     "name": {
-        "english": "Coaching"
+        "english": "Coaching",
+        "japanese": "コーチング",
+        "french": "Coaching",
+        "chinese": "指導"
     },
     "type": "Fighting",
     "category": "Status",
@@ -10089,7 +10114,10 @@
 }, {
     "id": "812",
     "name": {
-        "english": "Flip Turn"
+        "english": "Flip Turn",
+        "japanese": "クイックターン",
+        "french": "Eau Revoir",
+        "chinese": "快速折返"
     },
     "type": "Water",
     "category": "Physical",
@@ -10099,7 +10127,10 @@
 }, {
     "id": "813",
     "name": {
-        "english": "Triple Axel"
+        "english": "Triple Axel",
+        "japanese": "トリプルアクセル",
+        "french": "Triple Axel",
+        "chinese": "三旋擊"
     },
     "type": "Ice",
     "category": "Physical",
@@ -10109,7 +10140,10 @@
 }, {
     "id": "814",
     "name": {
-        "english": "Dual Wingbeat"
+        "english": "Dual Wingbeat",
+        "japanese": "ダブルウイング",
+        "french": "Double Volée",
+        "chinese": "雙翼"
     },
     "type": "Flying",
     "category": "Physical",
@@ -10119,7 +10153,10 @@
 }, {
     "id": "815",
     "name": {
-        "english": "Scorching Sands"
+        "english": "Scorching Sands",
+        "japanese": "ねっさのだいち",
+        "french": "Sable Ardent",
+        "chinese": "熱沙大地"
     },
     "type": "Ground",
     "category": "Special",
@@ -10129,7 +10166,10 @@
 }, {
     "id": "816",
     "name": {
-        "english": "Jungle Healing"
+        "english": "Jungle Healing",
+        "japanese": "ジャングルヒール",
+        "french": "Selve Salvatrice",
+        "chinese": "叢林治療"
     },
     "type": "Grass",
     "category": "Status",
@@ -10139,7 +10179,10 @@
 }, {
     "id": "817",
     "name": {
-        "english": "Wicked Blow"
+        "english": "Wicked Blow",
+        "japanese": "あんこくきょうだ",
+        "french": "Poing Obscur",
+        "chinese": "暗冥強擊"
     },
     "type": "Dark",
     "category": "Physical",
@@ -10149,7 +10192,10 @@
 }, {
     "id": "818",
     "name": {
-        "english": "Surging Strikes"
+        "english": "Surging Strikes",
+        "japanese": "すいりゅうれんだ",
+        "french": "Torrent de Coups",
+        "chinese": "水流連打"
     },
     "type": "Water",
     "category": "Physical",
