@@ -15,8 +15,8 @@
 
 - ### images
   - #### pokedex ![Current Generation](https://img.shields.io/badge/Generation-VII-blue)
-    - ##### Images
-    Contains images for all Pokemons upto Gen7
+    - ##### Hires
+    Contains hires images for all Pokemons upto Gen7
 
     - ##### Sprites
     Contains sprites for all Pokemons upto Gen7
