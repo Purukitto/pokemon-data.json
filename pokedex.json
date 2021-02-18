@@ -42792,7 +42792,7 @@
     "type": [
       "Grass"
     ],
-    "species": null,
+    "species": "Chimp Pok\u00e9mon",
     "description": "It attacks with rapid beats of its stick. As it strikes with amazing speed, it gets more and more pumped.",
     "evolution": {
       "next": [
@@ -42832,7 +42832,7 @@
     "type": [
       "Grass"
     ],
-    "species": null,
+    "species": "Beat Pok\u00e9mon",
     "description": "When it\u2019s drumming out rapid beats in battle, it gets so caught up in the rhythm that it won\u2019t even notice that it\u2019s already knocked out its opponent.",
     "evolution": {
       "prev": [
@@ -42876,7 +42876,7 @@
     "type": [
       "Grass"
     ],
-    "species": null,
+    "species": "Drummer Pok\u00e9mon",
     "description": "The one with the best drumming techniques becomes the boss of the troop. It has a gentle disposition and values harmony among its group.",
     "evolution": {
       "prev": [
@@ -42914,7 +42914,7 @@
     "type": [
       "Fire"
     ],
-    "species": null,
+    "species": "Rabbit Pok\u00e9mon",
     "description": "It has special pads on the backs of its feet, and one on its nose. Once it\u2019s raring to fight, these pads radiate tremendous heat.",
     "evolution": {
       "next": [
@@ -42954,7 +42954,7 @@
     "type": [
       "Fire"
     ],
-    "species": null,
+    "species": "Rabbit Pok\u00e9mon",
     "description": "It kicks berries right off the branches of trees and then juggles them with its feet, practicing its footwork.",
     "evolution": {
       "prev": [
@@ -42998,7 +42998,7 @@
     "type": [
       "Fire"
     ],
-    "species": null,
+    "species": "Striker Pok\u00e9mon",
     "description": "It\u2019s skilled at both offense and defense, and it gets pumped up when cheered on. But if it starts showboating, it could put itself in a tough spot.",
     "evolution": {
       "prev": [
@@ -43036,7 +43036,7 @@
     "type": [
       "Water"
     ],
-    "species": null,
+    "species": "Water Lizard Pok\u00e9mon",
     "description": "When it gets wet, its skin changes color, and this Pok\u00e9mon becomes invisible as if it were camouflaged.",
     "evolution": {
       "next": [
@@ -43076,7 +43076,7 @@
     "type": [
       "Water"
     ],
-    "species": null,
+    "species": "Water lizard Pok\u00e9mon",
     "description": "Highly intelligent but also very lazy, it keeps enemies out of its territory by laying traps everywhere.",
     "evolution": {
       "prev": [
@@ -43120,7 +43120,7 @@
     "type": [
       "Water"
     ],
-    "species": null,
+    "species": "Secret Agent Pok\u00e9mon",
     "description": "Its nictitating membranes let it pick out foes\u2019 weak points so it can precisely blast them with water that shoots from its fingertips at Mach 3.",
     "evolution": {
       "prev": [
@@ -43158,7 +43158,7 @@
     "type": [
       "Normal"
     ],
-    "species": null,
+    "species": "Cheeky Pok\u00e9mon",
     "description": "It eats berries nonstop\u2014a habit that has made it more resilient than it looks. It\u2019ll show up on farms, searching for yet more berries.",
     "evolution": {
       "next": [
@@ -43198,7 +43198,7 @@
     "type": [
       "Normal"
     ],
-    "species": null,
+    "species": "Greedy Pok\u00e9mon",
     "description": "Common throughout the Galar region, this Pok\u00e9mon has strong teeth and can chew through the toughest of berry shells.",
     "evolution": {
       "prev": [
@@ -43236,7 +43236,7 @@
     "type": [
       "Flying"
     ],
-    "species": null,
+    "species": "Tiny Bird Pok\u00e9mon",
     "description": "Jumping nimbly about, this small-bodied Pok\u00e9mon takes advantage of even the slightest opportunity to disorient larger opponents.",
     "evolution": {
       "next": [
@@ -43280,7 +43280,7 @@
     "type": [
       "Flying"
     ],
-    "species": null,
+    "species": "Raven Pok\u00e9mon",
     "description": "The lessons of many harsh battles have taught it how to accurately judge an opponent\u2019s strength.",
     "evolution": {
       "prev": [
@@ -43329,7 +43329,7 @@
       "Flying",
       "Steel"
     ],
-    "species": null,
+    "species": "Raven Pok\u00e9mon",
     "description": "With their great intellect and flying skills, these Pok\u00e9mon very successfully act as the Galar region\u2019s airborne taxi service.",
     "evolution": {
       "prev": [
@@ -43371,7 +43371,7 @@
     "type": [
       "Bug"
     ],
-    "species": null,
+    "species": "Larva Pok\u00e9mon",
     "description": "Often found in gardens, this Pok\u00e9mon has hairs on its body that it uses to assess its surroundings.",
     "evolution": {
       "next": [
@@ -43416,7 +43416,7 @@
       "Bug",
       "Psychic"
     ],
-    "species": null,
+    "species": "Radome Pok\u00e9mon",
     "description": "As it grows inside its shell, it uses its psychic abilities to monitor the outside world and prepare for evolution.",
     "evolution": {
       "prev": [
@@ -43465,7 +43465,7 @@
       "Bug",
       "Psychic"
     ],
-    "species": null,
+    "species": "Seven Spot Pok\u00e9mon",
     "description": "It emits psychic energy to observe and study what\u2019s around it\u2014and what\u2019s around it can include things over six miles away.",
     "evolution": {
       "prev": [
@@ -43507,7 +43507,7 @@
     "type": [
       "Dark"
     ],
-    "species": null,
+    "species": "Fox Pok\u00e9mon",
     "description": "Cunning and cautious, this Pok\u00e9mon survives by stealing food from others. It erases its tracks with swipes of its tail as it makes off with its plunder.",
     "evolution": {
       "next": [
@@ -43551,7 +43551,7 @@
     "type": [
       "Dark"
     ],
-    "species": null,
+    "species": "Fox Pok\u00e9mon",
     "description": "With a lithe body and sharp claws, it goes around stealing food and eggs. Boltund is its natural enemy.",
     "evolution": {
       "prev": [
@@ -43593,7 +43593,7 @@
     "type": [
       "Grass"
     ],
-    "species": null,
+    "species": "Flowering Pok\u00e9mon",
     "description": "It whirls around in the wind while singing a joyous song. This delightful display has charmed many into raising this Pok\u00e9mon.",
     "evolution": {
       "next": [
@@ -43637,7 +43637,7 @@
     "type": [
       "Grass"
     ],
-    "species": null,
+    "species": "Cotton Bloom Pok\u00e9mon",
     "description": "The cotton on the head of this Pok\u00e9mon can be spun into a glossy, gorgeous yarn\u2014a Galar regional specialty.",
     "evolution": {
       "prev": [
@@ -43679,7 +43679,7 @@
     "type": [
       "Normal"
     ],
-    "species": null,
+    "species": "Sheep Pok\u00e9mon",
     "description": "If its fleece grows too long, Wooloo won\u2019t be able to move. Cloth made with the wool of this Pok\u00e9mon is surprisingly strong.",
     "evolution": {
       "next": [
@@ -43723,7 +43723,7 @@
     "type": [
       "Normal"
     ],
-    "species": null,
+    "species": "Sheep Pok\u00e9mon",
     "description": "Its majestic horns are meant only to impress the opposite gender. They never see use in battle.",
     "evolution": {
       "prev": [
@@ -43765,7 +43765,7 @@
     "type": [
       "Water"
     ],
-    "species": null,
+    "species": "Snapping Pok\u00e9mon",
     "description": "It starts off battles by attacking with its rock-hard horn, but as soon as the opponent flinches, this Pok\u00e9mon bites down and never lets go.",
     "evolution": {
       "next": [
@@ -43810,7 +43810,7 @@
       "Water",
       "Rock"
     ],
-    "species": null,
+    "species": "Bite Pok\u00e9mon",
     "description": "This Pok\u00e9mon rapidly extends its retractable neck to sink its sharp fangs into distant enemies and take them down.",
     "evolution": {
       "prev": [
@@ -43852,7 +43852,7 @@
     "type": [
       "Electric"
     ],
-    "species": null,
+    "species": "Puppy Pok\u00e9mon",
     "description": "This gluttonous Pok\u00e9mon only assists people with their work because it wants treats. As it runs, it crackles with electricity.",
     "evolution": {
       "next": [
@@ -43892,7 +43892,7 @@
     "type": [
       "Electric"
     ],
-    "species": null,
+    "species": "Dog Pok\u00e9mon",
     "description": "It sends electricity through its legs to boost their strength. Running at top speed, it easily breaks 50 mph.",
     "evolution": {
       "prev": [
@@ -43930,7 +43930,7 @@
     "type": [
       "Rock"
     ],
-    "species": null,
+    "species": "Coal Pok\u00e9mon",
     "description": "It can race around like a unicycle, even on rough, rocky terrain. Burning coal sustains it.",
     "evolution": {
       "next": [
@@ -43975,7 +43975,7 @@
       "Rock",
       "Fire"
     ],
-    "species": null,
+    "species": "Coal Pok\u00e9mon",
     "description": "By rapidly rolling its legs, it can travel at over 18 mph. The temperature of the flames it breathes exceeds 1,800 degrees Fahrenheit.",
     "evolution": {
       "prev": [
@@ -44024,7 +44024,7 @@
       "Rock",
       "Fire"
     ],
-    "species": null,
+    "species": "Coal Pok\u00e9mon",
     "description": "While it\u2019s engaged in battle, its mountain of coal will burn bright red, sending off sparks that scorch the surrounding area.",
     "evolution": {
       "prev": [
@@ -44067,7 +44067,7 @@
       "Grass",
       "Dragon"
     ],
-    "species": null,
+    "species": "Apple Core Pok\u00e9mon",
     "description": "As soon as it\u2019s born, it burrows into an apple. Not only does the apple serve as its food source, but the flavor of the fruit determines its evolution.",
     "evolution": {
       "next": [
@@ -44116,7 +44116,7 @@
       "Grass",
       "Dragon"
     ],
-    "species": null,
+    "species": "Apple Wing Pok\u00e9mon",
     "description": "It flies on wings of apple skin and spits a powerful acid. It can also change its shape into that of an apple.",
     "evolution": {
       "prev": [
@@ -44159,7 +44159,7 @@
       "Grass",
       "Dragon"
     ],
-    "species": null,
+    "species": "Apple Nectar Pok\u00e9mon",
     "description": "Its body is covered in sweet nectar, and the skin on its back is especially yummy. Children used to have it as a snack.",
     "evolution": {
       "prev": [
@@ -44201,7 +44201,7 @@
     "type": [
       "Ground"
     ],
-    "species": null,
+    "species": "Sand Snake Pok\u00e9mon",
     "description": "It spews sand from its nostrils. While the enemy is blinded, it burrows into the ground to hide.",
     "evolution": {
       "next": [
@@ -44245,7 +44245,7 @@
     "type": [
       "Ground"
     ],
-    "species": null,
+    "species": "Sand Snake Pok\u00e9mon",
     "description": "Its unique style of coiling allows it to blast sand out of its sand sac more efficiently.",
     "evolution": {
       "prev": [
@@ -44288,7 +44288,7 @@
       "Flying",
       "Water"
     ],
-    "species": null,
+    "species": "Gulp Pok\u00e9mon",
     "description": "This hungry Pok\u00e9mon swallows Arrokuda whole. Occasionally, it makes a mistake and tries to swallow a Pok\u00e9mon other than its preferred prey.",
     "evolution": {},
     "profile": {
@@ -44317,7 +44317,7 @@
     "type": [
       "Water"
     ],
-    "species": null,
+    "species": "Rush Pok\u00e9mon",
     "description": "After it\u2019s eaten its fill, its movements become extremely sluggish. That\u2019s when Cramorant swallows it up.",
     "evolution": {
       "next": [
@@ -44357,7 +44357,7 @@
     "type": [
       "Water"
     ],
-    "species": null,
+    "species": "Skewer Pok\u00e9mon",
     "description": "It spins its tail fins to propel itself, surging forward at speeds of over 100 knots before ramming prey and spearing into them.",
     "evolution": {
       "prev": [
@@ -44396,7 +44396,7 @@
       "Electric",
       "Poison"
     ],
-    "species": null,
+    "species": "Baby Pok\u00e9mon",
     "description": "It manipulates the chemical makeup of its poison to produce electricity. The voltage is weak, but it can cause a tingling paralysis.",
     "evolution": {
       "next": [
@@ -44486,7 +44486,7 @@
       "Fire",
       "Bug"
     ],
-    "species": null,
+    "species": "Radiator Pok\u00e9mon",
     "description": "It wraps prey up with its heated body, cooking them in its coils. Once they\u2019re well-done, it will voraciously nibble them down to the last morsel.",
     "evolution": {
       "next": [
@@ -44531,7 +44531,7 @@
       "Fire",
       "Bug"
     ],
-    "species": null,
+    "species": "Radiator Pok\u00e9mon",
     "description": "While its burning body is already dangerous on its own, this excessively hostile Pok\u00e9mon also has large and very sharp fangs.",
     "evolution": {
       "prev": [
@@ -44573,7 +44573,7 @@
     "type": [
       "Fighting"
     ],
-    "species": null,
+    "species": "Tantrum Pok\u00e9mon",
     "description": "Its tentacles tear off easily, but it isn\u2019t alarmed when that happens\u2014it knows they\u2019ll grow back. It\u2019s about as smart as a three-year-old.",
     "evolution": {
       "next": [
@@ -44613,7 +44613,7 @@
     "type": [
       "Fighting"
     ],
-    "species": null,
+    "species": "Tantrum Pok\u00e9mon",
     "description": "Searching for an opponent to test its skills against, it emerges onto land. Once the battle is over, it returns to the sea.",
     "evolution": {
       "prev": [
@@ -44651,7 +44651,7 @@
     "type": [
       "Ghost"
     ],
-    "species": null,
+    "species": "Black Tea Pok\u00e9mon",
     "description": "The teacup in which this Pok\u00e9mon makes its home is a famous piece of antique tableware. Many forgeries are in circulation.",
     "evolution": {
       "next": [
@@ -44691,7 +44691,7 @@
     "type": [
       "Ghost"
     ],
-    "species": null,
+    "species": "Black Tea Pok\u00e9mon",
     "description": "Leaving leftover black tea unattended is asking for this Pok\u00e9mon to come along and pour itself into it, turning the tea into a new Polteageist.",
     "evolution": {
       "prev": [
@@ -44729,7 +44729,7 @@
     "type": [
       "Psychic"
     ],
-    "species": null,
+    "species": "Calm Pok\u00e9mon",
     "description": "If this Pok\u00e9mon senses a strong emotion, it will run away as fast as it can. It prefers areas without people.",
     "evolution": {
       "next": [
@@ -44773,7 +44773,7 @@
     "type": [
       "Psychic"
     ],
-    "species": null,
+    "species": "Serene Pok\u00e9mon",
     "description": "Using the braids on its head, it pummels foes to get them to quiet down. One blow from those braids would knock out a professional boxer.",
     "evolution": {
       "prev": [
@@ -44822,7 +44822,7 @@
       "Psychic",
       "Fairy"
     ],
-    "species": null,
+    "species": "Silent Pok\u00e9mon",
     "description": "If you\u2019re too loud around it, you risk being torn apart by the claws on its tentacle. This Pok\u00e9mon is also known as the Forest Witch.",
     "evolution": {
       "prev": [
@@ -44865,7 +44865,7 @@
       "Dark",
       "Fairy"
     ],
-    "species": null,
+    "species": "Wily Pok\u00e9mon",
     "description": "It sneaks into people\u2019s homes, stealing things and feasting on the negative energy of the frustrated occupants.",
     "evolution": {
       "next": [
@@ -44910,7 +44910,7 @@
       "Dark",
       "Fairy"
     ],
-    "species": null,
+    "species": "Devious Pok\u00e9mon",
     "description": "With sly cunning, it tries to lure people into the woods. Some believe it to have the power to make crops grow.",
     "evolution": {
       "prev": [
@@ -44959,7 +44959,7 @@
       "Dark",
       "Fairy"
     ],
-    "species": null,
+    "species": "Bulk Up Pok\u00e9mon",
     "description": "Its hairs work like muscle fibers. When its hairs unfurl, they latch on to opponents, ensnaring them as tentacles would.",
     "evolution": {
       "prev": [
@@ -45002,7 +45002,7 @@
       "Dark",
       "Normal"
     ],
-    "species": null,
+    "species": "Blocking Pok\u00e9mon",
     "description": "It evolved after experiencing numerous fights. While crossing its arms, it lets out a shout that would make any opponent flinch.",
     "evolution": {
       "prev": [
@@ -45044,7 +45044,7 @@
     "type": [
       "Steel"
     ],
-    "species": null,
+    "species": "Viking Pok\u00e9mon",
     "description": "After many battles, it evolved dangerous claws that come together to form daggers when extended.",
     "evolution": {
       "prev": [
@@ -45086,7 +45086,7 @@
     "type": [
       "Ghost"
     ],
-    "species": null,
+    "species": "Coral Pok\u00e9mon",
     "description": "Be cautious of the ectoplasmic body surrounding its soul. You\u2019ll become stiff as stone if you touch it.",
     "evolution": {
       "prev": [
@@ -45124,7 +45124,7 @@
     "type": [
       "Fighting"
     ],
-    "species": null,
+    "species": "Wild Duck Pok\u00e9mon",
     "description": "After deflecting attacks with its hard leaf shield, it strikes back with its sharp leek stalk. The leek stalk is both weapon and food.",
     "evolution": {
       "prev": [
@@ -45163,7 +45163,7 @@
       "Ice",
       "Psychic"
     ],
-    "species": null,
+    "species": "Comedian Pok\u00e9mon",
     "description": "Its amusing movements make it very popular. It releases its psychic power from the pattern on its belly.",
     "evolution": {
       "prev": [
@@ -45206,7 +45206,7 @@
       "Ground",
       "Ghost"
     ],
-    "species": null,
+    "species": "Grudge Pok\u00e9mon",
     "description": "Never touch its shadowlike body, or you\u2019ll be shown the horrific memories behind the picture carved into it.",
     "evolution": {
       "prev": [
@@ -45240,7 +45240,7 @@
     "type": [
       "Fairy"
     ],
-    "species": null,
+    "species": "Cream Pok\u00e9mon",
     "description": "They say that any patisserie visited by Milcery is guaranteed success and good fortune.",
     "evolution": {
       "next": [
@@ -45280,7 +45280,7 @@
     "type": [
       "Fairy"
     ],
-    "species": null,
+    "species": "Cream Pok\u00e9mon",
     "description": "When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.",
     "evolution": {
       "prev": [
@@ -45318,7 +45318,7 @@
     "type": [
       "Fighting"
     ],
-    "species": null,
+    "species": "Formation Pok\u00e9mon",
     "description": "The six of them work together as one Pok\u00e9mon. Teamwork is also their battle strategy, and they constantly change their formation as they fight.",
     "evolution": {},
     "profile": {
@@ -45351,7 +45351,7 @@
     "type": [
       "Electric"
     ],
-    "species": null,
+    "species": "Sea Urchin Pok\u00e9mon",
     "description": "It stores electricity in each spine. Even if one gets broken off, it still continues to emit electricity for at least three hours.",
     "evolution": {},
     "profile": {
@@ -45385,7 +45385,7 @@
       "Ice",
       "Bug"
     ],
-    "species": null,
+    "species": "Worm Pok\u00e9mon",
     "description": "It eats snow that piles up on the ground. The more snow it eats, the bigger and more impressive the spikes on its back grow.",
     "evolution": {
       "next": [
@@ -45426,7 +45426,7 @@
       "Ice",
       "Bug"
     ],
-    "species": null,
+    "species": "Frost Moth Pok\u00e9mon",
     "description": "It shows no mercy to any who desecrate fields and mountains. It will fly around on its icy wings, causing a blizzard to chase offenders away.",
     "evolution": {
       "prev": [
@@ -45464,7 +45464,7 @@
     "type": [
       "Rock"
     ],
-    "species": null,
+    "species": "Big Rock Pok\u00e9mon",
     "description": "Once a year, on a specific date and at a specific time, they gather out of nowhere and form up in a circle.",
     "evolution": {},
     "profile": {
@@ -45561,7 +45561,7 @@
       "Electric",
       "Dark"
     ],
-    "species": null,
+    "species": "Two-Sided Pok\u00e9mon",
     "description": "It carries electrically roasted seeds with it as if they\u2019re precious treasures. No matter how much it eats, it always gets hungry again in short order.",
     "evolution": {},
     "profile": {
@@ -45589,7 +45589,7 @@
     "type": [
       "Steel"
     ],
-    "species": null,
+    "species": "Copperderm Pok\u00e9mon",
     "description": "If a job requires serious strength, this Pok\u00e9mon will excel at it. Its copper body tarnishes in the rain, turning a vibrant green color.",
     "evolution": {
       "next": [
@@ -45629,7 +45629,7 @@
     "type": [
       "Steel"
     ],
-    "species": null,
+    "species": "Copperderm Pok\u00e9mon",
     "description": "These Pok\u00e9mon live in herds. Their trunks have incredible grip strength, strong enough to crush giant rocks into powder.",
     "evolution": {
       "prev": [
@@ -45668,7 +45668,7 @@
       "Electric",
       "Dragon"
     ],
-    "species": null,
+    "species": "Fossil Pok\u00e9mon",
     "description": "The powerful muscles in its tail generate its electricity. Compared to its lower body, its upper half is entirely too small.",
     "evolution": {},
     "profile": {
@@ -45706,7 +45706,7 @@
       "Electric",
       "Ice"
     ],
-    "species": null,
+    "species": "Fossil Pok\u00e9mon",
     "description": "This Pok\u00e9mon lived on prehistoric seashores and was able to preserve food with the ice on its body. It went extinct because it moved so slowly.",
     "evolution": {},
     "profile": {
@@ -45744,7 +45744,7 @@
       "Water",
       "Dragon"
     ],
-    "species": null,
+    "species": "Fossil Pok\u00e9mon",
     "description": "Its mighty legs are capable of running at speeds exceeding 40 mph, but this Pok\u00e9mon can\u2019t breathe unless it\u2019s underwater.",
     "evolution": {},
     "profile": {
@@ -45782,7 +45782,7 @@
       "Water",
       "Ice"
     ],
-    "species": null,
+    "species": "Fossil Pok\u00e9mon",
     "description": "The skin on its face is impervious to attack, but breathing difficulties made this Pok\u00e9mon go extinct anyway.",
     "evolution": {},
     "profile": {
@@ -45820,7 +45820,7 @@
       "Steel",
       "Dragon"
     ],
-    "species": null,
+    "species": "Alloy Pok\u00e9mon",
     "description": "The special metal that composes its body is very light, so this Pok\u00e9mon has considerable agility. It lives in caves because it dislikes the rain.",
     "evolution": {},
     "profile": {
@@ -45858,7 +45858,7 @@
       "Dragon",
       "Ghost"
     ],
-    "species": null,
+    "species": "Lingering Pok\u00e9mon",
     "description": "If this weak Pok\u00e9mon is by itself, a mere child could defeat it. But if Dreepy has friends to help it train, it can evolve and become much stronger.",
     "evolution": {
       "next": [
@@ -45903,7 +45903,7 @@
       "Dragon",
       "Ghost"
     ],
-    "species": null,
+    "species": "Caretaker Pok\u00e9mon",
     "description": "Without a Dreepy to place on its head and care for, it gets so uneasy it\u2019ll try to substitute any Pok\u00e9mon it finds for the missing Dreepy.",
     "evolution": {
       "prev": [
@@ -45952,7 +45952,7 @@
       "Dragon",
       "Ghost"
     ],
-    "species": null,
+    "species": "Stealth Pok\u00e9mon",
     "description": "Apparently the Dreepy inside Dragapult\u2019s horns eagerly look forward to being launched out at Mach speeds.",
     "evolution": {
       "prev": [
@@ -46053,7 +46053,7 @@
       "Poison",
       "Dragon"
     ],
-    "species": null,
+    "species": "Gigantic Pok\u00e9mon",
     "description": "It was inside a meteorite that fell 20,000 years ago. There seems to be a connection between this Pok\u00e9mon and the Dynamax phenomenon.",
     "evolution": {},
     "profile": {
@@ -46082,7 +46082,7 @@
     "type": [
       "Fighting"
     ],
-    "species": null,
+    "species": "Wushu Pok\u00e9mon",
     "description": "Evolves into Urshifu-1 @ 0 (TowerOfWaters) [0]",
     "evolution": {
       "next": [
@@ -46156,7 +46156,7 @@
       "Dark",
       "Grass"
     ],
-    "species": null,
+    "species": "Rogue Monkey Pok\u00e9mon",
     "description": null,
     "evolution": {},
     "profile": {
@@ -46185,7 +46185,7 @@
     "type": [
       "Electric"
     ],
-    "species": null,
+    "species": "Electron Pok\u00e9mon",
     "description": null,
     "evolution": {},
     "profile": {
@@ -46214,7 +46214,7 @@
     "type": [
       "Dragon"
     ],
-    "species": null,
+    "species": "Dragon Orb Pok\u00e9mon",
     "description": null,
     "evolution": {},
     "profile": {
@@ -46243,7 +46243,7 @@
     "type": [
       "Ice"
     ],
-    "species": null,
+    "species": "Wild Horse Pok\u00e9mon",
     "description": null,
     "evolution": {},
     "profile": {
@@ -46272,7 +46272,7 @@
     "type": [
       "Ghost"
     ],
-    "species": null,
+    "species": "Swift Horse Pok\u00e9mon",
     "description": null,
     "evolution": {},
     "profile": {
@@ -46302,7 +46302,7 @@
       "Psychic",
       "Grass"
     ],
-    "species": null,
+    "species": "King Pok\u00e9mon",
     "description": null,
     "evolution": {},
     "profile": {
