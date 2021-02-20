@@ -42797,8 +42797,8 @@
     "evolution": {
       "next": [
         [
-          "thwackey",
-          null
+          "811",
+          "Level 16"
         ]
       ]
     },
@@ -42836,13 +42836,13 @@
     "description": "When it\u2019s drumming out rapid beats in battle, it gets so caught up in the rhythm that it won\u2019t even notice that it\u2019s already knocked out its opponent.",
     "evolution": {
       "prev": [
-        "grookey",
-        null
+        "810",
+        "Level 16"
       ],
       "next": [
         [
-          "rillaboom",
-          null
+          "812",
+          "Level 35"
         ]
       ]
     },
@@ -42880,8 +42880,8 @@
     "description": "The one with the best drumming techniques becomes the boss of the troop. It has a gentle disposition and values harmony among its group.",
     "evolution": {
       "prev": [
-        "thwackey",
-        null
+        "811",
+        "Level 35"
       ]
     },
     "profile": {
@@ -42919,8 +42919,8 @@
     "evolution": {
       "next": [
         [
-          "raboot",
-          null
+          "814",
+          "Level 16"
         ]
       ]
     },
@@ -42958,13 +42958,13 @@
     "description": "It kicks berries right off the branches of trees and then juggles them with its feet, practicing its footwork.",
     "evolution": {
       "prev": [
-        "scorbunny",
-        null
+        "813",
+        "Level 16"
       ],
       "next": [
         [
-          "cinderace",
-          null
+          "815",
+          "Level 35"
         ]
       ]
     },
@@ -43002,8 +43002,8 @@
     "description": "It\u2019s skilled at both offense and defense, and it gets pumped up when cheered on. But if it starts showboating, it could put itself in a tough spot.",
     "evolution": {
       "prev": [
-        "raboot",
-        null
+        "814",
+        "Level 35"
       ]
     },
     "profile": {
@@ -43041,8 +43041,8 @@
     "evolution": {
       "next": [
         [
-          "drizzile",
-          null
+          "817",
+          "Level 16"
         ]
       ]
     },
@@ -43080,13 +43080,13 @@
     "description": "Highly intelligent but also very lazy, it keeps enemies out of its territory by laying traps everywhere.",
     "evolution": {
       "prev": [
-        "sobble",
-        null
+        "816",
+        "Level 16"
       ],
       "next": [
         [
-          "inteleon",
-          null
+          "818",
+          "Level 35"
         ]
       ]
     },
@@ -43124,8 +43124,8 @@
     "description": "Its nictitating membranes let it pick out foes\u2019 weak points so it can precisely blast them with water that shoots from its fingertips at Mach 3.",
     "evolution": {
       "prev": [
-        "drizzile",
-        null
+        "817",
+        "Level 35"
       ]
     },
     "profile": {
@@ -43163,8 +43163,8 @@
     "evolution": {
       "next": [
         [
-          "greedent",
-          null
+          "820",
+          "Level 24"
         ]
       ]
     },
@@ -43202,8 +43202,8 @@
     "description": "Common throughout the Galar region, this Pok\u00e9mon has strong teeth and can chew through the toughest of berry shells.",
     "evolution": {
       "prev": [
-        "skwovet",
-        null
+        "819",
+        "Level 24"
       ]
     },
     "profile": {
@@ -43241,8 +43241,8 @@
     "evolution": {
       "next": [
         [
-          "corvisquire",
-          null
+          "822",
+          "Level 18"
         ]
       ]
     },
@@ -43284,13 +43284,13 @@
     "description": "The lessons of many harsh battles have taught it how to accurately judge an opponent\u2019s strength.",
     "evolution": {
       "prev": [
-        "rookidee",
-        null
+        "821",
+        "Level 18"
       ],
       "next": [
         [
-          "corviknight",
-          null
+          "823",
+          "Level 38"
         ]
       ]
     },
@@ -43333,8 +43333,8 @@
     "description": "With their great intellect and flying skills, these Pok\u00e9mon very successfully act as the Galar region\u2019s airborne taxi service.",
     "evolution": {
       "prev": [
-        "corvisquire",
-        null
+        "822",
+        "Level 38"
       ]
     },
     "profile": {
@@ -43376,8 +43376,8 @@
     "evolution": {
       "next": [
         [
-          "dottler",
-          null
+          "825",
+          "Level 10"
         ]
       ]
     },
@@ -43420,13 +43420,13 @@
     "description": "As it grows inside its shell, it uses its psychic abilities to monitor the outside world and prepare for evolution.",
     "evolution": {
       "prev": [
-        "blipbug",
-        null
+        "824",
+        "Level 10"
       ],
       "next": [
         [
-          "orbeetle",
-          null
+          "826",
+          "Level 30"
         ]
       ]
     },
@@ -43469,8 +43469,8 @@
     "description": "It emits psychic energy to observe and study what\u2019s around it\u2014and what\u2019s around it can include things over six miles away.",
     "evolution": {
       "prev": [
-        "dottler",
-        null
+        "825",
+        "Level 30"
       ]
     },
     "profile": {
@@ -43512,8 +43512,8 @@
     "evolution": {
       "next": [
         [
-          "thievul",
-          null
+          "828",
+          "Level 18"
         ]
       ]
     },
@@ -43555,8 +43555,8 @@
     "description": "With a lithe body and sharp claws, it goes around stealing food and eggs. Boltund is its natural enemy.",
     "evolution": {
       "prev": [
-        "nickit",
-        null
+        "827",
+        "Level 18"
       ]
     },
     "profile": {
@@ -43598,8 +43598,8 @@
     "evolution": {
       "next": [
         [
-          "eldegoss",
-          null
+          "830",
+          "Level 20"
         ]
       ]
     },
@@ -43641,8 +43641,8 @@
     "description": "The cotton on the head of this Pok\u00e9mon can be spun into a glossy, gorgeous yarn\u2014a Galar regional specialty.",
     "evolution": {
       "prev": [
-        "gossifleur",
-        null
+        "829",
+        "Level 20"
       ]
     },
     "profile": {
@@ -43684,8 +43684,8 @@
     "evolution": {
       "next": [
         [
-          "dubwool",
-          null
+          "832",
+          "Level 24"
         ]
       ]
     },
@@ -43727,8 +43727,8 @@
     "description": "Its majestic horns are meant only to impress the opposite gender. They never see use in battle.",
     "evolution": {
       "prev": [
-        "wooloo",
-        null
+        "831",
+        "Level 24"
       ]
     },
     "profile": {
@@ -43770,8 +43770,8 @@
     "evolution": {
       "next": [
         [
-          "drednaw",
-          null
+          "834",
+          "Level 22"
         ]
       ]
     },
@@ -43814,8 +43814,8 @@
     "description": "This Pok\u00e9mon rapidly extends its retractable neck to sink its sharp fangs into distant enemies and take them down.",
     "evolution": {
       "prev": [
-        "chewtle",
-        null
+        "833",
+        "Level 22"
       ]
     },
     "profile": {
@@ -43857,8 +43857,8 @@
     "evolution": {
       "next": [
         [
-          "boltund",
-          null
+          "836",
+          "Level 25"
         ]
       ]
     },
@@ -43896,8 +43896,8 @@
     "description": "It sends electricity through its legs to boost their strength. Running at top speed, it easily breaks 50 mph.",
     "evolution": {
       "prev": [
-        "yamper",
-        null
+        "835",
+        "Level 25"
       ]
     },
     "profile": {
@@ -43935,8 +43935,8 @@
     "evolution": {
       "next": [
         [
-          "carkol",
-          null
+          "838",
+          "Level 18"
         ]
       ]
     },
@@ -43979,13 +43979,13 @@
     "description": "By rapidly rolling its legs, it can travel at over 18 mph. The temperature of the flames it breathes exceeds 1,800 degrees Fahrenheit.",
     "evolution": {
       "prev": [
-        "rolycoly",
-        null
+        "837",
+        "Level 18"
       ],
       "next": [
         [
-          "coalossal",
-          null
+          "839",
+          "Level 34"
         ]
       ]
     },
@@ -44028,8 +44028,8 @@
     "description": "While it\u2019s engaged in battle, its mountain of coal will burn bright red, sending off sparks that scorch the surrounding area.",
     "evolution": {
       "prev": [
-        "carkol",
-        null
+        "838",
+        "Level 34"
       ]
     },
     "profile": {
@@ -44072,12 +44072,12 @@
     "evolution": {
       "next": [
         [
-          "flapple",
-          null
+          "841",
+          "use "
         ],
         [
-          "appletun",
-          null
+          "842",
+          "use "
         ]
       ]
     },
@@ -44120,8 +44120,8 @@
     "description": "It flies on wings of apple skin and spits a powerful acid. It can also change its shape into that of an apple.",
     "evolution": {
       "prev": [
-        "applin",
-        null
+        "840",
+        "use "
       ]
     },
     "profile": {
@@ -44163,8 +44163,8 @@
     "description": "Its body is covered in sweet nectar, and the skin on its back is especially yummy. Children used to have it as a snack.",
     "evolution": {
       "prev": [
-        "applin",
-        null
+        "840",
+        "use "
       ]
     },
     "profile": {
@@ -44206,8 +44206,8 @@
     "evolution": {
       "next": [
         [
-          "sandaconda",
-          null
+          "844",
+          "Level 36"
         ]
       ]
     },
@@ -44249,8 +44249,8 @@
     "description": "Its unique style of coiling allows it to blast sand out of its sand sac more efficiently.",
     "evolution": {
       "prev": [
-        "silicobra",
-        null
+        "843",
+        "Level 36"
       ]
     },
     "profile": {
@@ -44322,8 +44322,8 @@
     "evolution": {
       "next": [
         [
-          "barraskewda",
-          null
+          "847",
+          "Level 26"
         ]
       ]
     },
@@ -44361,8 +44361,8 @@
     "description": "It spins its tail fins to propel itself, surging forward at speeds of over 100 knots before ramming prey and spearing into them.",
     "evolution": {
       "prev": [
-        "arrokuda",
-        null
+        "846",
+        "Level 26"
       ]
     },
     "profile": {
@@ -44401,8 +44401,8 @@
     "evolution": {
       "next": [
         [
-          "toxtricity",
-          null
+          "849",
+          "Level 30, with a "
         ]
       ]
     },
@@ -44441,13 +44441,13 @@
       "Electric",
       "Poison"
     ],
-    "species": null,
+    "species": "Punk Pok\u00e9mon",
     "description": "This short-tempered and aggressive Pok\u00e9mon chugs stagnant water to absorb any toxins it might contain.",
     "evolution": {
       "next": [
         [
-          "toxtricity",
-          null
+          "849",
+          "Level 30, with a "
         ]
       ]
     },
@@ -44491,8 +44491,8 @@
     "evolution": {
       "next": [
         [
-          "centiskorch",
-          null
+          "851",
+          "Level 28"
         ]
       ]
     },
@@ -44535,8 +44535,8 @@
     "description": "While its burning body is already dangerous on its own, this excessively hostile Pok\u00e9mon also has large and very sharp fangs.",
     "evolution": {
       "prev": [
-        "sizzlipede",
-        null
+        "850",
+        "Level 28"
       ]
     },
     "profile": {
@@ -44578,8 +44578,8 @@
     "evolution": {
       "next": [
         [
-          "grapploct",
-          null
+          "853",
+          "after "
         ]
       ]
     },
@@ -44617,8 +44617,8 @@
     "description": "Searching for an opponent to test its skills against, it emerges onto land. Once the battle is over, it returns to the sea.",
     "evolution": {
       "prev": [
-        "clobbopus",
-        null
+        "852",
+        "after "
       ]
     },
     "profile": {
@@ -44656,8 +44656,8 @@
     "evolution": {
       "next": [
         [
-          "polteageist",
-          null
+          "855",
+          "use "
         ]
       ]
     },
@@ -44695,8 +44695,8 @@
     "description": "Leaving leftover black tea unattended is asking for this Pok\u00e9mon to come along and pour itself into it, turning the tea into a new Polteageist.",
     "evolution": {
       "prev": [
-        "sinistea",
-        null
+        "854",
+        "use "
       ]
     },
     "profile": {
@@ -44734,8 +44734,8 @@
     "evolution": {
       "next": [
         [
-          "hattrem",
-          null
+          "857",
+          "Level 32"
         ]
       ]
     },
@@ -44777,13 +44777,13 @@
     "description": "Using the braids on its head, it pummels foes to get them to quiet down. One blow from those braids would knock out a professional boxer.",
     "evolution": {
       "prev": [
-        "hatenna",
-        null
+        "856",
+        "Level 32"
       ],
       "next": [
         [
-          "hatterene",
-          null
+          "858",
+          "Level 42"
         ]
       ]
     },
@@ -44826,8 +44826,8 @@
     "description": "If you\u2019re too loud around it, you risk being torn apart by the claws on its tentacle. This Pok\u00e9mon is also known as the Forest Witch.",
     "evolution": {
       "prev": [
-        "hattrem",
-        null
+        "857",
+        "Level 42"
       ]
     },
     "profile": {
@@ -44870,8 +44870,8 @@
     "evolution": {
       "next": [
         [
-          "morgrem",
-          null
+          "860",
+          "Level 32"
         ]
       ]
     },
@@ -44914,13 +44914,13 @@
     "description": "With sly cunning, it tries to lure people into the woods. Some believe it to have the power to make crops grow.",
     "evolution": {
       "prev": [
-        "impidimp",
-        null
+        "859",
+        "Level 32"
       ],
       "next": [
         [
-          "grimmsnarl",
-          null
+          "861",
+          "Level 42"
         ]
       ]
     },
@@ -44963,8 +44963,8 @@
     "description": "Its hairs work like muscle fibers. When its hairs unfurl, they latch on to opponents, ensnaring them as tentacles would.",
     "evolution": {
       "prev": [
-        "morgrem",
-        null
+        "860",
+        "Level 42"
       ]
     },
     "profile": {
@@ -45006,7 +45006,7 @@
     "description": "It evolved after experiencing numerous fights. While crossing its arms, it lets out a shout that would make any opponent flinch.",
     "evolution": {
       "prev": [
-        "linoone",
+        "264",
         null
       ]
     },
@@ -45048,8 +45048,8 @@
     "description": "After many battles, it evolved dangerous claws that come together to form daggers when extended.",
     "evolution": {
       "prev": [
-        "meowth",
-        null
+        "52",
+        "Level 28"
       ]
     },
     "profile": {
@@ -45090,8 +45090,8 @@
     "description": "Be cautious of the ectoplasmic body surrounding its soul. You\u2019ll become stiff as stone if you touch it.",
     "evolution": {
       "prev": [
-        "corsola",
-        null
+        "222",
+        "Level 38"
       ]
     },
     "profile": {
@@ -45128,8 +45128,8 @@
     "description": "After deflecting attacks with its hard leaf shield, it strikes back with its sharp leek stalk. The leek stalk is both weapon and food.",
     "evolution": {
       "prev": [
-        "farfetchd",
-        null
+        "83",
+        "achieve 3 critical hits in one battle"
       ]
     },
     "profile": {
@@ -45167,7 +45167,7 @@
     "description": "Its amusing movements make it very popular. It releases its psychic power from the pattern on its belly.",
     "evolution": {
       "prev": [
-        "mr-mime",
+        "122",
         null
       ]
     },
@@ -45210,8 +45210,8 @@
     "description": "Never touch its shadowlike body, or you\u2019ll be shown the horrific memories behind the picture carved into it.",
     "evolution": {
       "prev": [
-        "yamask",
-        null
+        "562",
+        "Level 34"
       ]
     },
     "profile": {
@@ -45245,8 +45245,8 @@
     "evolution": {
       "next": [
         [
-          "alcremie",
-          null
+          "869",
+          "spin around holding Sweet"
         ]
       ]
     },
@@ -45284,8 +45284,8 @@
     "description": "When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.",
     "evolution": {
       "prev": [
-        "milcery",
-        null
+        "868",
+        "spin around holding Sweet"
       ]
     },
     "profile": {
@@ -45390,8 +45390,8 @@
     "evolution": {
       "next": [
         [
-          "frosmoth",
-          null
+          "873",
+          "high "
         ]
       ]
     },
@@ -45430,8 +45430,8 @@
     "description": "It shows no mercy to any who desecrate fields and mountains. It will fly around on its icy wings, causing a blizzard to chase offenders away.",
     "evolution": {
       "prev": [
-        "snom",
-        null
+        "872",
+        "high "
       ]
     },
     "profile": {
@@ -45493,7 +45493,7 @@
     "type": [
       "Ice"
     ],
-    "species": null,
+    "species": "Penguin Pok\u00e9mon",
     "description": "This Pok\u00e9mon keeps its heat-sensitive head cool with ice. It fishes for its food, dangling its single hair into the sea to lure in prey.",
     "evolution": {},
     "profile": {
@@ -45523,7 +45523,7 @@
       "Psychic",
       "Normal"
     ],
-    "species": null,
+    "species": "Emotion Pok\u00e9mon",
     "description": "Through its horns, it can pick up on the emotions of creatures around it. Positive emotions are the source of its strength.",
     "evolution": {},
     "profile": {
@@ -45594,8 +45594,8 @@
     "evolution": {
       "next": [
         [
-          "copperajah",
-          null
+          "879",
+          "Level 34"
         ]
       ]
     },
@@ -45633,8 +45633,8 @@
     "description": "These Pok\u00e9mon live in herds. Their trunks have incredible grip strength, strong enough to crush giant rocks into powder.",
     "evolution": {
       "prev": [
-        "cufant",
-        null
+        "878",
+        "Level 34"
       ]
     },
     "profile": {
@@ -45863,8 +45863,8 @@
     "evolution": {
       "next": [
         [
-          "drakloak",
-          null
+          "886",
+          "Level 50"
         ]
       ]
     },
@@ -45907,13 +45907,13 @@
     "description": "Without a Dreepy to place on its head and care for, it gets so uneasy it\u2019ll try to substitute any Pok\u00e9mon it finds for the missing Dreepy.",
     "evolution": {
       "prev": [
-        "dreepy",
-        null
+        "885",
+        "Level 50"
       ],
       "next": [
         [
-          "dragapult",
-          null
+          "887",
+          "Level 60"
         ]
       ]
     },
@@ -45956,8 +45956,8 @@
     "description": "Apparently the Dreepy inside Dragapult\u2019s horns eagerly look forward to being launched out at Mach speeds.",
     "evolution": {
       "prev": [
-        "drakloak",
-        null
+        "886",
+        "Level 60"
       ]
     },
     "profile": {
@@ -45994,7 +45994,7 @@
     "type": [
       "Fairy"
     ],
-    "species": null,
+    "species": "Warrior Pok\u00e9mon",
     "description": "This Pok\u00e9mon has slumbered for many years. Some say it\u2019s Zamazenta\u2019s elder sister\u2014others say the two Pok\u00e9mon are rivals.",
     "evolution": {},
     "profile": {
@@ -46023,7 +46023,7 @@
     "type": [
       "Fighting"
     ],
-    "species": null,
+    "species": "Warrior Pok\u00e9mon",
     "description": "This Pok\u00e9mon slept for aeons while in the form of a statue. It was asleep for so long, people forgot that it ever existed.",
     "evolution": {},
     "profile": {
@@ -46085,12 +46085,7 @@
     "species": "Wushu Pok\u00e9mon",
     "description": "Evolves into Urshifu-1 @ 0 (TowerOfWaters) [0]",
     "evolution": {
-      "next": [
-        [
-          "urshifu",
-          null
-        ]
-      ]
+      "next": []
     },
     "profile": {
       "height": "1 m",
@@ -46119,15 +46114,10 @@
       "Fighting",
       "Dark"
     ],
-    "species": null,
+    "species": "Wushu Pok\u00e9mon",
     "description": null,
     "evolution": {
-      "next": [
-        [
-          "urshifu",
-          null
-        ]
-      ]
+      "next": []
     },
     "profile": {
       "height": "2 m",
