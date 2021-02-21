@@ -42809,11 +42809,11 @@
       "ability": [
         [
           "Overgrow",
-          false
+          "false"
         ],
         [
           "Grassy-surge",
-          true
+          "true"
         ]
       ]
     },
@@ -42853,11 +42853,11 @@
       "ability": [
         [
           "Overgrow",
-          false
+          "false"
         ],
         [
           "Grassy-surge",
-          true
+          "true"
         ]
       ]
     },
@@ -42891,11 +42891,11 @@
       "ability": [
         [
           "Overgrow",
-          false
+          "false"
         ],
         [
           "Grassy-surge",
-          true
+          "true"
         ]
       ]
     },
@@ -42931,11 +42931,11 @@
       "ability": [
         [
           "Blaze",
-          false
+          "false"
         ],
         [
           "Libero",
-          true
+          "true"
         ]
       ]
     },
@@ -42975,11 +42975,11 @@
       "ability": [
         [
           "Blaze",
-          false
+          "false"
         ],
         [
           "Libero",
-          true
+          "true"
         ]
       ]
     },
@@ -43013,11 +43013,11 @@
       "ability": [
         [
           "Blaze",
-          false
+          "false"
         ],
         [
           "Libero",
-          true
+          "true"
         ]
       ]
     },
@@ -43053,11 +43053,11 @@
       "ability": [
         [
           "Torrent",
-          false
+          "false"
         ],
         [
           "Sniper",
-          true
+          "true"
         ]
       ]
     },
@@ -43097,11 +43097,11 @@
       "ability": [
         [
           "Torrent",
-          false
+          "false"
         ],
         [
           "Sniper",
-          true
+          "true"
         ]
       ]
     },
@@ -43135,11 +43135,11 @@
       "ability": [
         [
           "Torrent",
-          false
+          "false"
         ],
         [
           "Sniper",
-          true
+          "true"
         ]
       ]
     },
@@ -43175,11 +43175,11 @@
       "ability": [
         [
           "Cheek-pouch",
-          false
+          "false"
         ],
         [
           "Gluttony",
-          true
+          "true"
         ]
       ]
     },
@@ -43213,11 +43213,11 @@
       "ability": [
         [
           "Cheek-pouch",
-          false
+          "false"
         ],
         [
           "Gluttony",
-          true
+          "true"
         ]
       ]
     },
@@ -43253,15 +43253,15 @@
       "ability": [
         [
           "Keen-eye",
-          false
+          "false"
         ],
         [
           "Unnerve",
-          false
+          "false"
         ],
         [
           "Big-pecks",
-          true
+          "true"
         ]
       ]
     },
@@ -43301,15 +43301,15 @@
       "ability": [
         [
           "Keen-eye",
-          false
+          "false"
         ],
         [
           "Unnerve",
-          false
+          "false"
         ],
         [
           "Big-pecks",
-          true
+          "true"
         ]
       ]
     },
@@ -43344,15 +43344,15 @@
       "ability": [
         [
           "Pressure",
-          false
+          "false"
         ],
         [
           "Unnerve",
-          false
+          "false"
         ],
         [
           "Mirror-armor",
-          true
+          "true"
         ]
       ]
     },
@@ -43388,15 +43388,15 @@
       "ability": [
         [
           "Swarm",
-          false
+          "false"
         ],
         [
           "Compound-eyes",
-          false
+          "false"
         ],
         [
           "Telepathy",
-          true
+          "true"
         ]
       ]
     },
@@ -43437,15 +43437,15 @@
       "ability": [
         [
           "Swarm",
-          false
+          "false"
         ],
         [
           "Compound-eyes",
-          false
+          "false"
         ],
         [
           "Telepathy",
-          true
+          "true"
         ]
       ]
     },
@@ -43480,15 +43480,15 @@
       "ability": [
         [
           "Swarm",
-          false
+          "false"
         ],
         [
           "Frisk",
-          false
+          "false"
         ],
         [
           "Telepathy",
-          true
+          "true"
         ]
       ]
     },
@@ -43524,15 +43524,15 @@
       "ability": [
         [
           "Run-away",
-          false
+          "false"
         ],
         [
           "Unburden",
-          false
+          "false"
         ],
         [
           "Stakeout",
-          true
+          "true"
         ]
       ]
     },
@@ -43566,15 +43566,15 @@
       "ability": [
         [
           "Run-away",
-          false
+          "false"
         ],
         [
           "Unburden",
-          false
+          "false"
         ],
         [
           "Stakeout",
-          true
+          "true"
         ]
       ]
     },
@@ -43610,15 +43610,15 @@
       "ability": [
         [
           "Cotton-down",
-          false
+          "false"
         ],
         [
           "Regenerator",
-          false
+          "false"
         ],
         [
           "Effect-spore",
-          true
+          "true"
         ]
       ]
     },
@@ -43652,15 +43652,15 @@
       "ability": [
         [
           "Cotton-down",
-          false
+          "false"
         ],
         [
           "Regenerator",
-          false
+          "false"
         ],
         [
           "Effect-spore",
-          true
+          "true"
         ]
       ]
     },
@@ -43696,15 +43696,15 @@
       "ability": [
         [
           "Fluffy",
-          false
+          "false"
         ],
         [
           "Run-away",
-          false
+          "false"
         ],
         [
           "Bulletproof",
-          true
+          "true"
         ]
       ]
     },
@@ -43738,15 +43738,15 @@
       "ability": [
         [
           "Fluffy",
-          false
+          "false"
         ],
         [
           "Run-away",
-          false
+          "false"
         ],
         [
           "Bulletproof",
-          true
+          "true"
         ]
       ]
     },
@@ -43782,15 +43782,15 @@
       "ability": [
         [
           "Strong-jaw",
-          false
+          "false"
         ],
         [
           "Shell-armor",
-          false
+          "false"
         ],
         [
           "Swift-swim",
-          true
+          "true"
         ]
       ]
     },
@@ -43825,15 +43825,15 @@
       "ability": [
         [
           "Strong-jaw",
-          false
+          "false"
         ],
         [
           "Shell-armor",
-          false
+          "false"
         ],
         [
           "Swift-swim",
-          true
+          "true"
         ]
       ]
     },
@@ -43869,11 +43869,11 @@
       "ability": [
         [
           "Ball-fetch",
-          false
+          "false"
         ],
         [
           "Rattled",
-          true
+          "true"
         ]
       ]
     },
@@ -43907,11 +43907,11 @@
       "ability": [
         [
           "Strong-jaw",
-          false
+          "false"
         ],
         [
           "Competitive",
-          true
+          "true"
         ]
       ]
     },
@@ -43947,15 +43947,15 @@
       "ability": [
         [
           "Steam-engine",
-          false
+          "false"
         ],
         [
           "Heatproof",
-          false
+          "false"
         ],
         [
           "Flash-fire",
-          true
+          "true"
         ]
       ]
     },
@@ -43996,15 +43996,15 @@
       "ability": [
         [
           "Steam-engine",
-          false
+          "false"
         ],
         [
           "Flame-body",
-          false
+          "false"
         ],
         [
           "Flash-fire",
-          true
+          "true"
         ]
       ]
     },
@@ -44039,15 +44039,15 @@
       "ability": [
         [
           "Steam-engine",
-          false
+          "false"
         ],
         [
           "Flame-body",
-          false
+          "false"
         ],
         [
           "Flash-fire",
-          true
+          "true"
         ]
       ]
     },
@@ -44088,15 +44088,15 @@
       "ability": [
         [
           "Ripen",
-          false
+          "false"
         ],
         [
           "Gluttony",
-          false
+          "false"
         ],
         [
           "Bulletproof",
-          true
+          "true"
         ]
       ]
     },
@@ -44131,15 +44131,15 @@
       "ability": [
         [
           "Ripen",
-          false
+          "false"
         ],
         [
           "Gluttony",
-          false
+          "false"
         ],
         [
           "Hustle",
-          true
+          "true"
         ]
       ]
     },
@@ -44174,15 +44174,15 @@
       "ability": [
         [
           "Ripen",
-          false
+          "false"
         ],
         [
           "Gluttony",
-          false
+          "false"
         ],
         [
           "Thick-fat",
-          true
+          "true"
         ]
       ]
     },
@@ -44218,15 +44218,15 @@
       "ability": [
         [
           "Sand-spit",
-          false
+          "false"
         ],
         [
           "Shed-skin",
-          false
+          "false"
         ],
         [
           "Sand-veil",
-          true
+          "true"
         ]
       ]
     },
@@ -44260,15 +44260,15 @@
       "ability": [
         [
           "Sand-spit",
-          false
+          "false"
         ],
         [
           "Shed-skin",
-          false
+          "false"
         ],
         [
           "Sand-veil",
-          true
+          "true"
         ]
       ]
     },
@@ -44298,7 +44298,7 @@
       "ability": [
         [
           "Gulp-missile",
-          false
+          "false"
         ]
       ]
     },
@@ -44334,11 +44334,11 @@
       "ability": [
         [
           "Swift-swim",
-          false
+          "false"
         ],
         [
           "Propeller-tail",
-          true
+          "true"
         ]
       ]
     },
@@ -44372,11 +44372,11 @@
       "ability": [
         [
           "Swift-swim",
-          false
+          "false"
         ],
         [
           "Propeller-tail",
-          true
+          "true"
         ]
       ]
     },
@@ -44413,15 +44413,15 @@
       "ability": [
         [
           "Rattled",
-          false
+          "false"
         ],
         [
           "Static",
-          false
+          "false"
         ],
         [
           "Klutz",
-          true
+          "true"
         ]
       ]
     },
@@ -44458,15 +44458,15 @@
       "ability": [
         [
           "Punk-rock",
-          false
+          "false"
         ],
         [
           "Plus",
-          false
+          "false"
         ],
         [
           "Technician",
-          true
+          "true"
         ]
       ]
     },
@@ -44503,15 +44503,15 @@
       "ability": [
         [
           "Flash-fire",
-          false
+          "false"
         ],
         [
           "White-smoke",
-          false
+          "false"
         ],
         [
           "Flame-body",
-          true
+          "true"
         ]
       ]
     },
@@ -44546,15 +44546,15 @@
       "ability": [
         [
           "Flash-fire",
-          false
+          "false"
         ],
         [
           "White-smoke",
-          false
+          "false"
         ],
         [
           "Flame-body",
-          true
+          "true"
         ]
       ]
     },
@@ -44590,11 +44590,11 @@
       "ability": [
         [
           "Limber",
-          false
+          "false"
         ],
         [
           "Technician",
-          true
+          "true"
         ]
       ]
     },
@@ -44628,11 +44628,11 @@
       "ability": [
         [
           "Limber",
-          false
+          "false"
         ],
         [
           "Technician",
-          true
+          "true"
         ]
       ]
     },
@@ -44668,11 +44668,11 @@
       "ability": [
         [
           "Weak-armor",
-          false
+          "false"
         ],
         [
           "Cursed-body",
-          true
+          "true"
         ]
       ]
     },
@@ -44706,11 +44706,11 @@
       "ability": [
         [
           "Weak-armor",
-          false
+          "false"
         ],
         [
           "Cursed-body",
-          true
+          "true"
         ]
       ]
     },
@@ -44746,15 +44746,15 @@
       "ability": [
         [
           "Healer",
-          false
+          "false"
         ],
         [
           "Anticipation",
-          false
+          "false"
         ],
         [
           "Magic-bounce",
-          true
+          "true"
         ]
       ]
     },
@@ -44794,15 +44794,15 @@
       "ability": [
         [
           "Healer",
-          false
+          "false"
         ],
         [
           "Anticipation",
-          false
+          "false"
         ],
         [
           "Magic-bounce",
-          true
+          "true"
         ]
       ]
     },
@@ -44837,15 +44837,15 @@
       "ability": [
         [
           "Healer",
-          false
+          "false"
         ],
         [
           "Anticipation",
-          false
+          "false"
         ],
         [
           "Magic-bounce",
-          true
+          "true"
         ]
       ]
     },
@@ -44882,15 +44882,15 @@
       "ability": [
         [
           "Prankster",
-          false
+          "false"
         ],
         [
           "Frisk",
-          false
+          "false"
         ],
         [
           "Pickpocket",
-          true
+          "true"
         ]
       ]
     },
@@ -44931,15 +44931,15 @@
       "ability": [
         [
           "Prankster",
-          false
+          "false"
         ],
         [
           "Frisk",
-          false
+          "false"
         ],
         [
           "Pickpocket",
-          true
+          "true"
         ]
       ]
     },
@@ -44974,15 +44974,15 @@
       "ability": [
         [
           "Prankster",
-          false
+          "false"
         ],
         [
           "Frisk",
-          false
+          "false"
         ],
         [
           "Pickpocket",
-          true
+          "true"
         ]
       ]
     },
@@ -45007,7 +45007,7 @@
     "evolution": {
       "prev": [
         "264",
-        null
+        "Level 35, Nighttime"
       ]
     },
     "profile": {
@@ -45017,15 +45017,15 @@
       "ability": [
         [
           "Reckless",
-          false
+          "false"
         ],
         [
           "Guts",
-          false
+          "false"
         ],
         [
           "Defiant",
-          true
+          "true"
         ]
       ]
     },
@@ -45059,15 +45059,15 @@
       "ability": [
         [
           "Battle-armor",
-          false
+          "false"
         ],
         [
           "Tough-claws",
-          false
+          "false"
         ],
         [
           "Steely-spirit",
-          true
+          "true"
         ]
       ]
     },
@@ -45101,11 +45101,11 @@
       "ability": [
         [
           "Weak-armor",
-          false
+          "false"
         ],
         [
           "Perish-body",
-          true
+          "true"
         ]
       ]
     },
@@ -45139,11 +45139,11 @@
       "ability": [
         [
           "Steadfast",
-          false
+          "false"
         ],
         [
           "Scrappy",
-          true
+          "true"
         ]
       ]
     },
@@ -45168,7 +45168,7 @@
     "evolution": {
       "prev": [
         "122",
-        null
+        "Level 42"
       ]
     },
     "profile": {
@@ -45178,15 +45178,15 @@
       "ability": [
         [
           "Tangled-feet",
-          false
+          "false"
         ],
         [
           "Screen-cleaner",
-          false
+          "false"
         ],
         [
           "Ice-body",
-          true
+          "true"
         ]
       ]
     },
@@ -45221,7 +45221,7 @@
       "ability": [
         [
           "Wandering-spirit",
-          false
+          "false"
         ]
       ]
     },
@@ -45257,11 +45257,11 @@
       "ability": [
         [
           "Sweet-veil",
-          false
+          "false"
         ],
         [
           "Aroma-veil",
-          true
+          "true"
         ]
       ]
     },
@@ -45295,11 +45295,11 @@
       "ability": [
         [
           "Sweet-veil",
-          false
+          "false"
         ],
         [
           "Aroma-veil",
-          true
+          "true"
         ]
       ]
     },
@@ -45328,11 +45328,11 @@
       "ability": [
         [
           "Battle-armor",
-          false
+          "false"
         ],
         [
           "Defiant",
-          true
+          "true"
         ]
       ]
     },
@@ -45361,11 +45361,11 @@
       "ability": [
         [
           "Lightning-rod",
-          false
+          "false"
         ],
         [
           "Electric-surge",
-          true
+          "true"
         ]
       ]
     },
@@ -45402,11 +45402,11 @@
       "ability": [
         [
           "Shield-dust",
-          false
+          "false"
         ],
         [
           "Ice-scales",
-          true
+          "true"
         ]
       ]
     },
@@ -45441,11 +45441,11 @@
       "ability": [
         [
           "Shield-dust",
-          false
+          "false"
         ],
         [
           "Ice-scales",
-          true
+          "true"
         ]
       ]
     },
@@ -45474,7 +45474,7 @@
       "ability": [
         [
           "Power-spot",
-          false
+          "false"
         ]
       ]
     },
@@ -45503,7 +45503,7 @@
       "ability": [
         [
           "Ice-face",
-          false
+          "false"
         ]
       ]
     },
@@ -45533,15 +45533,15 @@
       "ability": [
         [
           "Inner-focus",
-          false
+          "false"
         ],
         [
           "Synchronize",
-          false
+          "false"
         ],
         [
           "Psychic-surge",
-          true
+          "true"
         ]
       ]
     },
@@ -45571,7 +45571,7 @@
       "ability": [
         [
           "Hunger-switch",
-          false
+          "false"
         ]
       ]
     },
@@ -45606,11 +45606,11 @@
       "ability": [
         [
           "Sheer-force",
-          false
+          "false"
         ],
         [
           "Heavy-metal",
-          true
+          "true"
         ]
       ]
     },
@@ -45644,11 +45644,11 @@
       "ability": [
         [
           "Sheer-force",
-          false
+          "false"
         ],
         [
           "Heavy-metal",
-          true
+          "true"
         ]
       ]
     },
@@ -45678,15 +45678,15 @@
       "ability": [
         [
           "Volt-absorb",
-          false
+          "false"
         ],
         [
           "Hustle",
-          false
+          "false"
         ],
         [
           "Sand-rush",
-          true
+          "true"
         ]
       ]
     },
@@ -45716,15 +45716,15 @@
       "ability": [
         [
           "Volt-absorb",
-          false
+          "false"
         ],
         [
           "Static",
-          false
+          "false"
         ],
         [
           "Slush-rush",
-          true
+          "true"
         ]
       ]
     },
@@ -45754,15 +45754,15 @@
       "ability": [
         [
           "Water-absorb",
-          false
+          "false"
         ],
         [
           "Strong-jaw",
-          false
+          "false"
         ],
         [
           "Sand-rush",
-          true
+          "true"
         ]
       ]
     },
@@ -45792,15 +45792,15 @@
       "ability": [
         [
           "Water-absorb",
-          false
+          "false"
         ],
         [
           "Ice-body",
-          false
+          "false"
         ],
         [
           "Slush-rush",
-          true
+          "true"
         ]
       ]
     },
@@ -45830,15 +45830,15 @@
       "ability": [
         [
           "Light-metal",
-          false
+          "false"
         ],
         [
           "Heavy-metal",
-          false
+          "false"
         ],
         [
           "Stalwart",
-          true
+          "true"
         ]
       ]
     },
@@ -45875,15 +45875,15 @@
       "ability": [
         [
           "Clear-body",
-          false
+          "false"
         ],
         [
           "Infiltrator",
-          false
+          "false"
         ],
         [
           "Cursed-body",
-          true
+          "true"
         ]
       ]
     },
@@ -45924,15 +45924,15 @@
       "ability": [
         [
           "Clear-body",
-          false
+          "false"
         ],
         [
           "Infiltrator",
-          false
+          "false"
         ],
         [
           "Cursed-body",
-          true
+          "true"
         ]
       ]
     },
@@ -45967,15 +45967,15 @@
       "ability": [
         [
           "Clear-body",
-          false
+          "false"
         ],
         [
           "Infiltrator",
-          false
+          "false"
         ],
         [
           "Cursed-body",
-          true
+          "true"
         ]
       ]
     },
@@ -46004,7 +46004,7 @@
       "ability": [
         [
           "Intrepid-sword",
-          false
+          "false"
         ]
       ]
     },
@@ -46033,7 +46033,7 @@
       "ability": [
         [
           "Dauntless-shield",
-          false
+          "false"
         ]
       ]
     },
@@ -46063,7 +46063,7 @@
       "ability": [
         [
           "Pressure",
-          false
+          "false"
         ]
       ]
     },
@@ -46083,7 +46083,7 @@
       "Fighting"
     ],
     "species": "Wushu Pok\u00e9mon",
-    "description": "Evolves into Urshifu-1 @ 0 (TowerOfWaters) [0]",
+    "description": "If Kubfu pulls the long white hair on its head, its fighting spirit heightens and power wells up from the depths of its belly.",
     "evolution": {
       "next": []
     },
@@ -46094,7 +46094,7 @@
       "ability": [
         [
           "Inner-focus",
-          false
+          "false"
         ]
       ]
     },
@@ -46115,7 +46115,7 @@
       "Dark"
     ],
     "species": "Wushu Pok\u00e9mon",
-    "description": null,
+    "description": "Inhabiting the mountains of a distant region, this Pokémon races across sheer cliffs, training its legs and refining its moves.",
     "evolution": {
       "next": []
     },
@@ -46126,7 +46126,7 @@
       "ability": [
         [
           "Unseen-fist",
-          false
+          "false"
         ]
       ]
     },
@@ -46147,7 +46147,7 @@
       "Grass"
     ],
     "species": "Rogue Monkey Pok\u00e9mon",
-    "description": null,
+    "description": "Once the vines on Zarude’s body tear off, they become nutrients in the soil. This helps the plants of the forest grow.",
     "evolution": {},
     "profile": {
       "height": "2 m",
@@ -46156,7 +46156,7 @@
       "ability": [
         [
           "Leaf-guard",
-          false
+          "false"
         ]
       ]
     },
@@ -46176,7 +46176,7 @@
       "Electric"
     ],
     "species": "Electron Pok\u00e9mon",
-    "description": null,
+    "description": "Its entire body is made up of a single organ that generates electrical energy. Regieleki is capable of creating all Galar’s electricity.",
     "evolution": {},
     "profile": {
       "height": "1 m",
@@ -46185,7 +46185,7 @@
       "ability": [
         [
           "Transistor",
-          false
+          "false"
         ]
       ]
     },
@@ -46205,7 +46205,7 @@
       "Dragon"
     ],
     "species": "Dragon Orb Pok\u00e9mon",
-    "description": null,
+    "description": "Its body is composed of crystallized dragon energy. Regidrago is said to have the powers of every dragon Pokémon.",
     "evolution": {},
     "profile": {
       "height": "2 m",
@@ -46214,7 +46214,7 @@
       "ability": [
         [
           "Dragons-maw",
-          false
+          "false"
         ]
       ]
     },
@@ -46234,7 +46234,7 @@
       "Ice"
     ],
     "species": "Wild Horse Pok\u00e9mon",
-    "description": null,
+    "description": "Glastrier has tremendous physical strength, and the mask of ice covering its face is 100 times harder than diamond.",
     "evolution": {},
     "profile": {
       "height": "2 m",
@@ -46243,7 +46243,7 @@
       "ability": [
         [
           "Chilling-neigh",
-          false
+          "false"
         ]
       ]
     },
@@ -46263,7 +46263,7 @@
       "Ghost"
     ],
     "species": "Swift Horse Pok\u00e9mon",
-    "description": null,
+    "description": "As it dashes through the night, Spectrier absorbs the life-force of sleeping creatures. It craves silence and solitude.",
     "evolution": {},
     "profile": {
       "height": "2 m",
@@ -46272,7 +46272,7 @@
       "ability": [
         [
           "Grim-neigh",
-          false
+          "false"
         ]
       ]
     },
@@ -46293,7 +46293,7 @@
       "Grass"
     ],
     "species": "King Pok\u00e9mon",
-    "description": null,
+    "description": "Calyrex is known in legend as a king that ruled over Galar in ancient times. It has the power to cause hearts to mend and plants to spring forth.",
     "evolution": {},
     "profile": {
       "height": "1 m",
@@ -46302,7 +46302,7 @@
       "ability": [
         [
           "Unnerve",
-          false
+          "false"
         ]
       ]
     },
