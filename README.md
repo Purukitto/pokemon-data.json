@@ -14,7 +14,7 @@
 ## File description
 
 - ### images
-  - #### pokedex ![Current Generation](https://img.shields.io/badge/Generation-VII-blue)
+  - #### pokedex ![Current Generation](https://img.shields.io/badge/Generation-VIII-green)
     - ##### Hires
     Contains hires images for all Pokemons upto Gen7
 
@@ -34,7 +34,7 @@ JSON file with item details
 - ### `moves.json` ![Current Generation](https://img.shields.io/badge/Generation-VII-blue)
 JSON file with all Pokemon attacks updated upto Gen7
 
-- ### `pokedex.json` ![Current Generation](https://img.shields.io/badge/Generation-VII-blue)
+- ### `pokedex.json` ![Current Generation](https://img.shields.io/badge/Generation-VIII-green)
 JSON file with non-derviable data about all Pokemon upto Gen7
 
 - ### `types.json` ![Current Generation](https://img.shields.io/badge/Generation-VII-blue)
