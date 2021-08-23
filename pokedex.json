@@ -42785,7 +42785,7 @@
     "id": 810,
     "name": {
       "english": "Grookey",
-      "japanease": "\u30b5\u30eb\u30ce\u30ea",
+      "japanese": "\u30b5\u30eb\u30ce\u30ea",
       "chinese": "\u6572\u97f3\u7334",
       "french": "Ouistempo"
     },
@@ -42825,7 +42825,7 @@
     "id": 811,
     "name": {
       "english": "Thwackey",
-      "japanease": "\u30d0\u30c1\u30f3\u30ad\u30fc",
+      "japanese": "\u30d0\u30c1\u30f3\u30ad\u30fc",
       "chinese": "\u556a\u549a\u7334",
       "french": "Badabouin"
     },
@@ -42869,7 +42869,7 @@
     "id": 812,
     "name": {
       "english": "Rillaboom",
-      "japanease": "\u30b4\u30ea\u30e9\u30f3\u30c0\u30fc",
+      "japanese": "\u30b4\u30ea\u30e9\u30f3\u30c0\u30fc",
       "chinese": "\u8f70\u64c2\u91d1\u521a\u7329",
       "french": "Gorythmic"
     },
@@ -42907,7 +42907,7 @@
     "id": 813,
     "name": {
       "english": "Scorbunny",
-      "japanease": "\u30d2\u30d0\u30cb\u30fc",
+      "japanese": "\u30d2\u30d0\u30cb\u30fc",
       "chinese": "\u708e\u5154\u513f",
       "french": "Flambino"
     },
@@ -42947,7 +42947,7 @@
     "id": 814,
     "name": {
       "english": "Raboot",
-      "japanease": "\u30e9\u30d3\u30d5\u30c3\u30c8",
+      "japanese": "\u30e9\u30d3\u30d5\u30c3\u30c8",
       "chinese": "\u817e\u8e74\u5c0f\u5c06",
       "french": "Lapyro"
     },
@@ -42991,7 +42991,7 @@
     "id": 815,
     "name": {
       "english": "Cinderace",
-      "japanease": "\u30a8\u30fc\u30b9\u30d0\u30fc\u30f3",
+      "japanese": "\u30a8\u30fc\u30b9\u30d0\u30fc\u30f3",
       "chinese": "\u95ea\u7130\u738b\u724c",
       "french": "Pyrobut"
     },
@@ -43029,7 +43029,7 @@
     "id": 816,
     "name": {
       "english": "Sobble",
-      "japanease": "\u30e1\u30c3\u30bd\u30f3",
+      "japanese": "\u30e1\u30c3\u30bd\u30f3",
       "chinese": "\u6cea\u773c\u8725",
       "french": "Larm\u00e9l\u00e9on"
     },
@@ -43069,7 +43069,7 @@
     "id": 817,
     "name": {
       "english": "Drizzile",
-      "japanease": "\u30b8\u30e1\u30ec\u30aa\u30f3",
+      "japanese": "\u30b8\u30e1\u30ec\u30aa\u30f3",
       "chinese": "\u53d8\u6da9\u8725",
       "french": "Arrozard"
     },
@@ -43113,7 +43113,7 @@
     "id": 818,
     "name": {
       "english": "Inteleon",
-      "japanease": "\u30a4\u30f3\u30c6\u30ec\u30aa\u30f3",
+      "japanese": "\u30a4\u30f3\u30c6\u30ec\u30aa\u30f3",
       "chinese": "\u5343\u9762\u907f\u5f79",
       "french": "L\u00e9zargus"
     },
@@ -43151,7 +43151,7 @@
     "id": 819,
     "name": {
       "english": "Skwovet",
-      "japanease": "\u30db\u30b7\u30ac\u30ea\u30b9",
+      "japanese": "\u30db\u30b7\u30ac\u30ea\u30b9",
       "chinese": "\u8d2a\u5fc3\u6817\u9f20",
       "french": "Rongourmand"
     },
@@ -43191,7 +43191,7 @@
     "id": 820,
     "name": {
       "english": "Greedent",
-      "japanease": "\u30e8\u30af\u30d0\u30ea\u30b9",
+      "japanese": "\u30e8\u30af\u30d0\u30ea\u30b9",
       "chinese": "\u85cf\u9971\u6817\u9f20",
       "french": "Rongrigou"
     },
@@ -43229,7 +43229,7 @@
     "id": 821,
     "name": {
       "english": "Rookidee",
-      "japanease": "\u30b3\u30b3\u30ac\u30e9",
+      "japanese": "\u30b3\u30b3\u30ac\u30e9",
       "chinese": "\u7a1a\u5c71\u96c0",
       "french": "Minisange"
     },
@@ -43273,7 +43273,7 @@
     "id": 822,
     "name": {
       "english": "Corvisquire",
-      "japanease": "\u30a2\u30aa\u30ac\u30e9\u30b9",
+      "japanese": "\u30a2\u30aa\u30ac\u30e9\u30b9",
       "chinese": "\u84dd\u9e26",
       "french": "Bleuseille"
     },
@@ -43321,7 +43321,7 @@
     "id": 823,
     "name": {
       "english": "Corviknight",
-      "japanease": "\u30a2\u30fc\u30de\u30fc\u30ac\u30a2",
+      "japanese": "\u30a2\u30fc\u30de\u30fc\u30ac\u30a2",
       "chinese": "\u94a2\u94e0\u9e26",
       "french": "Corvaillus"
     },
@@ -43364,7 +43364,7 @@
     "id": 824,
     "name": {
       "english": "Blipbug",
-      "japanease": "\u30b5\u30c3\u30c1\u30e0\u30b7",
+      "japanese": "\u30b5\u30c3\u30c1\u30e0\u30b7",
       "chinese": "\u7d22\u4fa6\u866b",
       "french": "Larvadar"
     },
@@ -43408,7 +43408,7 @@
     "id": 825,
     "name": {
       "english": "Dottler",
-      "japanease": "\u30ec\u30c9\u30fc\u30e0\u30b7",
+      "japanese": "\u30ec\u30c9\u30fc\u30e0\u30b7",
       "chinese": "\u5929\u7f69\u866b",
       "french": "Col\u00e9od\u00f4me"
     },
@@ -43457,7 +43457,7 @@
     "id": 826,
     "name": {
       "english": "Orbeetle",
-      "japanease": "\u30a4\u30aa\u30eb\u30d6",
+      "japanese": "\u30a4\u30aa\u30eb\u30d6",
       "chinese": "\u4ee5\u6b27\u8def\u666e",
       "french": "Astronelle"
     },
@@ -43500,7 +43500,7 @@
     "id": 827,
     "name": {
       "english": "Nickit",
-      "japanease": "\u30af\u30b9\u30cd",
+      "japanese": "\u30af\u30b9\u30cd",
       "chinese": "\u5077\u513f\u72d0",
       "french": "Goupilou"
     },
@@ -43544,7 +43544,7 @@
     "id": 828,
     "name": {
       "english": "Thievul",
-      "japanease": "\u30d5\u30a9\u30af\u30b9\u30e9\u30a4",
+      "japanese": "\u30d5\u30a9\u30af\u30b9\u30e9\u30a4",
       "chinese": "\u72d0\u5927\u76d7",
       "french": "Roublenard"
     },
@@ -43586,7 +43586,7 @@
     "id": 829,
     "name": {
       "english": "Gossifleur",
-      "japanease": "\u30d2\u30e1\u30f3\u30ab",
+      "japanese": "\u30d2\u30e1\u30f3\u30ab",
       "chinese": "\u5e7c\u68c9\u68c9",
       "french": "Tournicoton"
     },
@@ -43630,7 +43630,7 @@
     "id": 830,
     "name": {
       "english": "Eldegoss",
-      "japanease": "\u30ef\u30bf\u30b7\u30e9\u30ac",
+      "japanese": "\u30ef\u30bf\u30b7\u30e9\u30ac",
       "chinese": "\u767d\u84ec\u84ec",
       "french": "Blancoton"
     },
@@ -43672,7 +43672,7 @@
     "id": 831,
     "name": {
       "english": "Wooloo",
-      "japanease": "\u30a6\u30fc\u30eb\u30fc",
+      "japanese": "\u30a6\u30fc\u30eb\u30fc",
       "chinese": "\u6bdb\u8fab\u7f8a",
       "french": "Moumouton"
     },
@@ -43716,7 +43716,7 @@
     "id": 832,
     "name": {
       "english": "Dubwool",
-      "japanease": "\u30d0\u30a4\u30a6\u30fc\u30eb\u30fc",
+      "japanese": "\u30d0\u30a4\u30a6\u30fc\u30eb\u30fc",
       "chinese": "\u6bdb\u6bdb\u89d2\u7f8a",
       "french": "Moumouflon"
     },
@@ -43758,7 +43758,7 @@
     "id": 833,
     "name": {
       "english": "Chewtle",
-      "japanease": "\u30ab\u30e0\u30ab\u30e1",
+      "japanese": "\u30ab\u30e0\u30ab\u30e1",
       "chinese": "\u54ac\u54ac\u9f9f ",
       "french": "Kh\u00e9locrok"
     },
@@ -43802,7 +43802,7 @@
     "id": 834,
     "name": {
       "english": "Drednaw",
-      "japanease": "\u30ab\u30b8\u30ea\u30ac\u30e1",
+      "japanese": "\u30ab\u30b8\u30ea\u30ac\u30e1",
       "chinese": "\u66b4\u566c\u9f9f",
       "french": "Torgamord"
     },
@@ -43845,7 +43845,7 @@
     "id": 835,
     "name": {
       "english": "Yamper",
-      "japanease": "\u30ef\u30f3\u30d1\u30c1",
+      "japanese": "\u30ef\u30f3\u30d1\u30c1",
       "chinese": "\u6765\u7535\u6c6a",
       "french": "Voltoutou"
     },
@@ -43885,7 +43885,7 @@
     "id": 836,
     "name": {
       "english": "Boltund",
-      "japanease": "\u30d1\u30eb\u30b9\u30ef\u30f3",
+      "japanese": "\u30d1\u30eb\u30b9\u30ef\u30f3",
       "chinese": "\u9010\u7535\u72ac",
       "french": "Fulgudog"
     },
@@ -43923,7 +43923,7 @@
     "id": 837,
     "name": {
       "english": "Rolycoly",
-      "japanease": "\u30bf\u30f3\u30c9\u30f3",
+      "japanese": "\u30bf\u30f3\u30c9\u30f3",
       "chinese": "\u5c0f\u70ad\u4ed4",
       "french": "Charbi"
     },
@@ -43967,7 +43967,7 @@
     "id": 838,
     "name": {
       "english": "Carkol",
-      "japanease": "\u30c8\u30ed\u30c3\u30b4\u30f3",
+      "japanese": "\u30c8\u30ed\u30c3\u30b4\u30f3",
       "chinese": "\u5927\u70ad\u8f66",
       "french": "Wagomine"
     },
@@ -44016,7 +44016,7 @@
     "id": 839,
     "name": {
       "english": "Coalossal",
-      "japanease": "\u30bb\u30ad\u30bf\u30f3\u30b6\u30f3",
+      "japanese": "\u30bb\u30ad\u30bf\u30f3\u30b6\u30f3",
       "chinese": "\u5de8\u70ad\u5c71",
       "french": "Monthracite"
     },
@@ -44059,7 +44059,7 @@
     "id": 840,
     "name": {
       "english": "Applin",
-      "japanease": "\u30ab\u30b8\u30c3\u30c1\u30e5",
+      "japanese": "\u30ab\u30b8\u30c3\u30c1\u30e5",
       "chinese": "\u5543\u679c\u866b",
       "french": "Verpom"
     },
@@ -44108,7 +44108,7 @@
     "id": 841,
     "name": {
       "english": "Flapple",
-      "japanease": "\u30a2\u30c3\u30d7\u30ea\u30e5\u30fc",
+      "japanese": "\u30a2\u30c3\u30d7\u30ea\u30e5\u30fc",
       "chinese": "\u82f9\u88f9\u9f99",
       "french": "Pomdrapi"
     },
@@ -44151,7 +44151,7 @@
     "id": 842,
     "name": {
       "english": "Appletun",
-      "japanease": "\u30bf\u30eb\u30c3\u30d7\u30eb",
+      "japanese": "\u30bf\u30eb\u30c3\u30d7\u30eb",
       "chinese": "\u4e30\u871c\u9f99",
       "french": "Dratatin"
     },
@@ -44194,7 +44194,7 @@
     "id": 843,
     "name": {
       "english": "Silicobra",
-      "japanease": "\u30b9\u30ca\u30d8\u30d3",
+      "japanese": "\u30b9\u30ca\u30d8\u30d3",
       "chinese": "\u6c99\u5305\u86c7",
       "french": "Dunaja"
     },
@@ -44238,7 +44238,7 @@
     "id": 844,
     "name": {
       "english": "Sandaconda",
-      "japanease": "\u30b5\u30c0\u30a4\u30b8\u30e3",
+      "japanese": "\u30b5\u30c0\u30a4\u30b8\u30e3",
       "chinese": "\u6c99\u87ba\u87d2",
       "french": "Dunaconda"
     },
@@ -44280,7 +44280,7 @@
     "id": 845,
     "name": {
       "english": "Cramorant",
-      "japanease": "\u30a6\u30c3\u30a6",
+      "japanese": "\u30a6\u30c3\u30a6",
       "chinese": "\u53e4\u6708\u9e1f",
       "french": "Nigosier"
     },
@@ -44310,7 +44310,7 @@
     "id": 846,
     "name": {
       "english": "Arrokuda",
-      "japanease": "\u30b5\u30b7\u30ab\u30de\u30b9",
+      "japanese": "\u30b5\u30b7\u30ab\u30de\u30b9",
       "chinese": "\u523a\u68ad\u9c7c",
       "french": "Embrochet"
     },
@@ -44350,7 +44350,7 @@
     "id": 847,
     "name": {
       "english": "Barraskewda",
-      "japanease": "\u30ab\u30de\u30b9\u30b8\u30e7\u30fc",
+      "japanese": "\u30ab\u30de\u30b9\u30b8\u30e7\u30fc",
       "chinese": "\u623d\u6597\u5c16\u68ad",
       "french": "Hastacuda"
     },
@@ -44388,7 +44388,7 @@
     "id": 848,
     "name": {
       "english": "Toxel",
-      "japanease": "\u30a8\u30ec\u30ba\u30f3",
+      "japanese": "\u30a8\u30ec\u30ba\u30f3",
       "chinese": "\u6bd2\u7535\u5a74",
       "french": "Toxizap"
     },
@@ -44433,7 +44433,7 @@
     "id": 849,
     "name": {
       "english": "Toxtricity",
-      "japanease": "\u30b9\u30c8\u30ea\u30f3\u30c0\u30fc",
+      "japanese": "\u30b9\u30c8\u30ea\u30f3\u30c0\u30fc",
       "chinese": "\u98a4\u5f26\u877e\u8788",
       "french": "Salarsen"
     },
@@ -44478,7 +44478,7 @@
     "id": 850,
     "name": {
       "english": "Sizzlipede",
-      "japanease": "\u30e4\u30af\u30c7",
+      "japanese": "\u30e4\u30af\u30c7",
       "chinese": "\u70e7\u706b\u86a3",
       "french": "Grillepattes"
     },
@@ -44523,7 +44523,7 @@
     "id": 851,
     "name": {
       "english": "Centiskorch",
-      "japanease": "\u30de\u30eb\u30e4\u30af\u30c7",
+      "japanese": "\u30de\u30eb\u30e4\u30af\u30c7",
       "chinese": "\u711a\u7130\u86a3",
       "french": "Scolocendre"
     },
@@ -44566,7 +44566,7 @@
     "id": 852,
     "name": {
       "english": "Clobbopus",
-      "japanease": "\u30bf\u30bf\u30c3\u30b3",
+      "japanese": "\u30bf\u30bf\u30c3\u30b3",
       "chinese": "\u62f3\u62f3\u86f8",
       "french": "Poulpaf"
     },
@@ -44606,7 +44606,7 @@
     "id": 853,
     "name": {
       "english": "Grapploct",
-      "japanease": "\u30aa\u30c8\u30b9\u30d1\u30b9",
+      "japanese": "\u30aa\u30c8\u30b9\u30d1\u30b9",
       "chinese": "\u516b\u722a\u6b66\u5e08",
       "french": "Krakos"
     },
@@ -44644,7 +44644,7 @@
     "id": 854,
     "name": {
       "english": "Sinistea",
-      "japanease": "\u30e4\u30d0\u30c1\u30e3",
+      "japanese": "\u30e4\u30d0\u30c1\u30e3",
       "chinese": "\u6765\u60b2\u8336",
       "french": "Th\u00e9ffroi"
     },
@@ -44684,7 +44684,7 @@
     "id": 855,
     "name": {
       "english": "Polteageist",
-      "japanease": "\u30dd\u30c3\u30c8\u30c7\u30b9",
+      "japanese": "\u30dd\u30c3\u30c8\u30c7\u30b9",
       "chinese": "\u6016\u601d\u58f6",
       "french": "Polth\u00e9geist"
     },
@@ -44722,7 +44722,7 @@
     "id": 856,
     "name": {
       "english": "Hatenna",
-      "japanease": "\u30df\u30d6\u30ea\u30e0",
+      "japanese": "\u30df\u30d6\u30ea\u30e0",
       "chinese": "\u8ff7\u5e03\u8389\u59c6",
       "french": "Bibichut"
     },
@@ -44766,7 +44766,7 @@
     "id": 857,
     "name": {
       "english": "Hattrem",
-      "japanease": "\u30c6\u30d6\u30ea\u30e0",
+      "japanese": "\u30c6\u30d6\u30ea\u30e0",
       "chinese": "\u63d0\u5e03\u8389\u59c6",
       "french": "Chapotus"
     },
@@ -44814,7 +44814,7 @@
     "id": 858,
     "name": {
       "english": "Hatterene",
-      "japanease": "\u30d6\u30ea\u30e0\u30aa\u30f3",
+      "japanese": "\u30d6\u30ea\u30e0\u30aa\u30f3",
       "chinese": "\u5e03\u8389\u59c6\u6e29",
       "french": "Sorcilence"
     },
@@ -44857,7 +44857,7 @@
     "id": 859,
     "name": {
       "english": "Impidimp",
-      "japanease": "\u30d9\u30ed\u30d0\u30fc",
+      "japanese": "\u30d9\u30ed\u30d0\u30fc",
       "chinese": "\u6363\u86cb\u5c0f\u5996",
       "french": "Grimalin"
     },
@@ -44902,7 +44902,7 @@
     "id": 860,
     "name": {
       "english": "Morgrem",
-      "japanease": "\u30ae\u30e2\u30fc",
+      "japanese": "\u30ae\u30e2\u30fc",
       "chinese": "\u8bc8\u552c\u9b54",
       "french": "Fourbelin"
     },
@@ -44951,7 +44951,7 @@
     "id": 861,
     "name": {
       "english": "Grimmsnarl",
-      "japanease": "\u30aa\u30fc\u30ed\u30f3\u30b2",
+      "japanese": "\u30aa\u30fc\u30ed\u30f3\u30b2",
       "chinese": "\u957f\u6bdb\u5de8\u9b54",
       "french": "Angoliath"
     },
@@ -44994,7 +44994,7 @@
     "id": 862,
     "name": {
       "english": "Obstagoon",
-      "japanease": "\u30bf\u30c1\u30d5\u30b5\u30b0\u30de",
+      "japanese": "\u30bf\u30c1\u30d5\u30b5\u30b0\u30de",
       "chinese": "\u5835\u62e6\u718a",
       "french": "Ixon"
     },
@@ -45037,7 +45037,7 @@
     "id": 863,
     "name": {
       "english": "Perrserker",
-      "japanease": "\u30cb\u30e3\u30a4\u30ad\u30f3\u30b0",
+      "japanese": "\u30cb\u30e3\u30a4\u30ad\u30f3\u30b0",
       "chinese": "\u55b5\u5934\u76ee",
       "french": "Berserkatt"
     },
@@ -45079,7 +45079,7 @@
     "id": 864,
     "name": {
       "english": "Cursola",
-      "japanease": "\u30b5\u30cb\u30b4\u30fc\u30f3",
+      "japanese": "\u30b5\u30cb\u30b4\u30fc\u30f3",
       "chinese": "\u9b54\u7075\u73ca\u745a",
       "french": "Coray\u00f4me"
     },
@@ -45117,7 +45117,7 @@
     "id": 865,
     "name": {
       "english": "Sirfetch'd",
-      "japanease": "\u30cd\u30ae\u30ac\u30ca\u30a4\u30c8",
+      "japanese": "\u30cd\u30ae\u30ac\u30ca\u30a4\u30c8",
       "chinese": "\u8471\u6e38\u5175",
       "french": "Palarticho"
     },
@@ -45155,7 +45155,7 @@
     "id": 866,
     "name": {
       "english": "Mr. Rime",
-      "japanease": "\u30d0\u30ea\u30b3\u30aa\u30eb",
+      "japanese": "\u30d0\u30ea\u30b3\u30aa\u30eb",
       "chinese": "\u8e0f\u51b0\u4eba\u5076",
       "french": "M. Glaquette"
     },
@@ -45198,7 +45198,7 @@
     "id": 867,
     "name": {
       "english": "Runerigus",
-      "japanease": "\u30c7\u30b9\u30d0\u30fc\u30f3",
+      "japanese": "\u30c7\u30b9\u30d0\u30fc\u30f3",
       "chinese": "\u6b7b\u795e\u677f",
       "french": "Tut\u00e9t\u00e9kri"
     },
@@ -45233,7 +45233,7 @@
     "id": 868,
     "name": {
       "english": "Milcery",
-      "japanease": "\u30de\u30db\u30df\u30eb",
+      "japanese": "\u30de\u30db\u30df\u30eb",
       "chinese": "\u5c0f\u4ed9\u5976",
       "french": "Cr\u00e8my"
     },
@@ -45273,7 +45273,7 @@
     "id": 869,
     "name": {
       "english": "Alcremie",
-      "japanease": "\u30de\u30db\u30a4\u30c3\u30d7",
+      "japanese": "\u30de\u30db\u30a4\u30c3\u30d7",
       "chinese": "\u971c\u5976\u4ed9",
       "french": "Charmilly"
     },
@@ -45311,7 +45311,7 @@
     "id": 870,
     "name": {
       "english": "Falinks",
-      "japanease": "\u30bf\u30a4\u30ec\u30fc\u30c4",
+      "japanese": "\u30bf\u30a4\u30ec\u30fc\u30c4",
       "chinese": "\u5217\u9635\u5175",
       "french": "Hexadron"
     },
@@ -45344,7 +45344,7 @@
     "id": 871,
     "name": {
       "english": "Pincurchin",
-      "japanease": "\u30d0\u30c1\u30f3\u30a6\u30cb",
+      "japanese": "\u30d0\u30c1\u30f3\u30a6\u30cb",
       "chinese": "\u556a\u5693\u6d77\u80c6",
       "french": "Wattapik"
     },
@@ -45377,7 +45377,7 @@
     "id": 872,
     "name": {
       "english": "Snom",
-      "japanease": "\u30e6\u30ad\u30cf\u30df",
+      "japanese": "\u30e6\u30ad\u30cf\u30df",
       "chinese": "\u96ea\u541e\u866b",
       "french": "Frissonille"
     },
@@ -45418,7 +45418,7 @@
     "id": 873,
     "name": {
       "english": "Frosmoth",
-      "japanease": "\u30e2\u30b9\u30ce\u30a6",
+      "japanese": "\u30e2\u30b9\u30ce\u30a6",
       "chinese": "\u96ea\u7ed2\u86fe",
       "french": "Beldeneige"
     },
@@ -45457,7 +45457,7 @@
     "id": 874,
     "name": {
       "english": "Stonjourner",
-      "japanease": "\u30a4\u30b7\u30d8\u30f3\u30b8\u30f3",
+      "japanese": "\u30a4\u30b7\u30d8\u30f3\u30b8\u30f3",
       "chinese": "\u5de8\u77f3\u4e01",
       "french": "Dolman"
     },
@@ -45486,7 +45486,7 @@
     "id": 875,
     "name": {
       "english": "Eiscue",
-      "japanease": "\u30b3\u30aa\u30ea\u30c3\u30dd",
+      "japanese": "\u30b3\u30aa\u30ea\u30c3\u30dd",
       "chinese": "\u51b0\u780c\u9e45",
       "french": "Bekagla\u00e7on"
     },
@@ -45515,7 +45515,7 @@
     "id": 876,
     "name": {
       "english": "Indeedee",
-      "japanease": "\u30a4\u30a8\u30c3\u30b5\u30f3",
+      "japanese": "\u30a4\u30a8\u30c3\u30b5\u30f3",
       "chinese": "\u7231\u7ba1\u4f8d",
       "french": "Wimessir"
     },
@@ -45553,7 +45553,7 @@
     "id": 877,
     "name": {
       "english": "Morpeko",
-      "japanease": "\u30e2\u30eb\u30da\u30b3",
+      "japanese": "\u30e2\u30eb\u30da\u30b3",
       "chinese": "\u83ab\u9c81\u8d1d\u53ef",
       "french": "Morpeko"
     },
@@ -45582,7 +45582,7 @@
     "id": 878,
     "name": {
       "english": "Cufant",
-      "japanease": "\u30be\u30a6\u30c9\u30a6",
+      "japanese": "\u30be\u30a6\u30c9\u30a6",
       "chinese": "\u94dc\u8c61",
       "french": "Charibari"
     },
@@ -45622,7 +45622,7 @@
     "id": 879,
     "name": {
       "english": "Copperajah",
-      "japanease": "\u30c0\u30a4\u30aa\u30a6\u30c9\u30a6",
+      "japanese": "\u30c0\u30a4\u30aa\u30a6\u30c9\u30a6",
       "chinese": "\u5927\u738b\u94dc\u8c61",
       "french": "Pachyradjah"
     },
@@ -45660,7 +45660,7 @@
     "id": 880,
     "name": {
       "english": "Dracozolt",
-      "japanease": "\u30d1\u30c3\u30c1\u30e9\u30b4\u30f3",
+      "japanese": "\u30d1\u30c3\u30c1\u30e9\u30b4\u30f3",
       "chinese": "\u96f7\u9e1f\u9f99",
       "french": "Galvagon"
     },
@@ -45698,7 +45698,7 @@
     "id": 881,
     "name": {
       "english": "Arctozolt",
-      "japanease": "\u30d1\u30c3\u30c1\u30eb\u30c9\u30f3",
+      "japanese": "\u30d1\u30c3\u30c1\u30eb\u30c9\u30f3",
       "chinese": "\u96f7\u9e1f\u6d77\u517d",
       "french": "Galvagla"
     },
@@ -45736,7 +45736,7 @@
     "id": 882,
     "name": {
       "english": "Dracovish",
-      "japanease": "\u30a6\u30aa\u30ce\u30e9\u30b4\u30f3",
+      "japanese": "\u30a6\u30aa\u30ce\u30e9\u30b4\u30f3",
       "chinese": "\u9cc3\u9c7c\u9f99",
       "french": "Hydragon"
     },
@@ -45774,7 +45774,7 @@
     "id": 883,
     "name": {
       "english": "Arctovish",
-      "japanease": "\u30a6\u30aa\u30c1\u30eb\u30c9\u30f3",
+      "japanese": "\u30a6\u30aa\u30c1\u30eb\u30c9\u30f3",
       "chinese": "\u9cc3\u9c7c\u6d77\u517d",
       "french": "Hydragla"
     },
@@ -45812,7 +45812,7 @@
     "id": 884,
     "name": {
       "english": "Duraludon",
-      "japanease": "\u30b8\u30e5\u30e9\u30eb\u30c9\u30f3",
+      "japanese": "\u30b8\u30e5\u30e9\u30eb\u30c9\u30f3",
       "chinese": "\u94dd\u94a2\u9f99",
       "french": "Duralugon"
     },
@@ -45850,7 +45850,7 @@
     "id": 885,
     "name": {
       "english": "Dreepy",
-      "japanease": "\u30c9\u30e9\u30e1\u30b7\u30e4",
+      "japanese": "\u30c9\u30e9\u30e1\u30b7\u30e4",
       "chinese": "\u591a\u9f99\u6885\u897f\u4e9a",
       "french": "Fantyrm"
     },
@@ -45895,7 +45895,7 @@
     "id": 886,
     "name": {
       "english": "Drakloak",
-      "japanease": "\u30c9\u30ed\u30f3\u30c1",
+      "japanese": "\u30c9\u30ed\u30f3\u30c1",
       "chinese": "\u591a\u9f99\u5947",
       "french": "Dispareptil"
     },
@@ -45944,7 +45944,7 @@
     "id": 887,
     "name": {
       "english": "Dragapult",
-      "japanease": "\u30c9\u30e9\u30d1\u30eb\u30c8",
+      "japanese": "\u30c9\u30e9\u30d1\u30eb\u30c8",
       "chinese": "\u591a\u9f99\u5df4\u9c81\u6258",
       "french": "Lanssorien"
     },
@@ -45987,7 +45987,7 @@
     "id": 888,
     "name": {
       "english": "Zacian",
-      "japanease": "\u30b6\u30b7\u30a2\u30f3",
+      "japanese": "\u30b6\u30b7\u30a2\u30f3",
       "chinese": "\u82cd\u54cd",
       "french": "Zacian"
     },
@@ -46016,7 +46016,7 @@
     "id": 889,
     "name": {
       "english": "Zamazenta",
-      "japanease": "\u30b6\u30de\u30bc\u30f3\u30bf",
+      "japanese": "\u30b6\u30de\u30bc\u30f3\u30bf",
       "chinese": "\u85cf\u739b\u7136\u7279",
       "french": "Zamazent"
     },
@@ -46045,7 +46045,7 @@
     "id": 890,
     "name": {
       "english": "Eternatus",
-      "japanease": "\u30e0\u30b2\u30f3\u30c0\u30a4\u30ca",
+      "japanese": "\u30e0\u30b2\u30f3\u30c0\u30a4\u30ca",
       "chinese": "\u65e0\u6781\u6c70\u90a3",
       "french": "\u00c9thernatos"
     },
@@ -46075,7 +46075,7 @@
     "id": 891,
     "name": {
       "english": "Kubfu",
-      "japanease": "\u30c0\u30af\u30de",
+      "japanese": "\u30c0\u30af\u30de",
       "chinese": "\u718a\u5f92\u5f1f",
       "french": "Wushours"
     },
@@ -46106,7 +46106,7 @@
     "id": 892,
     "name": {
       "english": "Urshifu",
-      "japanease": "\u30a6\u30fc\u30e9\u30aa\u30b9",
+      "japanese": "\u30a6\u30fc\u30e9\u30aa\u30b9",
       "chinese": "\u6b66\u9053\u718a\u5e08",
       "french": "Shifours"
     },
@@ -46138,7 +46138,7 @@
     "id": 893,
     "name": {
       "english": "Zarude",
-      "japanease": "\u30b6\u30eb\u30fc\u30c9",
+      "japanese": "\u30b6\u30eb\u30fc\u30c9",
       "chinese": "\u8428\u622e\u5fb7",
       "french": "Zarude"
     },
@@ -46168,7 +46168,7 @@
     "id": 894,
     "name": {
       "english": "Regieleki",
-      "japanease": "\u30ec\u30b8\u30a8\u30ec\u30ad",
+      "japanese": "\u30ec\u30b8\u30a8\u30ec\u30ad",
       "chinese": "\u96f7\u5409\u827e\u52d2\u5947",
       "french": "Regieleki"
     },
@@ -46197,7 +46197,7 @@
     "id": 895,
     "name": {
       "english": "Regidrago",
-      "japanease": "\u30ec\u30b8\u30c9\u30e9\u30b4",
+      "japanese": "\u30ec\u30b8\u30c9\u30e9\u30b4",
       "chinese": "\u96f7\u5409\u94ce\u62c9\u6208",
       "french": "Regidrago"
     },
@@ -46226,7 +46226,7 @@
     "id": 896,
     "name": {
       "english": "Glastrier",
-      "japanease": "\u30d6\u30ea\u30b6\u30dd\u30b9",
+      "japanese": "\u30d6\u30ea\u30b6\u30dd\u30b9",
       "chinese": "\u96ea\u66b4\u9a6c",
       "french": "Blizzeval"
     },
@@ -46255,7 +46255,7 @@
     "id": 897,
     "name": {
       "english": "Spectrier",
-      "japanease": "\u30ec\u30a4\u30b9\u30dd\u30b9",
+      "japanese": "\u30ec\u30a4\u30b9\u30dd\u30b9",
       "chinese": "\u7075\u5e7d\u9a6c",
       "french": "Spectreval"
     },
@@ -46284,7 +46284,7 @@
     "id": 898,
     "name": {
       "english": "Calyrex",
-      "japanease": "\u30d0\u30c9\u30ec\u30c3\u30af\u30b9",
+      "japanese": "\u30d0\u30c9\u30ec\u30c3\u30af\u30b9",
       "chinese": "\u857e\u51a0\u738b",
       "french": "Sylveroy"
     },
