@@ -1,5 +1,4 @@
-[
-  {
+[{
     "id": 1,
     "name": {
       "english": "Bulbasaur",
@@ -46085,7 +46084,16 @@
     "species": "Wushu Pok\u00e9mon",
     "description": "If Kubfu pulls the long white hair on its head, its fighting spirit heightens and power wells up from the depths of its belly.",
     "evolution": {
-      "next": []
+      "next": [
+        [
+          "892",
+          "Scroll of Darkness"
+        ],
+        [
+          "892",
+          "Scroll of Waters"
+        ]
+      ]
     },
     "profile": {
       "height": "1 m",
@@ -46117,7 +46125,10 @@
     "species": "Wushu Pok\u00e9mon",
     "description": "Inhabiting the mountains of a distant region, this Pokémon races across sheer cliffs, training its legs and refining its moves.",
     "evolution": {
-      "next": []
+      "prev": [
+        "892",
+        "Scroll of Darkness"
+      ]
     },
     "profile": {
       "height": "2 m",
