@@ -139,7 +139,7 @@
         "chinese": "妖精",
         "japanese": "フェアリー",
         "effective": ["Fighting", "Dragon", "Dark"],
-        "ineffective": ["Fire", "Poisin", "Steel"],
+        "ineffective": ["Fire", "Poison", "Steel"],
         "no_effect": []
     }
 ]
