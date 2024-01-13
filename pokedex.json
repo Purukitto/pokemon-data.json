@@ -29415,6 +29415,14 @@
       "chinese": "啪咚猴",
       "french": "Badabouin"
     },
+    "base": {
+      "HP": 70,
+      "Attack": 85,
+      "Defense": 70,
+      "Sp. Attack": 55,
+      "Sp. Defense": 60,
+      "Speed": 80
+    },
     "type": ["Grass"],
     "species": "Beat Pokémon",
     "description": "When it’s drumming out rapid beats in battle, it gets so caught up in the rhythm that it won’t even notice that it’s already knocked out its opponent.",
