@@ -29434,6 +29434,14 @@
       "chinese": "轰擂金刚猩",
       "french": "Gorythmic"
     },
+    "base": {
+      "HP": 100,
+      "Attack": 125,
+      "Defense": 90,
+      "Sp. Attack": 60,
+      "Sp. Defense": 70,
+      "Speed": 85
+    },
     "type": ["Grass"],
     "species": "Drummer Pokémon",
     "description": "The one with the best drumming techniques becomes the boss of the troop. It has a gentle disposition and values harmony among its group.",
